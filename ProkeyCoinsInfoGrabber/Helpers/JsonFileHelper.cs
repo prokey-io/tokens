@@ -21,13 +21,9 @@ namespace ProkeyCoinsInfoGrabber.Helpers
                 return FunctionalityResult.Error;
             }
             try
-            {
-                //Configuration
+            {               
                 if (!File.Exists(path))
                 {
-                    //using StreamWriter sw = new StreamWriter(path);
-                    //string appSettings_str = JsonSerializer.Serialize(instance, jsonSerializerOptions);
-                    //sw.Write(appSettings_str);
                     CreateFile(path, instance);
                 }
                 return FunctionalityResult.Succeed;
@@ -75,12 +71,9 @@ namespace ProkeyCoinsInfoGrabber.Helpers
             }
             try
             {
-                //Configuration
+              
                 if (!File.Exists(path))
                 {
-                    //using StreamWriter sw = new StreamWriter(path);
-                    //string appSettings_str = JsonSerializer.Serialize(instance, jsonSerializerOptions);
-                    //sw.Write(appSettings_str);
                     CreateFile(path, instance);
                 }
                 else

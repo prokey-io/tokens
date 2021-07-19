@@ -74,22 +74,7 @@ namespace ProkeyCoinsInfoGrabber
                 foreach (ERC20Token token in tokens)
                 {
                     string fileFullPath = Path.Combine(erc20DirectoryPath, token.address+".json");
-                    //if (!File.Exists(fileFullPath))
-                    //{
-                    //    JsonSerializerOptions jsonSrlzrOptions = new 
-                    //        JsonSerializerOptions (){
-
-                    //        WriteIndented = true,
-                    //        PropertyNamingPolicy = JsonNamingPolicy.CamelCase                           
-                    //    };
-                    //    string tokenJsonString = System.Text.Json.JsonSerializer.Serialize(token, jsonSrlzrOptions);
-                    //    File.WriteAllText(fileFullPath, tokenJsonString);
-                    //}
-                    //else
-                    //{
-                    //    ConsoleUtiliy.LogError($"A file named {token.address}.json, already exists, something must be wrong!");
-                    //    return FunctionalityResult.NotFound;
-                    //}
+                                        
                     FunctionalityResult initFileResult = JsonFileHelper<ERC20Token>.Init(fileFullPath, token);
                     if (initFileResult != FunctionalityResult.Succeed)
                     {

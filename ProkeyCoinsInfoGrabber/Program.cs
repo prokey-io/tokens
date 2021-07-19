@@ -1,4 +1,5 @@
-﻿using ProkeyCoinsInfoGrabber.Models;
+﻿using Microsoft.Extensions.Configuration;
+using ProkeyCoinsInfoGrabber.Models;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -15,32 +16,63 @@ namespace ProkeyCoinsInfoGrabber
     {
         //System.IO.Path.Combine(System.IO.Directory.GetParent(System.IO.Directory.GetCurrentDirectory()).Parent.Parent.Parent.FullName, "tokens\\eth");
         public static string ERC20TOKENS_DIRECTORY_PATH = "../../../../tokens/eth";
+        public static string APPSETTINGS_PATH = "../../../appsettings.json";
         public static int HOW_MANY_POPULAR_TOKEN_PAGES = 1;
         public static string COINGECKO_LISTCOINS_API_URL = "https://api.coingecko.com/api/v3/coins/list?include_platform=true";       
         public static string ETHPLORER_APIKEY = "";
-
+        public static IConfiguration Configuration;
         static void Main(string[] args)
-        {            
-            //Get eth directory file names(ERC20 Token addresses) as an array
-            List<string> erc20TokenfileName_List = GetPreExistingErc20Tokens(ERC20TOKENS_DIRECTORY_PATH);
-            List<CoinGeckoMarketCap> marketCaps = GetCoinGeckoMarketCap();
-            if (marketCaps != null && marketCaps.Count > 0)
+        {
+            //Configuration
+            if(!File.Exists(APPSETTINGS_PATH))
             {
-                List<ERC20Token> newErc20Tokens = GetNewPopularERC20Tokens(erc20TokenfileName_List, marketCaps);
-                if (newErc20Tokens != null && newErc20Tokens.Count > 0)
+                var fs = File.Create(APPSETTINGS_PATH);
+                fs.Close();
+                var appsettings = new AppSettings()
                 {
-                    FunctionalityResult result = StoreNewTokensInFile(newErc20Tokens, ERC20TOKENS_DIRECTORY_PATH);
-                    if (result == FunctionalityResult.Succeed)
+                    Ethplorer = new Ethplorer()
                     {
-                        ConsoleUtiliy.LogSuccess($"{newErc20Tokens.Count} json file(s) was/were stored successfully!");
+                        ApiKey = string.Empty
+                    }
+                };
+                JsonSerializerOptions jsonSerializerOptions = new JsonSerializerOptions
+                {
+                    WriteIndented = true
+                };
+                string appSettings_str = JsonSerializer.Serialize(appsettings);
+                File.WriteAllText(APPSETTINGS_PATH, appSettings_str);             
+            }
+            Configuration = new ConfigurationBuilder()
+                .AddJsonFile(APPSETTINGS_PATH, optional: true, reloadOnChange: true)
+                .Build();
+            ETHPLORER_APIKEY = Configuration.GetSection("Ethplorer")
+                .GetValue<string>("ApiKey");
+            if (!string.IsNullOrEmpty(ETHPLORER_APIKEY))
+            {
+                Console.WriteLine(ETHPLORER_APIKEY);
+            }
+            else
+            {
+                //Get eth directory file names(ERC20 Token addresses) as an array
+                List<string> erc20TokenfileName_List = GetPreExistingErc20Tokens(ERC20TOKENS_DIRECTORY_PATH);
+                List<CoinGeckoMarketCap> marketCaps = GetCoinGeckoMarketCap();
+                if (marketCaps != null && marketCaps.Count > 0)
+                {
+                    List<ERC20Token> newErc20Tokens = GetNewPopularERC20Tokens(erc20TokenfileName_List, marketCaps);
+                    if (newErc20Tokens != null && newErc20Tokens.Count > 0)
+                    {
+                        FunctionalityResult result = StoreNewTokensInFile(newErc20Tokens, ERC20TOKENS_DIRECTORY_PATH);
+                        if (result == FunctionalityResult.Succeed)
+                        {
+                            ConsoleUtiliy.LogSuccess($"{newErc20Tokens.Count} json file(s) was/were stored successfully!");
+                        }
+                    }
+                    else
+                    {
+                        ConsoleUtiliy.LogInfo($"There is'nt any new token(json file) to store");
                     }
                 }
-                else
-                {
-                    ConsoleUtiliy.LogInfo($"There is'nt any new token(json file) to store");
-                }
             }
-            
         }
 
         /// <summary>

@@ -10,10 +10,6 @@ namespace ProkeyCoinsInfoGrabber.Helpers
     {        
         public static FunctionalityResult Create(string path, T instance)
         {
-            JsonSerializerOptions jsonSerializerOptions = new JsonSerializerOptions
-            {
-                WriteIndented = true
-            };
             if (string.IsNullOrEmpty(path))
             {
                 ConsoleUtiliy.LogError($"Path is empty! can not create file in empty path");
@@ -29,9 +25,10 @@ namespace ProkeyCoinsInfoGrabber.Helpers
                 //Configuration
                 if (!File.Exists(path))
                 {
-                    using StreamWriter sw = new StreamWriter(path);
-                    string appSettings_str = JsonSerializer.Serialize(instance, jsonSerializerOptions);
-                    sw.Write(appSettings_str);
+                    //using StreamWriter sw = new StreamWriter(path);
+                    //string appSettings_str = JsonSerializer.Serialize(instance, jsonSerializerOptions);
+                    //sw.Write(appSettings_str);
+                    CreateFile(path, instance);
                 }
                 return FunctionalityResult.Succeed;
 
@@ -52,6 +49,66 @@ namespace ProkeyCoinsInfoGrabber.Helpers
             }
 
         }
+
+        public static void CreateFile(string path, T instance)
+        {
+            JsonSerializerOptions jsonSerializerOptions = new JsonSerializerOptions
+            {
+                WriteIndented = true
+            };
+            using StreamWriter sw = new StreamWriter(path);
+            string appSettings_str = JsonSerializer.Serialize(instance, jsonSerializerOptions);
+            sw.Write(appSettings_str);
+        }
+        public static FunctionalityResult Init(string path, T instance)
+        {
+            
+            if (string.IsNullOrEmpty(path))
+            {
+                ConsoleUtiliy.LogError($"Path is empty! can not create file in empty path");
+                return FunctionalityResult.Error;
+            }
+            if (instance == null)
+            {
+                ConsoleUtiliy.LogError($"Parameter is null!");
+                return FunctionalityResult.Error;
+            }
+            try
+            {
+                //Configuration
+                if (!File.Exists(path))
+                {
+                    //using StreamWriter sw = new StreamWriter(path);
+                    //string appSettings_str = JsonSerializer.Serialize(instance, jsonSerializerOptions);
+                    //sw.Write(appSettings_str);
+                    CreateFile(path, instance);
+                }
+                else
+                {
+                    ConsoleUtiliy.LogError($"{path} file already exists!");
+                    return FunctionalityResult.Failed;
+                }
+                return FunctionalityResult.Succeed;
+
+            }
+            catch (IOException ioExp)
+            {
+                ConsoleUtiliy.LogError($"IOException: {ioExp.Message}");
+                return FunctionalityResult.Exception;
+            }
+            catch (JsonException jsonExp)
+            {
+                ConsoleUtiliy.LogError($"JsonException: {jsonExp.Message}");
+                return FunctionalityResult.Exception;
+            }
+            catch (Exception exp)
+            {
+                ConsoleUtiliy.LogError($"Exception: {exp.Message}");
+                return FunctionalityResult.Exception;
+            }
+
+        }
+
 
         public static T DeserializeFile(string filePath)
         {

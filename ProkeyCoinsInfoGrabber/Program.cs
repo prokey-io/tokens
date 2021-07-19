@@ -1,4 +1,5 @@
-﻿using ProkeyCoinsInfoGrabber.Models;
+﻿using ProkeyCoinsInfoGrabber.Helpers;
+using ProkeyCoinsInfoGrabber.Models;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -21,58 +22,43 @@ namespace ProkeyCoinsInfoGrabber
         public static string ETHPLORER_APIKEY = "";
         static void Main(string[] args)
         {
-            //Configuration
-            if(!File.Exists(APPSETTINGS_PATH))
+            //Get Configuration Json File
+            FunctionalityResult appSettingsCreateResult = JsonFileHelper<AppSettings>.Create(APPSETTINGS_PATH, new AppSettings());
+            if (appSettingsCreateResult == FunctionalityResult.Succeed)
             {
-                using (StreamWriter sw = new StreamWriter(APPSETTINGS_PATH))
+                AppSettings appSettings = JsonFileHelper<AppSettings>.DeserializeFile(APPSETTINGS_PATH);
+                ETHPLORER_APIKEY = appSettings?.Ethplorer.ApiKey.Trim();
+
+                if (string.IsNullOrEmpty(ETHPLORER_APIKEY))
                 {
-                    var appsettings = new AppSettings()
-                    {
-                        Ethplorer = new Ethplorer()
-                        {
-                            ApiKey = string.Empty
-                        }
-                    };
-                    
-                    JsonSerializerOptions jsonSerializerOptions = new JsonSerializerOptions
-                    {
-                        WriteIndented = true
-                    };
-
-                    string appSettings_str = JsonSerializer.Serialize(appsettings, jsonSerializerOptions);
-                    sw.Write(appSettings_str);
+                    ConsoleUtiliy.LogError("Ethplorer key is empty in appsettings.json! Please place your Ethplorer api key.");
                 }
-            }
-
-            string appSettingsContent = File.ReadAllText(APPSETTINGS_PATH);
-            AppSettings appSettings = JsonSerializer.Deserialize<AppSettings>(appSettingsContent);
-            ETHPLORER_APIKEY = appSettings.Ethplorer.ApiKey.Trim();
-
-            if (string.IsNullOrEmpty(ETHPLORER_APIKEY))
-            {
-                ConsoleUtiliy.LogError("Ethplorer key is empty in appsettings.json! Please place your Ethplorer api key.");
+                else
+                {
+                    //Get eth directory file names(ERC20 Token addresses) as an array
+                    List<string> erc20TokenfileName_List = GetPreExistingErc20Tokens(ERC20TOKENS_DIRECTORY_PATH);
+                    List<CoinGeckoMarketCap> marketCaps = GetCoinGeckoMarketCap();
+                    if (marketCaps != null && marketCaps.Count > 0)
+                    {
+                        List<ERC20Token> newErc20Tokens = GetNewPopularERC20Tokens(erc20TokenfileName_List, marketCaps);
+                        if (newErc20Tokens != null && newErc20Tokens.Count > 0)
+                        {
+                            FunctionalityResult result = StoreNewTokensInFile(newErc20Tokens, ERC20TOKENS_DIRECTORY_PATH);
+                            if (result == FunctionalityResult.Succeed)
+                            {
+                                ConsoleUtiliy.LogSuccess($"{newErc20Tokens.Count} json file(s) was/were stored successfully!");
+                            }
+                        }
+                        else
+                        {
+                            ConsoleUtiliy.LogInfo($"There is'nt any new token(json file) to store");
+                        }
+                    }
+                }
             }
             else
             {
-                //Get eth directory file names(ERC20 Token addresses) as an array
-                List<string> erc20TokenfileName_List = GetPreExistingErc20Tokens(ERC20TOKENS_DIRECTORY_PATH);
-                List<CoinGeckoMarketCap> marketCaps = GetCoinGeckoMarketCap();
-                if (marketCaps != null && marketCaps.Count > 0)
-                {
-                    List<ERC20Token> newErc20Tokens = GetNewPopularERC20Tokens(erc20TokenfileName_List, marketCaps);
-                    if (newErc20Tokens != null && newErc20Tokens.Count > 0)
-                    {
-                        FunctionalityResult result = StoreNewTokensInFile(newErc20Tokens, ERC20TOKENS_DIRECTORY_PATH);
-                        if (result == FunctionalityResult.Succeed)
-                        {
-                            ConsoleUtiliy.LogSuccess($"{newErc20Tokens.Count} json file(s) was/were stored successfully!");
-                        }
-                    }
-                    else
-                    {
-                        ConsoleUtiliy.LogInfo($"There is'nt any new token(json file) to store");
-                    }
-                }
+                ConsoleUtiliy.LogError("Error in getting appsettings.json");
             }
         }
 
@@ -88,21 +74,26 @@ namespace ProkeyCoinsInfoGrabber
                 foreach (ERC20Token token in tokens)
                 {
                     string fileFullPath = Path.Combine(erc20DirectoryPath, token.address+".json");
-                    if (!File.Exists(fileFullPath))
+                    //if (!File.Exists(fileFullPath))
+                    //{
+                    //    JsonSerializerOptions jsonSrlzrOptions = new 
+                    //        JsonSerializerOptions (){
+
+                    //        WriteIndented = true,
+                    //        PropertyNamingPolicy = JsonNamingPolicy.CamelCase                           
+                    //    };
+                    //    string tokenJsonString = System.Text.Json.JsonSerializer.Serialize(token, jsonSrlzrOptions);
+                    //    File.WriteAllText(fileFullPath, tokenJsonString);
+                    //}
+                    //else
+                    //{
+                    //    ConsoleUtiliy.LogError($"A file named {token.address}.json, already exists, something must be wrong!");
+                    //    return FunctionalityResult.NotFound;
+                    //}
+                    FunctionalityResult initFileResult = JsonFileHelper<ERC20Token>.Init(fileFullPath, token);
+                    if (initFileResult != FunctionalityResult.Succeed)
                     {
-                        JsonSerializerOptions jsonSrlzrOptions = new 
-                            JsonSerializerOptions (){
-                            
-                            WriteIndented = true,
-                            PropertyNamingPolicy = JsonNamingPolicy.CamelCase                           
-                        };
-                        string tokenJsonString = System.Text.Json.JsonSerializer.Serialize(token, jsonSrlzrOptions);
-                        File.WriteAllText(fileFullPath, tokenJsonString);
-                    }
-                    else
-                    {
-                        ConsoleUtiliy.LogError($"A file named {token.address}.json, already exists, something must be wrong!");
-                        return FunctionalityResult.NotFound;
+                        return initFileResult;
                     }
                 }
                 return FunctionalityResult.Succeed;

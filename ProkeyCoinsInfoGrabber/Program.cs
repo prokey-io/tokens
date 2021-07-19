@@ -24,22 +24,26 @@ namespace ProkeyCoinsInfoGrabber
             //Configuration
             if(!File.Exists(APPSETTINGS_PATH))
             {
-                var fs = File.Create(APPSETTINGS_PATH);
-                fs.Close();
-                var appsettings = new AppSettings()
+                using (StreamWriter sw = new StreamWriter(APPSETTINGS_PATH))
                 {
-                    Ethplorer = new Ethplorer()
+                    var appsettings = new AppSettings()
                     {
-                        ApiKey = string.Empty
-                    }
-                };
-                JsonSerializerOptions jsonSerializerOptions = new JsonSerializerOptions
-                {
-                    WriteIndented = true
-                };
-                string appSettings_str = JsonSerializer.Serialize(appsettings, jsonSerializerOptions);
-                File.WriteAllText(APPSETTINGS_PATH, appSettings_str);             
+                        Ethplorer = new Ethplorer()
+                        {
+                            ApiKey = string.Empty
+                        }
+                    };
+                    
+                    JsonSerializerOptions jsonSerializerOptions = new JsonSerializerOptions
+                    {
+                        WriteIndented = true
+                    };
+
+                    string appSettings_str = JsonSerializer.Serialize(appsettings, jsonSerializerOptions);
+                    sw.Write(appSettings_str);
+                }
             }
+
             string appSettingsContent = File.ReadAllText(APPSETTINGS_PATH);
             AppSettings appSettings = JsonSerializer.Deserialize<AppSettings>(appSettingsContent);
             ETHPLORER_APIKEY = appSettings.Ethplorer.ApiKey.Trim();

@@ -56,7 +56,7 @@ namespace ProkeyCoinsInfoGrabber.Helpers
             string appSettings_str = JsonSerializer.Serialize(instance, jsonSerializerOptions);
             sw.Write(appSettings_str);
         }
-        public static FunctionalityResult Init(string path, T instance)
+        public static FunctionalityResult CreateIfNotExist(string path, T instance)
         {
             
             if (string.IsNullOrEmpty(path))

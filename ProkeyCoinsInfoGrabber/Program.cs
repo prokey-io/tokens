@@ -75,7 +75,7 @@ namespace ProkeyCoinsInfoGrabber
                 {
                     string fileFullPath = Path.Combine(erc20DirectoryPath, token.address+".json");
                                         
-                    FunctionalityResult initFileResult = JsonFileHelper<ERC20Token>.Init(fileFullPath, token);
+                    FunctionalityResult initFileResult = JsonFileHelper<ERC20Token>.CreateIfNotExist(fileFullPath, token);
                     if (initFileResult != FunctionalityResult.Succeed)
                     {
                         return initFileResult;

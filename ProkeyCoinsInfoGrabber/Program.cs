@@ -1,5 +1,4 @@
-﻿using Microsoft.Extensions.Configuration;
-using ProkeyCoinsInfoGrabber.Models;
+﻿using ProkeyCoinsInfoGrabber.Models;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -20,7 +19,6 @@ namespace ProkeyCoinsInfoGrabber
         public static int HOW_MANY_POPULAR_TOKEN_PAGES = 1;
         public static string COINGECKO_LISTCOINS_API_URL = "https://api.coingecko.com/api/v3/coins/list?include_platform=true";       
         public static string ETHPLORER_APIKEY = "";
-        public static IConfiguration Configuration;
         static void Main(string[] args)
         {
             //Configuration
@@ -39,17 +37,16 @@ namespace ProkeyCoinsInfoGrabber
                 {
                     WriteIndented = true
                 };
-                string appSettings_str = JsonSerializer.Serialize(appsettings);
+                string appSettings_str = JsonSerializer.Serialize(appsettings, jsonSerializerOptions);
                 File.WriteAllText(APPSETTINGS_PATH, appSettings_str);             
             }
-            Configuration = new ConfigurationBuilder()
-                .AddJsonFile(APPSETTINGS_PATH, optional: true, reloadOnChange: true)
-                .Build();
-            ETHPLORER_APIKEY = Configuration.GetSection("Ethplorer")
-                .GetValue<string>("ApiKey");
-            if (!string.IsNullOrEmpty(ETHPLORER_APIKEY))
+            string appSettingsContent = File.ReadAllText(APPSETTINGS_PATH);
+            AppSettings appSettings = JsonSerializer.Deserialize<AppSettings>(appSettingsContent);
+            ETHPLORER_APIKEY = appSettings.Ethplorer.ApiKey.Trim();
+
+            if (string.IsNullOrEmpty(ETHPLORER_APIKEY))
             {
-                Console.WriteLine(ETHPLORER_APIKEY);
+                ConsoleUtiliy.LogError("Ethplorer key is empty in appsettings.json! Please place your Ethplorer api key.");
             }
             else
             {

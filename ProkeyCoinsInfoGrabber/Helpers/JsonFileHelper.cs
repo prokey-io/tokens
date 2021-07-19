@@ -7,7 +7,14 @@ using System.Text.Json;
 namespace ProkeyCoinsInfoGrabber.Helpers
 {
     public static class JsonFileHelper<T>
-    {        
+    {
+        /// <summary>
+        /// if file exist return success
+        ///else Call CreateFile(Create Json file, serialize instance and write it to file)
+        /// </summary>
+        /// <param name="path"></param>
+        /// <param name="instance"></param>
+        /// <returns></returns>
         public static FunctionalityResult Create(string path, T instance)
         {
             if (string.IsNullOrEmpty(path))
@@ -46,6 +53,11 @@ namespace ProkeyCoinsInfoGrabber.Helpers
 
         }
 
+        /// <summary>
+        /// Create Json file, serialize instance and write it to file
+        /// </summary>
+        /// <param name="path"></param>
+        /// <param name="instance"></param>
         public static void CreateFile(string path, T instance)
         {
             JsonSerializerOptions jsonSerializerOptions = new JsonSerializerOptions
@@ -56,6 +68,14 @@ namespace ProkeyCoinsInfoGrabber.Helpers
             string appSettings_str = JsonSerializer.Serialize(instance, jsonSerializerOptions);
             sw.Write(appSettings_str);
         }
+
+        /// <summary>
+        /// if file exist return Failed
+        /// else Call CreateFile(Create Json file, serialize instance and write it to file)
+        /// </summary>
+        /// <param name="path"></param>
+        /// <param name="instance"></param>
+        /// <returns></returns>
         public static FunctionalityResult CreateIfNotExist(string path, T instance)
         {
             
@@ -102,7 +122,11 @@ namespace ProkeyCoinsInfoGrabber.Helpers
 
         }
 
-
+        /// <summary>
+        /// Deserialize json content of file to T type
+        /// </summary>
+        /// <param name="filePath"></param>
+        /// <returns></returns>
         public static T DeserializeFile(string filePath)
         {
             if(!File.Exists(filePath))

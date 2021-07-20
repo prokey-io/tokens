@@ -42,8 +42,8 @@ namespace ProkeyCoinsInfoGrabber
                     {
                         List<ERC20Token> newErc20Tokens = GetNewPopularERC20Tokens(erc20TokenfileName_List, marketCaps);
                         if (newErc20Tokens != null && newErc20Tokens.Count > 0)
-                        {
-                            FunctionalityResult result = StoreNewTokensInFile(newErc20Tokens, ERC20TOKENS_DIRECTORY_PATH);
+                        {                            
+                            FunctionalityResult result = JsonFileHelper<ERC20Token>.StoreTokensInFile(newErc20Tokens, ERC20TOKENS_DIRECTORY_PATH);
                             if (result == FunctionalityResult.Succeed)
                             {
                                 ConsoleUtiliy.LogSuccess($"{newErc20Tokens.Count} json file(s) was/were stored successfully!");
@@ -61,34 +61,7 @@ namespace ProkeyCoinsInfoGrabber
                 ConsoleUtiliy.LogError("Error in getting appsettings.json");
             }
         }
-
-        /// <summary>
-        /// Store new tokens in json files
-        /// </summary>
-        /// <param name="tokens"></param>
-        /// <returns></returns>
-        private static FunctionalityResult StoreNewTokensInFile(List<ERC20Token> tokens, string erc20DirectoryPath)
-        {
-            if(Directory.Exists(erc20DirectoryPath))
-            {
-                foreach (ERC20Token token in tokens)
-                {
-                    string fileFullPath = Path.Combine(erc20DirectoryPath, token.address+".json");
-                                        
-                    FunctionalityResult initFileResult = JsonFileHelper<ERC20Token>.CreateIfNotExist(fileFullPath, token);
-                    if (initFileResult != FunctionalityResult.Succeed)
-                    {
-                        return initFileResult;
-                    }
-                }
-                return FunctionalityResult.Succeed;
-            }
-            else
-            {
-                return FunctionalityResult.NotFound;
-            }
-        }
-
+                
         /// <summary>
         /// Get pre-existing erc20 tokens from token/eth
         /// </summary>

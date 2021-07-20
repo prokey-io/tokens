@@ -1,6 +1,7 @@
 ﻿
 using ProkeyCoinsInfoGrabber.Models;
 using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Text.Json;
 
@@ -155,5 +156,48 @@ namespace ProkeyCoinsInfoGrabber.Helpers
                 return default;
             }
         }
+
+        /// <summary>
+        /// Store tokens/coins in json files
+        /// </summary>
+        /// <param name="tokens"></param>
+        /// <returns></returns>
+        public static FunctionalityResult StoreTokensInFile(List<T> tokens, string directoryPath)
+        {
+            if (Directory.Exists(directoryPath))
+            {
+                foreach (T token in tokens)
+                {
+                    string filePath = string.Empty;
+                    switch (token)
+                    {
+                        case ERC20Token erc20Token:
+                            filePath = Path.Combine(directoryPath, erc20Token.address+".json");
+                            break;
+
+                        default:
+                            break;
+                    }
+                    if(string.IsNullOrEmpty(filePath))
+                    {
+                        ConsoleUtiliy.LogError($"File name can not be null!");
+                        return FunctionalityResult.Failed;
+                    }
+
+                    FunctionalityResult initFileResult = JsonFileHelper<T>.CreateIfNotExist(filePath, token);
+                    if (initFileResult != FunctionalityResult.Succeed)
+                    {
+                        return initFileResult;
+                    }
+                }
+                return FunctionalityResult.Succeed;
+            }
+            else
+            {
+                ConsoleUtiliy.LogError($"{directoryPath} directory path not found!");
+                return FunctionalityResult.NotFound;
+            }
+        }
+
     }
 }

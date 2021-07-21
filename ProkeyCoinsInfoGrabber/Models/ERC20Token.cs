@@ -1,4 +1,5 @@
 ﻿
+using System;
 using System.ComponentModel.DataAnnotations;
 using System.Text.Json.Serialization;
 
@@ -45,6 +46,33 @@ namespace ProkeyCoinsInfoGrabber.Models
             social.telegram = tokenInfo.telegram ?? string.Empty;
             social.reddit = tokenInfo.reddit ?? string.Empty;
             social.twitter = tokenInfo.twitter ?? string.Empty;
+        }
+
+        internal void Map(CoingeckoCoinApiResponse coinInfo)
+        {
+            //if (coinInfo.links.chat_url != null && coinInfo.links.chat_url.Length > 0)
+            //{
+            //    if (!string.IsNullOrEmpty(coinInfo.links.chat_url[0]))
+            //    {
+            //        social.chat = coinInfo.links.chat_url[0];
+            //    }
+
+            //}
+            social.chat = coinInfo?.links?.chat_url?[0]?? string.Empty;
+
+            //if (coinInfo.links.repos_url != null)
+            //{
+            //    if (coinInfo.links.repos_url.github != null && coinInfo.links.repos_url.github.Length>0)
+            //    {
+            //        social.github = coinInfo.links.repos_url.github[0];
+            //    }
+            //}
+            social.github = coinInfo?.links?.repos_url?.github?[0] ?? string.Empty;
+
+            website = coinInfo?.links?.homepage?[0] ?? string.Empty;
+            social.facebook = coinInfo?.links?.facebook_username ?? string.Empty;
+            social.reddit = coinInfo?.links?.subreddit_url ?? string.Empty;
+            social.twitter = coinInfo?.links?.twitter_screen_name ?? string.Empty;
         }
     }
     class ERC20TokenLogo

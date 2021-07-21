@@ -285,7 +285,7 @@ namespace ProkeyCoinsInfoGrabber
                     HttpResponseMessage coingeckoResponse = httpClient.GetAsync(coingeckoCoinUrl).Result;
                     responseContent = coingeckoResponse.Content.ReadAsStringAsync().Result;
                     CoingeckoCoinApiResponse coinInfo = System.Text.Json.JsonSerializer.Deserialize<CoingeckoCoinApiResponse>(responseContent);
-                    //erc20Token.Map(tokenInfo);
+                    erc20Token.Map(coinInfo);
                     #endregion
 
                     //Get decimal from ethplorer

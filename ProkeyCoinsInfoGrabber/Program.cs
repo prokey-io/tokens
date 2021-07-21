@@ -204,6 +204,7 @@ namespace ProkeyCoinsInfoGrabber
                                 //chain_identifier: 1,
                                 //name: "Ethereum",
                                 //chain_id = 1,
+                                id = coin.id,
                                 address = coin.platforms.ethereum,
                                 symbol = marketCapInfoItem.symbol,
                                 decimals = 8, //int.Parse(coindecimal),

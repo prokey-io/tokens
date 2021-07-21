@@ -1,11 +1,13 @@
 ﻿
-using System;
 using System.ComponentModel.DataAnnotations;
+using System.Text.Json.Serialization;
 
 namespace ProkeyCoinsInfoGrabber.Models
 {
     class ERC20Token
     {
+        [JsonIgnore]
+        public string id { get; set; }
         public string symbol { get; set; } = string.Empty;
 
         //"address": "0x0000000000b3F879cb30FE243b4Dfee438691c04",

@@ -34,12 +34,12 @@ namespace ProkeyCoinsInfoGrabber.Models
         public void Map(EthplorerGetTokenInfoApiResponse tokenInfo)
         {
             decimals = int.Parse(tokenInfo.decimals);
-            website = tokenInfo.website;
-            logo.src = "https://ethplorer.io" + tokenInfo.image;
-            social.facebook = tokenInfo.facebook;
-            social.telegram = tokenInfo.telegram;
-            social.reddit = tokenInfo.reddit;
-            social.twitter = tokenInfo.twitter;
+            website = tokenInfo.website ?? string.Empty;
+            logo.src = (!string.IsNullOrEmpty(tokenInfo.image))?"https://ethplorer.io" + tokenInfo.image: string.Empty;
+            social.facebook = tokenInfo.facebook ?? string.Empty;
+            social.telegram = tokenInfo.telegram ?? string.Empty;
+            social.reddit = tokenInfo.reddit ?? string.Empty;
+            social.twitter = tokenInfo.twitter ?? string.Empty;
         }
     }
     class ERC20TokenLogo

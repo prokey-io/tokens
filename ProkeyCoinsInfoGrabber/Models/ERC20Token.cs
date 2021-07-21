@@ -35,7 +35,10 @@ namespace ProkeyCoinsInfoGrabber.Models
         {
             decimals = int.Parse(tokenInfo.decimals);
             website = tokenInfo.website ?? string.Empty;
-            logo.src = (!string.IsNullOrEmpty(tokenInfo.image))?"https://ethplorer.io" + tokenInfo.image: string.Empty;
+            //get image from coingecko instead of ethplorer
+            if(string.IsNullOrEmpty(logo.src))
+                logo.src = (!string.IsNullOrEmpty(tokenInfo.image))?"https://ethplorer.io" + tokenInfo.image: string.Empty;
+
             social.facebook = tokenInfo.facebook ?? string.Empty;
             social.telegram = tokenInfo.telegram ?? string.Empty;
             social.reddit = tokenInfo.reddit ?? string.Empty;

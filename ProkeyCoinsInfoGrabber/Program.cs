@@ -196,6 +196,7 @@ namespace ProkeyCoinsInfoGrabber
                         if (coin != null)
                         {
                             //Add Coin to erc list
+                            string imageSrc = marketCapInfoItem.image?.Split("?").FirstOrDefault();
                             erc20TokensList.Add(new ERC20Token()
                             {
                                 //https://api.coingecko.com/api/v3/asset_platforms
@@ -207,9 +208,13 @@ namespace ProkeyCoinsInfoGrabber
                                 symbol = marketCapInfoItem.symbol,
                                 decimals = 8, //int.Parse(coindecimal),
                                 name = marketCapInfoItem.name,
-                                //priority = marketCapInfoItem.market_cap_rank.HasValue ? marketCapInfoItem.market_cap_rank.Value : 100,
-                                //hasLanding = landingPages.Any(l => l == marketCapInfoItem.name),
-                            });
+                                logo = new ERC20TokenLogo()
+                                {
+                                    src = imageSrc
+                                }
+                            //priority = marketCapInfoItem.market_cap_rank.HasValue ? marketCapInfoItem.market_cap_rank.Value : 100,
+                            //hasLanding = landingPages.Any(l => l == marketCapInfoItem.name),
+                        });
                         }
                     }                   
                 }

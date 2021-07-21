@@ -30,6 +30,17 @@ namespace ProkeyCoinsInfoGrabber.Models
 
         //"social": {
         public ERC20TokenSocial social { get; set; } = new ERC20TokenSocial();
+
+        public void Map(EthplorerGetTokenInfoApiResponse tokenInfo)
+        {
+            decimals = int.Parse(tokenInfo.decimals);
+            website = tokenInfo.website;
+            logo.src = "https://ethplorer.io" + tokenInfo.image;
+            social.facebook = tokenInfo.facebook;
+            social.telegram = tokenInfo.telegram;
+            social.reddit = tokenInfo.reddit;
+            social.twitter = tokenInfo.twitter;
+        }
     }
     class ERC20TokenLogo
     {

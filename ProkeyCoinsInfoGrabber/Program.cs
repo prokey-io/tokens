@@ -277,7 +277,7 @@ namespace ProkeyCoinsInfoGrabber
                     HttpResponseMessage response = httpClient.GetAsync(url).Result;
                     responseContent = response.Content.ReadAsStringAsync().Result;
                     EthplorerGetTokenInfoApiResponse tokenInfo = System.Text.Json.JsonSerializer.Deserialize<EthplorerGetTokenInfoApiResponse>(responseContent);
-                    erc20Token.decimals = int.Parse(tokenInfo.decimals);
+                    erc20Token.Map(tokenInfo);
                     i++;
                 }
                 catch (System.Text.Json.JsonException)

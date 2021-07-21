@@ -248,7 +248,7 @@ namespace ProkeyCoinsInfoGrabber
 
             //3- get some info such as decimal from ethplorer 
             #region  3- get some info such as decimal from ethplorer
-            FunctionalityResult result = GetDecimalFromEthplorerApi(newERC20Token_List);
+            FunctionalityResult result = GetTokenInfoEthplorerAndCoinGeckoApi(newERC20Token_List);
             if (result == FunctionalityResult.Succeed)
             {
                 if (newERC20Token_List.Count > 0)
@@ -268,7 +268,7 @@ namespace ProkeyCoinsInfoGrabber
         /// </summary>
         /// <param name="tokens"></param>
         /// <returns></returns>
-        private static FunctionalityResult GetDecimalFromEthplorerApi(List<ERC20Token> tokens)
+        private static FunctionalityResult GetTokenInfoEthplorerAndCoinGeckoApi(List<ERC20Token> tokens)
         {
             using HttpClient httpClient = new HttpClient();
             string responseContent = string.Empty;
@@ -278,12 +278,26 @@ namespace ProkeyCoinsInfoGrabber
             {
                 try
                 {
-                    string url = $"https://api.ethplorer.io/getTokenInfo/{erc20Token.address}?apiKey={ETHPLORER_APIKEY}";
+                    //Get social from coingecko
+                    #region Get social from coingecko
+                    string coingeckoCoinUrl = $"https://api.coingecko.com/api/v3/coins/{erc20Token.id}?localization=false&tickers=false&market_data=false&community_data=true&developer_data=false&sparkline=false";
+                    ConsoleUtiliy.LogInfo($"Get {i} of {tokens.Count} tokens info(https://api.coingecko.com/api/v3/coins/{erc20Token.id})");
+                    HttpResponseMessage coingeckoResponse = httpClient.GetAsync(coingeckoCoinUrl).Result;
+                    responseContent = coingeckoResponse.Content.ReadAsStringAsync().Result;
+                    CoingeckoCoinApiResponse coinInfo = System.Text.Json.JsonSerializer.Deserialize<CoingeckoCoinApiResponse>(responseContent);
+                    //erc20Token.Map(tokenInfo);
+                    #endregion
+
+                    //Get decimal from ethplorer
+                    #region Get decimal from ethplorer
+                    string ethplorerUrl = $"https://api.ethplorer.io/getTokenInfo/{erc20Token.address}?apiKey={ETHPLORER_APIKEY}";
                     ConsoleUtiliy.LogInfo($"Get {i} of {tokens.Count} tokens info(https://api.ethplorer.io/getTokenInfo/{erc20Token.address})");
-                    HttpResponseMessage response = httpClient.GetAsync(url).Result;
+                    HttpResponseMessage response = httpClient.GetAsync(ethplorerUrl).Result;
                     responseContent = response.Content.ReadAsStringAsync().Result;
                     EthplorerGetTokenInfoApiResponse tokenInfo = System.Text.Json.JsonSerializer.Deserialize<EthplorerGetTokenInfoApiResponse>(responseContent);
                     erc20Token.Map(tokenInfo);
+                    #endregion
+                   
                     i++;
                 }
                 catch (System.Text.Json.JsonException)

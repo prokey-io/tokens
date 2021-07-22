@@ -37,15 +37,30 @@ namespace ProkeyCoinsInfoGrabber.Models
         public void Map(EthplorerGetTokenInfoApiResponse tokenInfo)
         {
             decimals = int.Parse(tokenInfo.decimals);
-            website = tokenInfo.website ?? string.Empty;
-            //get image from coingecko instead of ethplorer
-            if(string.IsNullOrEmpty(logo.src))
+
+            //Coingecko is prefered than website
+            // HardRead 
+            //website = (string.IsNullOrEmpty(website))? tokenInfo.website ?? string.Empty : website;
+            if (string.IsNullOrEmpty(website)) 
+                website = tokenInfo.website ?? string.Empty;
+            //Coingecko is prefered than ethplorer for image
+            if (string.IsNullOrEmpty(logo.src))
                 logo.src = (!string.IsNullOrEmpty(tokenInfo.image))?"https://ethplorer.io" + tokenInfo.image: string.Empty;
 
-            social.facebook = tokenInfo.facebook ?? string.Empty;
+            //Coingecko is prefered than facebook
+            if(string.IsNullOrEmpty(social?.facebook))
+                social.facebook = tokenInfo.facebook ?? string.Empty;
+
+            //Coingecko is prefered than reddit
+            if(string.IsNullOrEmpty(social?.reddit))
+                social.reddit = tokenInfo.reddit ?? string.Empty;
+
+            //Coingecko is prefered than ethplorer for twitter
+            if(string.IsNullOrEmpty(social?.twitter))
+                social.twitter = tokenInfo.twitter ?? string.Empty;
+
             social.telegram = tokenInfo.telegram ?? string.Empty;
-            social.reddit = tokenInfo.reddit ?? string.Empty;
-            social.twitter = tokenInfo.twitter ?? string.Empty;
+            
         }
 
         internal void Map(CoingeckoCoinApiResponse coinInfo)

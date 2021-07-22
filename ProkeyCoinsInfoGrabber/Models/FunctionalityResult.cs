@@ -1,7 +1,7 @@
 ﻿
 namespace ProkeyCoinsInfoGrabber.Models
 {
-    enum FunctionalityResult
+    public enum FunctionalityResult
     {
         Succeed,
         Failed,

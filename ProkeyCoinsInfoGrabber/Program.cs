@@ -1,4 +1,5 @@
-﻿using ProkeyCoinsInfoGrabber.Models;
+﻿using ProkeyCoinsInfoGrabber.Helpers;
+using ProkeyCoinsInfoGrabber.Models;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -21,98 +22,46 @@ namespace ProkeyCoinsInfoGrabber
         public static string ETHPLORER_APIKEY = "";
         static void Main(string[] args)
         {
-            //Configuration
-            if(!File.Exists(APPSETTINGS_PATH))
+            //Get Configuration Json File
+            FunctionalityResult appSettingsCreateResult = JsonFileHelper<AppSettings>.Create(APPSETTINGS_PATH, new AppSettings());
+            if (appSettingsCreateResult == FunctionalityResult.Succeed)
             {
-                using (StreamWriter sw = new StreamWriter(APPSETTINGS_PATH))
+                AppSettings appSettings = JsonFileHelper<AppSettings>.DeserializeFile(APPSETTINGS_PATH);
+                ETHPLORER_APIKEY = appSettings?.Ethplorer.ApiKey.Trim();
+
+                if (string.IsNullOrEmpty(ETHPLORER_APIKEY))
                 {
-                    var appsettings = new AppSettings()
-                    {
-                        Ethplorer = new Ethplorer()
-                        {
-                            ApiKey = string.Empty
-                        }
-                    };
-                    
-                    JsonSerializerOptions jsonSerializerOptions = new JsonSerializerOptions
-                    {
-                        WriteIndented = true
-                    };
-
-                    string appSettings_str = JsonSerializer.Serialize(appsettings, jsonSerializerOptions);
-                    sw.Write(appSettings_str);
+                    ConsoleUtiliy.LogError("Ethplorer key is empty in appsettings.json! Please place your Ethplorer api key.");
                 }
-            }
-
-            string appSettingsContent = File.ReadAllText(APPSETTINGS_PATH);
-            AppSettings appSettings = JsonSerializer.Deserialize<AppSettings>(appSettingsContent);
-            ETHPLORER_APIKEY = appSettings.Ethplorer.ApiKey.Trim();
-
-            if (string.IsNullOrEmpty(ETHPLORER_APIKEY))
-            {
-                ConsoleUtiliy.LogError("Ethplorer key is empty in appsettings.json! Please place your Ethplorer api key.");
+                else
+                {
+                    //Get eth directory file names(ERC20 Token addresses) as an array
+                    List<string> erc20TokenfileName_List = GetPreExistingErc20Tokens(ERC20TOKENS_DIRECTORY_PATH);
+                    List<CoinGeckoMarketCap> marketCaps = GetCoinGeckoMarketCap();
+                    if (marketCaps != null && marketCaps.Count > 0)
+                    {
+                        List<ERC20Token> newErc20Tokens = GetNewPopularERC20Tokens(erc20TokenfileName_List, marketCaps);
+                        if (newErc20Tokens != null && newErc20Tokens.Count > 0)
+                        {                            
+                            FunctionalityResult result = JsonFileHelper<ERC20Token>.StoreTokensInFile(newErc20Tokens, ERC20TOKENS_DIRECTORY_PATH);
+                            if (result == FunctionalityResult.Succeed)
+                            {
+                                ConsoleUtiliy.LogSuccess($"{newErc20Tokens.Count} json file(s) was/were stored successfully!");
+                            }
+                        }
+                        else
+                        {
+                            ConsoleUtiliy.LogInfo($"There is'nt any new token(json file) to store");
+                        }
+                    }
+                }
             }
             else
             {
-                //Get eth directory file names(ERC20 Token addresses) as an array
-                List<string> erc20TokenfileName_List = GetPreExistingErc20Tokens(ERC20TOKENS_DIRECTORY_PATH);
-                List<CoinGeckoMarketCap> marketCaps = GetCoinGeckoMarketCap();
-                if (marketCaps != null && marketCaps.Count > 0)
-                {
-                    List<ERC20Token> newErc20Tokens = GetNewPopularERC20Tokens(erc20TokenfileName_List, marketCaps);
-                    if (newErc20Tokens != null && newErc20Tokens.Count > 0)
-                    {
-                        FunctionalityResult result = StoreNewTokensInFile(newErc20Tokens, ERC20TOKENS_DIRECTORY_PATH);
-                        if (result == FunctionalityResult.Succeed)
-                        {
-                            ConsoleUtiliy.LogSuccess($"{newErc20Tokens.Count} json file(s) was/were stored successfully!");
-                        }
-                    }
-                    else
-                    {
-                        ConsoleUtiliy.LogInfo($"There is'nt any new token(json file) to store");
-                    }
-                }
+                ConsoleUtiliy.LogError("Error in getting appsettings.json");
             }
         }
-
-        /// <summary>
-        /// Store new tokens in json files
-        /// </summary>
-        /// <param name="tokens"></param>
-        /// <returns></returns>
-        private static FunctionalityResult StoreNewTokensInFile(List<ERC20Token> tokens, string erc20DirectoryPath)
-        {
-            if(Directory.Exists(erc20DirectoryPath))
-            {
-                foreach (ERC20Token token in tokens)
-                {
-                    string fileFullPath = Path.Combine(erc20DirectoryPath, token.address+".json");
-                    if (!File.Exists(fileFullPath))
-                    {
-                        JsonSerializerOptions jsonSrlzrOptions = new 
-                            JsonSerializerOptions (){
-                            
-                            WriteIndented = true,
-                            PropertyNamingPolicy = JsonNamingPolicy.CamelCase                           
-                        };
-                        string tokenJsonString = System.Text.Json.JsonSerializer.Serialize(token, jsonSrlzrOptions);
-                        File.WriteAllText(fileFullPath, tokenJsonString);
-                    }
-                    else
-                    {
-                        ConsoleUtiliy.LogError($"A file named {token.address}.json, already exists, something must be wrong!");
-                        return FunctionalityResult.NotFound;
-                    }
-                }
-                return FunctionalityResult.Succeed;
-            }
-            else
-            {
-                return FunctionalityResult.NotFound;
-            }
-        }
-
+                
         /// <summary>
         /// Get pre-existing erc20 tokens from token/eth
         /// </summary>
@@ -247,6 +196,7 @@ namespace ProkeyCoinsInfoGrabber
                         if (coin != null)
                         {
                             //Add Coin to erc list
+                            string imageSrc = marketCapInfoItem.image?.Split("?").FirstOrDefault();
                             erc20TokensList.Add(new ERC20Token()
                             {
                                 //https://api.coingecko.com/api/v3/asset_platforms
@@ -254,13 +204,18 @@ namespace ProkeyCoinsInfoGrabber
                                 //chain_identifier: 1,
                                 //name: "Ethereum",
                                 //chain_id = 1,
+                                id = coin.id,
                                 address = coin.platforms.ethereum,
                                 symbol = marketCapInfoItem.symbol,
                                 decimals = 8, //int.Parse(coindecimal),
                                 name = marketCapInfoItem.name,
-                                //priority = marketCapInfoItem.market_cap_rank.HasValue ? marketCapInfoItem.market_cap_rank.Value : 100,
-                                //hasLanding = landingPages.Any(l => l == marketCapInfoItem.name),
-                            });
+                                logo = new ERC20TokenLogo()
+                                {
+                                    src = imageSrc
+                                }
+                            //priority = marketCapInfoItem.market_cap_rank.HasValue ? marketCapInfoItem.market_cap_rank.Value : 100,
+                            //hasLanding = landingPages.Any(l => l == marketCapInfoItem.name),
+                        });
                         }
                     }                   
                 }
@@ -293,7 +248,7 @@ namespace ProkeyCoinsInfoGrabber
 
             //3- get some info such as decimal from ethplorer 
             #region  3- get some info such as decimal from ethplorer
-            FunctionalityResult result = GetDecimalFromEthplorerApi(newERC20Token_List);
+            FunctionalityResult result = GetTokenInfoEthplorerAndCoinGeckoApi(newERC20Token_List);
             if (result == FunctionalityResult.Succeed)
             {
                 if (newERC20Token_List.Count > 0)
@@ -313,7 +268,7 @@ namespace ProkeyCoinsInfoGrabber
         /// </summary>
         /// <param name="tokens"></param>
         /// <returns></returns>
-        private static FunctionalityResult GetDecimalFromEthplorerApi(List<ERC20Token> tokens)
+        private static FunctionalityResult GetTokenInfoEthplorerAndCoinGeckoApi(List<ERC20Token> tokens)
         {
             using HttpClient httpClient = new HttpClient();
             string responseContent = string.Empty;
@@ -323,12 +278,26 @@ namespace ProkeyCoinsInfoGrabber
             {
                 try
                 {
-                    string url = $"https://api.ethplorer.io/getTokenInfo/{erc20Token.address}?apiKey={ETHPLORER_APIKEY}";
+                    //Get social from coingecko
+                    #region Get social from coingecko
+                    string coingeckoCoinUrl = $"https://api.coingecko.com/api/v3/coins/{erc20Token.id}?localization=false&tickers=false&market_data=false&community_data=true&developer_data=false&sparkline=false";
+                    ConsoleUtiliy.LogInfo($"Get {i} of {tokens.Count} tokens info(https://api.coingecko.com/api/v3/coins/{erc20Token.id})");
+                    HttpResponseMessage coingeckoResponse = httpClient.GetAsync(coingeckoCoinUrl).Result;
+                    responseContent = coingeckoResponse.Content.ReadAsStringAsync().Result;
+                    CoingeckoCoinApiResponse coinInfo = System.Text.Json.JsonSerializer.Deserialize<CoingeckoCoinApiResponse>(responseContent);
+                    erc20Token.Map(coinInfo);
+                    #endregion
+
+                    //Get decimal from ethplorer
+                    #region Get decimal from ethplorer
+                    string ethplorerUrl = $"https://api.ethplorer.io/getTokenInfo/{erc20Token.address}?apiKey={ETHPLORER_APIKEY}";
                     ConsoleUtiliy.LogInfo($"Get {i} of {tokens.Count} tokens info(https://api.ethplorer.io/getTokenInfo/{erc20Token.address})");
-                    HttpResponseMessage response = httpClient.GetAsync(url).Result;
+                    HttpResponseMessage response = httpClient.GetAsync(ethplorerUrl).Result;
                     responseContent = response.Content.ReadAsStringAsync().Result;
                     EthplorerGetTokenInfoApiResponse tokenInfo = System.Text.Json.JsonSerializer.Deserialize<EthplorerGetTokenInfoApiResponse>(responseContent);
-                    erc20Token.decimals = int.Parse(tokenInfo.decimals);
+                    erc20Token.Map(tokenInfo);
+                    #endregion
+                   
                     i++;
                 }
                 catch (System.Text.Json.JsonException)

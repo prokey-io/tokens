@@ -1,0 +1,34 @@
+{
+  "symbol": "INJ",
+  "address": "0xe28b3b32b6c345a34ff64674606124dd5aceca30",
+  "decimals": 18,
+  "name": "Injective Protocol",
+  "ens_address": "",
+  "website": "https://injectiveprotocol.com/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12882/large/Injective_Icon.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.com/invite/NK4qdbv",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/injective/",
+    "slack": "",
+    "telegram": "https://t.me/joininjective",
+    "twitter": "InjectiveLabs",
+    "youtube": ""
+  }
+}

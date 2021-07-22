@@ -1,0 +1,34 @@
+{
+  "symbol": "META",
+  "address": "0xde2f7766c8bf14ca67193128535e5c7454f8387c",
+  "decimals": 18,
+  "name": "Metadium",
+  "ens_address": "",
+  "website": "https://metadium.com",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/5247/large/META_Logo_black.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "Metadium",
+    "forum": "",
+    "github": "https://github.com/METADIUM/go-metadium",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/metadiumprotocol/",
+    "slack": "",
+    "telegram": "https://t.me/MetadiumOfficial",
+    "twitter": "metadiumg",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "NXM",
+  "address": "0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b",
+  "decimals": 18,
+  "name": "Nexus Mutual",
+  "ens_address": "",
+  "website": "https://nexusmutual.io/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11810/large/nexus-mutual.jpg",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.gg/xxFaAEn",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/K_g-fA-3CmFwXumCKQUXkw",
+    "twitter": "NexusMutual",
+    "youtube": ""
+  }
+}

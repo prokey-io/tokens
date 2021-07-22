@@ -1,0 +1,34 @@
+{
+  "symbol": "CREAM",
+  "address": "0x2ba592f78db6436527729929aaf6c908497cb200",
+  "decimals": 18,
+  "name": "Cream",
+  "ens_address": "",
+  "website": "https://cream.finance/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11976/large/Cream.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.com/invite/8Ms25mV",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/CreamdotFinance",
+    "twitter": "CreamdotFinance",
+    "youtube": ""
+  }
+}

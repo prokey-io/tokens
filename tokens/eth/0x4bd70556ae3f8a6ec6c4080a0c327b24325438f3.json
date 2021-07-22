@@ -1,0 +1,34 @@
+{
+  "symbol": "HXRO",
+  "address": "0x4bd70556ae3f8a6ec6c4080a0c327b24325438f3",
+  "decimals": 18,
+  "name": "Hxro",
+  "ens_address": "",
+  "website": "https://hxro.io/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/7805/large/Hxro_Profile_Transparent.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/The_Trading_Pit",
+    "twitter": "RealHxro",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "KNC",
+  "address": "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202",
+  "decimals": 18,
+  "name": "Kyber Network Crystal",
+  "ens_address": "",
+  "website": "https://kyber.network/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14899/large/RwdVsGcw_400x400.jpg",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.gg/NfFMVz6",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/kybernetwork/KyberWallet",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/kybernetwork/",
+    "slack": "",
+    "telegram": "https://t.me/officialkybernetwork",
+    "twitter": "kybernetwork",
+    "youtube": ""
+  }
+}

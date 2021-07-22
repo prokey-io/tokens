@@ -1,0 +1,34 @@
+{
+  "symbol": "XAUT",
+  "address": "0x4922a015c4407f87432b179bb209e125432e4a2a",
+  "decimals": 6,
+  "name": "Tether Gold",
+  "ens_address": "",
+  "website": "https://tether.to/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/10481/large/tether-gold.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "tether.to",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "tethergold",
+    "youtube": ""
+  }
+}

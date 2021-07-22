@@ -1,0 +1,34 @@
+{
+  "symbol": "ANKR",
+  "address": "0x8290333cef9e6d528dd5618fb97a76f268f3edd4",
+  "decimals": 18,
+  "name": "Ankr",
+  "ens_address": "",
+  "website": "https://stakefi.ankr.com",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4324/large/U85xTl2.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/Ankr-network/dccn-common",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/ankrnetwork",
+    "twitter": "ankr",
+    "youtube": ""
+  }
+}

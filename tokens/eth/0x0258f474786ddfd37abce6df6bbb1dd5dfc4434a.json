@@ -1,0 +1,34 @@
+{
+  "symbol": "ORN",
+  "address": "0x0258f474786ddfd37abce6df6bbb1dd5dfc4434a",
+  "decimals": 8,
+  "name": "Orion Protocol",
+  "ens_address": "",
+  "website": "https://www.orionprotocol.io/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11841/large/orion_logo.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://www.linkedin.com/company/orion-protocol/",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/orionprotocol",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/orionprotocol",
+    "twitter": "orion_protocol",
+    "youtube": ""
+  }
+}

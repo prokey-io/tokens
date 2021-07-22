@@ -1,0 +1,34 @@
+{
+  "symbol": "UOS",
+  "address": "0xd13c7342e1ef687c5ad21b27c2b65d772cab5c8c",
+  "decimals": 4,
+  "name": "Ultra",
+  "ens_address": "",
+  "website": "https://ultra.io/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/4480/large/Ultra.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "http://discord.gg/9EUPGrW",
+    "discord": "",
+    "facebook": "Ultra-441139419649279",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/ultra_io",
+    "slack": "",
+    "telegram": "https://t.me/ultra_io",
+    "twitter": "Ultra_io",
+    "youtube": ""
+  }
+}

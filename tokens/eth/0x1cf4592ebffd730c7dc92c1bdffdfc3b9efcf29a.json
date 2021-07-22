@@ -1,0 +1,34 @@
+{
+  "symbol": "WAVES",
+  "address": "0x1cf4592ebffd730c7dc92c1bdffdfc3b9efcf29a",
+  "decimals": 18,
+  "name": "Waves",
+  "ens_address": "",
+  "website": "https://waves.tech/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/425/large/waves.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/wavesplatform/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Wavesplatform/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "wavesprotocol",
+    "youtube": ""
+  }
+}

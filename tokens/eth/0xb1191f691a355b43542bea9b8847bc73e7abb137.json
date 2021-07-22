@@ -1,0 +1,34 @@
+{
+  "symbol": "KIRO",
+  "address": "0xb1191f691a355b43542bea9b8847bc73e7abb137",
+  "decimals": 18,
+  "name": "Kirobo",
+  "ens_address": "",
+  "website": "https://kirobo.io/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12688/large/QmScxyKBwqbGJZmp38EwaoRpXbzPkq3tvuMjeuJE1YLZeG.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.com/invite/KrXTg7E",
+    "discord": "",
+    "facebook": "kirobo.io",
+    "forum": "",
+    "github": "https://github.com/kiroboio/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/kirobo",
+    "twitter": "kirobo5",
+    "youtube": ""
+  }
+}

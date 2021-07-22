@@ -1,0 +1,34 @@
+{
+  "symbol": "EVN",
+  "address": "0x9af15d7b8776fa296019979e70a5be53c714a7ec",
+  "decimals": 18,
+  "name": "Evolution Finance",
+  "ens_address": "",
+  "website": "https://www.evolution.finance/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13932/large/Frame_63_2.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/evolutionfinance",
+    "twitter": "evn_finance",
+    "youtube": ""
+  }
+}

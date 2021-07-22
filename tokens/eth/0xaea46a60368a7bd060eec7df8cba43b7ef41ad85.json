@@ -1,0 +1,34 @@
+{
+  "symbol": "FET",
+  "address": "0xaea46a60368a7bd060eec7df8cba43b7ef41ad85",
+  "decimals": 18,
+  "name": "Fetch.ai",
+  "ens_address": "",
+  "website": "https://fetch.ai/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/5681/large/Fetch.jpg",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.com/invite/UDzpBFa",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/fetchai/fetchd",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/FetchAI_Community/",
+    "slack": "",
+    "telegram": "https://t.me/fetch_ai",
+    "twitter": "fetch_ai",
+    "youtube": ""
+  }
+}

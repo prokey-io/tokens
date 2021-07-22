@@ -1,0 +1,34 @@
+{
+  "symbol": "ALCX",
+  "address": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df",
+  "decimals": 18,
+  "name": "Alchemix",
+  "ens_address": "",
+  "website": "https://alchemix.fi/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14113/large/Alchemix.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.gg/zAd6dzgwaj",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/alchemix-finance",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "alchemixfi",
+    "youtube": ""
+  }
+}

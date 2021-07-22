@@ -1,0 +1,34 @@
+{
+  "symbol": "GT",
+  "address": "0xe66747a101bff2dba3697199dcce5b743b454759",
+  "decimals": 18,
+  "name": "GateToken",
+  "ens_address": "",
+  "website": "https://gatechain.io/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/8183/large/gt.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

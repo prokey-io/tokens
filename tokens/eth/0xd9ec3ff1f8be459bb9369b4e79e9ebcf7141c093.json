@@ -1,0 +1,34 @@
+{
+  "symbol": "KAI",
+  "address": "0xd9ec3ff1f8be459bb9369b4e79e9ebcf7141c093",
+  "decimals": 18,
+  "name": "KardiaChain",
+  "ens_address": "",
+  "website": "https://www.kardiachain.io/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/7942/large/KardiaChain.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://t.me/kardiachain",
+    "discord": "",
+    "facebook": "KardiaChainFoundation",
+    "forum": "",
+    "github": "https://github.com/kardiachain/go-kardia",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/KardiaChain/",
+    "slack": "",
+    "telegram": "https://t.me/kardiachainofficial",
+    "twitter": "KardiaChain",
+    "youtube": ""
+  }
+}

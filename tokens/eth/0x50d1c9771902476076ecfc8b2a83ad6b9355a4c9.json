@@ -1,0 +1,34 @@
+{
+  "symbol": "FTT",
+  "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+  "decimals": 18,
+  "name": "FTX Token",
+  "ens_address": "",
+  "website": "https://ftx.com",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/9026/large/F.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/FTX_Official",
+    "twitter": "FTX_official",
+    "youtube": ""
+  }
+}

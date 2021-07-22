@@ -1,0 +1,34 @@
+{
+  "symbol": "PERP",
+  "address": "0xbc396689893d065f41bc2c6ecbee5e0085233447",
+  "decimals": 18,
+  "name": "Perpetual Protocol",
+  "ens_address": "",
+  "website": "https://perp.exchange/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12381/large/token_2000x2000.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.com/invite/mYKKRTn",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/perpetualprotocol",
+    "twitter": "perpprotocol",
+    "youtube": ""
+  }
+}

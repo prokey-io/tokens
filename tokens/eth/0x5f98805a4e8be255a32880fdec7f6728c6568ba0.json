@@ -1,0 +1,34 @@
+{
+  "symbol": "LUSD",
+  "address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
+  "decimals": 18,
+  "name": "Liquity USD",
+  "ens_address": "",
+  "website": "https://www.liquity.org/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14666/large/Group_3.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/liquity/dev",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Liquity/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "LiquityProtocol",
+    "youtube": ""
+  }
+}

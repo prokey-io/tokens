@@ -1,0 +1,34 @@
+{
+  "symbol": "CRV",
+  "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+  "decimals": 18,
+  "name": "Curve DAO Token",
+  "ens_address": "",
+  "website": "https://www.curve.fi/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12124/large/Curve.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.gg/9uEHakc",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/curvefi/curve-contract",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/curvefi",
+    "twitter": "curvefinance",
+    "youtube": ""
+  }
+}

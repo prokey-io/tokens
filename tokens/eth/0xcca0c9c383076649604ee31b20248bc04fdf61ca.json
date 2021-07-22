@@ -1,0 +1,34 @@
+{
+  "symbol": "ASD",
+  "address": "0xcca0c9c383076649604ee31b20248bc04fdf61ca",
+  "decimals": 18,
+  "name": "AscendEx Token",
+  "ens_address": "",
+  "website": "https://ascendex.com/en/global-digital-asset-platform",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/5003/large/bitmax.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "BitMaxOfficial",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Ascendex/",
+    "slack": "",
+    "telegram": "https://t.me/BitMaxioEnglishOfficial",
+    "twitter": "AscendEX_Global",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "ANC",
+  "address": "0x0f3adc247e91c3c50bc08721355a41037e89bc20",
+  "decimals": 18,
+  "name": "Anchor Protocol",
+  "ens_address": "",
+  "website": "https://anchorprotocol.com/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14420/large/anchor_protocol_logo.jpg",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "anchor_protocol",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "GLM",
+  "address": "0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429",
+  "decimals": 18,
+  "name": "Golem",
+  "ens_address": "",
+  "website": "https://golem.network/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/542/large/Golem_Submark_Positive_RGB.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "golemproject",
+    "forum": "",
+    "github": "https://github.com/golemfactory/golem",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/GolemProject",
+    "slack": "",
+    "telegram": "",
+    "twitter": "golemproject",
+    "youtube": ""
+  }
+}

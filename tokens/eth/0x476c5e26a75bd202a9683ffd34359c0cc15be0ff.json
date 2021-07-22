@@ -1,0 +1,34 @@
+{
+  "symbol": "SRM",
+  "address": "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff",
+  "decimals": 6,
+  "name": "Serum",
+  "ens_address": "",
+  "website": "https://projectserum.com/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11970/large/serum-logo.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.gg/bsUTM2h",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/ProjectSerum",
+    "twitter": "projectserum",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "HUSD",
+  "address": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
+  "decimals": 8,
+  "name": "HUSD",
+  "ens_address": "",
+  "website": "https://www.stcoins.com/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/9567/large/HUSD.jpg",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/stcoins/HUSD",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "Stablecoin_HUSD",
+    "youtube": ""
+  }
+}

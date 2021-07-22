@@ -1,0 +1,34 @@
+{
+  "symbol": "AGIX",
+  "address": "0x5b7533812759b45c2b44c19e320ba2cd2681b542",
+  "decimals": 8,
+  "name": "SingularityNET",
+  "ens_address": "",
+  "website": "https://singularitynet.io/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/2138/large/singularitynet.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "singularityNET.io",
+    "forum": "",
+    "github": "https://github.com/singnet/singnet",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/SingularityNetsub/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "singularity_net",
+    "youtube": ""
+  }
+}

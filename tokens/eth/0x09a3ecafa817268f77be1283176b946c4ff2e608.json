@@ -1,0 +1,34 @@
+{
+  "symbol": "MIR",
+  "address": "0x09a3ecafa817268f77be1283176b946c4ff2e608",
+  "decimals": 18,
+  "name": "Mirror Protocol",
+  "ens_address": "",
+  "website": "https://mirror.finance",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13295/large/mirror_logo_transparent.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.com/invite/TFrHSCuyXv",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/Mirror-Protocol/terra-web-app",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/mirror_protocol",
+    "twitter": "mirror_protocol",
+    "youtube": ""
+  }
+}

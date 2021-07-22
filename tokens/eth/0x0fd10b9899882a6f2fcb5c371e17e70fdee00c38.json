@@ -1,0 +1,34 @@
+{
+  "symbol": "PUNDIX",
+  "address": "0x0fd10b9899882a6f2fcb5c371e17e70fdee00c38",
+  "decimals": 18,
+  "name": "Pundi X",
+  "ens_address": "",
+  "website": "https://pundix.com",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14571/large/vDyefsXq_400x400.jpg",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://www.instagram.com/pundi_x/",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/pundix",
+    "twitter": "PundiXLabs",
+    "youtube": ""
+  }
+}

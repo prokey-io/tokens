@@ -1,0 +1,34 @@
+{
+  "symbol": "EXRD",
+  "address": "0x6468e79a80c0eab0f9a2b574c8d5bc374af59414",
+  "decimals": 18,
+  "name": "e-Radix",
+  "ens_address": "",
+  "website": "https://www.radixdlt.com/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13145/large/exrd_logo.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/radixdlt",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Radix/",
+    "slack": "",
+    "telegram": "https://t.me/radix_dlt",
+    "twitter": "RadixDLT",
+    "youtube": ""
+  }
+}

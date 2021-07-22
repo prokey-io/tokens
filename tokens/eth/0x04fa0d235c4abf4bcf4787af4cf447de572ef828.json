@@ -1,0 +1,34 @@
+{
+  "symbol": "UMA",
+  "address": "0x04fa0d235c4abf4bcf4787af4cf447de572ef828",
+  "decimals": 18,
+  "name": "UMA",
+  "ens_address": "",
+  "website": "https://umaproject.org",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/10951/large/UMA.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://umaprotocol.slack.com/",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/UMAprotocol/protocol",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "UMAprotocol",
+    "youtube": ""
+  }
+}

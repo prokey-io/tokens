@@ -1,0 +1,34 @@
+{
+  "symbol": "OXY",
+  "address": "0x965697b4ef02f0de01384d0d4f9f782b1670c163",
+  "decimals": 6,
+  "name": "Oxygen",
+  "ens_address": "",
+  "website": "https://www.oxygen.org/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13509/large/8DjBZ79V_400x400.jpg",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "Oxygen_protocol",
+    "youtube": ""
+  }
+}

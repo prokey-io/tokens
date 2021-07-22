@@ -1,0 +1,34 @@
+{
+  "symbol": "SEUR",
+  "address": "0xd71ecff9342a5ced620049e616c5035f1db98620",
+  "decimals": 18,
+  "name": "sEUR",
+  "ens_address": "",
+  "website": "https://synthetix.io",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13637/large/sEUR.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.gg/AEdUHzt",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "synthetix_io",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "OHM",
+  "address": "0x383518188c0c6d7730d91b2c03a03c837814a899",
+  "decimals": 9,
+  "name": "Olympus",
+  "ens_address": "",
+  "website": "https://olympusdao.finance/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14483/large/olympus.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.gg/bzFn5nstFB",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "OlympusDAO",
+    "youtube": ""
+  }
+}

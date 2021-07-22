@@ -1,0 +1,34 @@
+{
+  "symbol": "CUNI",
+  "address": "0x35a18000230da775cac24873d00ff85bccded550",
+  "decimals": 8,
+  "name": "cUNI",
+  "ens_address": "",
+  "website": "https://compound.finance/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12696/large/compound-uni.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/compound-finance/compound-protocol",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "compoundfinance",
+    "youtube": ""
+  }
+}

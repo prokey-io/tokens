@@ -1,0 +1,34 @@
+{
+  "symbol": "CLV",
+  "address": "0x80c62fe4487e1351b47ba49809ebd60ed085bf52",
+  "decimals": 18,
+  "name": "Clover Finance",
+  "ens_address": "",
+  "website": "https://clover.finance",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/15278/large/image_from_ios_%281%29.jpg",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/clover-network",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "clover_finance",
+    "youtube": ""
+  }
+}

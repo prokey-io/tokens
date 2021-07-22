@@ -1,0 +1,34 @@
+{
+  "symbol": "COL",
+  "address": "0xc76fb75950536d98fa62ea968e1d6b45ffea2a55",
+  "decimals": 18,
+  "name": "Unit Protocol",
+  "ens_address": "",
+  "website": "https://unit.xyz/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/11862/large/Unit.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/unitprotocol?",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/unit_en",
+    "twitter": "unitprotocol",
+    "youtube": ""
+  }
+}

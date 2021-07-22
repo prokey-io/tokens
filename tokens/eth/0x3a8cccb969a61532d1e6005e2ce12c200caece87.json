@@ -1,0 +1,34 @@
+{
+  "symbol": "TITAN",
+  "address": "0x3a8cccb969a61532d1e6005e2ce12c200caece87",
+  "decimals": 18,
+  "name": "TitanSwap",
+  "ens_address": "",
+  "website": "https://titanswap.org/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12606/large/nqGlQzdz_400x400.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/titanSwap",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/TitanSwap",
+    "twitter": "TitanSwaporg",
+    "youtube": ""
+  }
+}

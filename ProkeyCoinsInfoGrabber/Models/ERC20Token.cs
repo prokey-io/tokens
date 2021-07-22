@@ -58,7 +58,7 @@ namespace ProkeyCoinsInfoGrabber.Models
             //    }
 
             //}
-            social.chat = coinInfo?.links?.chat_url?[0]?? string.Empty;
+            social.chat = (coinInfo?.links?.chat_url?.Length > 0 ) ? coinInfo?.links?.chat_url[0] : string.Empty;
 
             //if (coinInfo.links.repos_url != null)
             //{
@@ -67,9 +67,9 @@ namespace ProkeyCoinsInfoGrabber.Models
             //        social.github = coinInfo.links.repos_url.github[0];
             //    }
             //}
-            social.github = coinInfo?.links?.repos_url?.github?[0] ?? string.Empty;
+            social.github = (coinInfo?.links?.repos_url?.github?.Length>0) ? coinInfo?.links?.repos_url?.github?[0] : string.Empty;
 
-            website = coinInfo?.links?.homepage?[0] ?? string.Empty;
+            website = (coinInfo?.links?.homepage?.Length > 0) ? coinInfo?.links?.homepage?[0] : string.Empty;
             social.facebook = coinInfo?.links?.facebook_username ?? string.Empty;
             social.reddit = coinInfo?.links?.subreddit_url ?? string.Empty;
             social.twitter = coinInfo?.links?.twitter_screen_name ?? string.Empty;

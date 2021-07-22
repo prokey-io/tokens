@@ -14,7 +14,6 @@ namespace ProkeyCoinsInfoGrabber
 {
     class Program
     {
-        //System.IO.Path.Combine(System.IO.Directory.GetParent(System.IO.Directory.GetCurrentDirectory()).Parent.Parent.Parent.FullName, "tokens\\eth");
         public static string ERC20TOKENS_DIRECTORY_PATH = "../../../../tokens/eth";
         public static string APPSETTINGS_PATH = "../../../appsettings.json";
         public static int HOW_MANY_POPULAR_TOKEN_PAGES = 1;
@@ -166,7 +165,7 @@ namespace ProkeyCoinsInfoGrabber
         }
 
         /// <summary>
-        ///1- Get Tokens that are popular and erc20 but
+        ///1- Get not exist popular ERC20 Tokens
         ///2- They are not in token/eth yet
         ///3- get some info such as decimal from ethplorer 
         /// </summary>
@@ -200,22 +199,17 @@ namespace ProkeyCoinsInfoGrabber
                             erc20TokensList.Add(new ERC20Token()
                             {
                                 //https://api.coingecko.com/api/v3/asset_platforms
-                                //id: "ethereum",
-                                //chain_identifier: 1,
-                                //name: "Ethereum",
-                                //chain_id = 1,
                                 id = coin.id,
                                 address = coin.platforms.ethereum,
-                                symbol = marketCapInfoItem.symbol,
+                                symbol = marketCapInfoItem.symbol.ToUpper(),
                                 decimals = 8, //int.Parse(coindecimal),
                                 name = marketCapInfoItem.name,
                                 logo = new ERC20TokenLogo()
                                 {
                                     src = imageSrc
                                 }
-                            //priority = marketCapInfoItem.market_cap_rank.HasValue ? marketCapInfoItem.market_cap_rank.Value : 100,
-                            //hasLanding = landingPages.Any(l => l == marketCapInfoItem.name),
-                        });
+                                //priority = marketCapInfoItem.market_cap_rank.HasValue ? marketCapInfoItem.market_cap_rank.Value : 100,
+                            });
                         }
                     }                   
                 }

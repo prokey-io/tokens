@@ -1,0 +1,34 @@
+{
+  "symbol": "CHANGE",
+  "address": "0x6E1b4BA8F5bE7708cD475795FC23924eD078A8d2",
+  "decimals": 9,
+  "name": "Change Our World",
+  "ens_address": "",
+  "website": "https://changeourworld.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

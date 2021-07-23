@@ -1,0 +1,34 @@
+{
+  "symbol": "BDT",
+  "address": "0xBBFFA24cCF2d4D9e9737B1BA4A25A5EFFA71451E",
+  "decimals": 18,
+  "name": "Tech Earnbd",
+  "ens_address": "",
+  "website": "http://techearnbd.info",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

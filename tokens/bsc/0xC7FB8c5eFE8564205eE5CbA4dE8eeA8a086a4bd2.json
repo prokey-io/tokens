@@ -1,0 +1,34 @@
+{
+  "symbol": "POCROC",
+  "address": "0xC7FB8c5eFE8564205eE5CbA4dE8eeA8a086a4bd2",
+  "decimals": 9,
+  "name": "PocketRocket",
+  "ens_address": "",
+  "website": "https://pocketrocket.xyz/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

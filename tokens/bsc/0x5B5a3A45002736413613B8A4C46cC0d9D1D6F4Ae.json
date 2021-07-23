@@ -1,0 +1,34 @@
+{
+  "symbol": "BabyWolf",
+  "address": "0x5B5a3A45002736413613B8A4C46cC0d9D1D6F4Ae",
+  "decimals": 9,
+  "name": "Baby Moon Wolf",
+  "ens_address": "",
+  "website": "https://www.babywolftoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

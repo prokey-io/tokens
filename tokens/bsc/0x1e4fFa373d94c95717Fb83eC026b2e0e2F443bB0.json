@@ -1,0 +1,34 @@
+{
+  "symbol": "WGC",
+  "address": "0x1e4fFa373d94c95717Fb83eC026b2e0e2F443bB0",
+  "decimals": 16,
+  "name": "Green Climate World",
+  "ens_address": "",
+  "website": "https://greenclimate.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

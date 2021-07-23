@@ -1,0 +1,34 @@
+{
+  "symbol": "$BOSSDOG",
+  "address": "0xB05513809549b8654fA1228b123A36c78a3356F4",
+  "decimals": 9,
+  "name": "BossDog",
+  "ens_address": "",
+  "website": "https://bossdogtoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

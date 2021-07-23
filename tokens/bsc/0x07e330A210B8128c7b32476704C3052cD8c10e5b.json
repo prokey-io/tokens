@@ -1,0 +1,34 @@
+{
+  "symbol": "BURN1",
+  "address": "0x07e330A210B8128c7b32476704C3052cD8c10e5b",
+  "decimals": 9,
+  "name": "Burn1",
+  "ens_address": "",
+  "website": "https://www.burn1.today/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

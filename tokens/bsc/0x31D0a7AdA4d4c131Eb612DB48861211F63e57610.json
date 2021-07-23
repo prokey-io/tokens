@@ -1,0 +1,34 @@
+{
+  "symbol": "START",
+  "address": "0x31D0a7AdA4d4c131Eb612DB48861211F63e57610",
+  "decimals": 18,
+  "name": "BSCstarter token",
+  "ens_address": "",
+  "website": "https://bscstarter.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

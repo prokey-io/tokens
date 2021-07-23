@@ -1,0 +1,34 @@
+{
+  "symbol": "TAT",
+  "address": "0x290c665656a67e0ea0784f90ECBaeFF77c884217",
+  "decimals": 18,
+  "name": "Tatcoin",
+  "ens_address": "",
+  "website": "https://abitnetwork.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

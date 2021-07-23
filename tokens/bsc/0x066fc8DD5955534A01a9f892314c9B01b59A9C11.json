@@ -1,0 +1,34 @@
+{
+  "symbol": "PAWS",
+  "address": "0x066fc8DD5955534A01a9f892314c9B01b59A9C11",
+  "decimals": 9,
+  "name": "Animal Adoption Advocacy",
+  "ens_address": "",
+  "website": "https://animaladoptionadvocacy.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

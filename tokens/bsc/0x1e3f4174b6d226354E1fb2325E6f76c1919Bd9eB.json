@@ -1,0 +1,34 @@
+{
+  "symbol": "SVT",
+  "address": "0x1e3f4174b6d226354E1fb2325E6f76c1919Bd9eB",
+  "decimals": 9,
+  "name": "SpaceVikings Token ",
+  "ens_address": "",
+  "website": "https://SpaceVikings.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

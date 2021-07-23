@@ -1,0 +1,34 @@
+{
+  "symbol": "AST",
+  "address": "0x4Cae95d03C85Ae462dAeC44d5426f547A26FAf47",
+  "decimals": 9,
+  "name": "Apollo Space Token",
+  "ens_address": "",
+  "website": "http://apollospacetoken.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

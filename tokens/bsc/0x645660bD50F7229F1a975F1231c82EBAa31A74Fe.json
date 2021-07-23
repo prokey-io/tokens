@@ -1,0 +1,34 @@
+{
+  "symbol": "DRON",
+  "address": "0x645660bD50F7229F1a975F1231c82EBAa31A74Fe",
+  "decimals": 8,
+  "name": "DragonCoin",
+  "ens_address": "",
+  "website": "https://dragon-dron.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "Oven",
+  "address": "0x22E35e7C4DEE96298C8d90ccdBDCEdfc82e09395",
+  "decimals": 9,
+  "name": "Oven",
+  "ens_address": "",
+  "website": "https://oventoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

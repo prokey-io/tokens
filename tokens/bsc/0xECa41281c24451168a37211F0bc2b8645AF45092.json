@@ -1,0 +1,34 @@
+{
+  "symbol": "TPT",
+  "address": "0xECa41281c24451168a37211F0bc2b8645AF45092",
+  "decimals": 4,
+  "name": "TokenPocket Token",
+  "ens_address": "",
+  "website": "https://www.tokenpocket.pro/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

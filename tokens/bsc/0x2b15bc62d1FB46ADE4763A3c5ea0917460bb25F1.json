@@ -1,0 +1,34 @@
+{
+  "symbol": "MORPH",
+  "address": "0x2b15bc62d1FB46ADE4763A3c5ea0917460bb25F1",
+  "decimals": 18,
+  "name": "Morphose",
+  "ens_address": "",
+  "website": "https://morphose.cash",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

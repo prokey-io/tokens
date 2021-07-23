@@ -1,0 +1,34 @@
+{
+  "symbol": "BOG",
+  "address": "0xD7B729ef857Aa773f47D37088A1181bB3fbF0099",
+  "decimals": 18,
+  "name": "OLD BOG Token",
+  "ens_address": "",
+  "website": "https://bogtools.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

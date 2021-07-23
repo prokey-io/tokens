@@ -1,0 +1,34 @@
+{
+  "symbol": "TBC",
+  "address": "0xeAF7D8395CCE52DAef138d39a1CEfA51b97C15aE",
+  "decimals": 18,
+  "name": "TeraBlock Token",
+  "ens_address": "",
+  "website": "https://terablock.ai",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

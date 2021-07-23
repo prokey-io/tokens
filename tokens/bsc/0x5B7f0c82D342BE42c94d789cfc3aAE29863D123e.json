@@ -1,0 +1,34 @@
+{
+  "symbol": "BDA",
+  "address": "0x5B7f0c82D342BE42c94d789cfc3aAE29863D123e",
+  "decimals": 8,
+  "name": "Beeuda",
+  "ens_address": "",
+  "website": "https://beeuda.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

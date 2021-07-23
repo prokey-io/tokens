@@ -1,0 +1,34 @@
+{
+  "symbol": "ONLYONE",
+  "address": "0xb899dB682e6D6164D885ff67C1e676141deaaA40",
+  "decimals": 18,
+  "name": "Onlyone",
+  "ens_address": "",
+  "website": "https://onlyonefinance.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "FETCH",
+  "address": "0x8bfc1c564E4490790DFac641C9a0FecD3f91F584",
+  "decimals": 9,
+  "name": "MoonRetriever",
+  "ens_address": "",
+  "website": "https://www.moonretriever.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

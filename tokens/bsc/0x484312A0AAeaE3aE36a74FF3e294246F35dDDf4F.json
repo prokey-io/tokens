@@ -1,0 +1,34 @@
+{
+  "symbol": "Bashtank",
+  "address": "0x484312A0AAeaE3aE36a74FF3e294246F35dDDf4F",
+  "decimals": 9,
+  "name": "Baby Shark Tank",
+  "ens_address": "",
+  "website": "https://Bashtank.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "MTDR",
+  "address": "0x994517e000aa3F117E7Ad61B0e2336C76B4Fd94a",
+  "decimals": 18,
+  "name": "MATADOR Token",
+  "ens_address": "",
+  "website": "https://www.matadortoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

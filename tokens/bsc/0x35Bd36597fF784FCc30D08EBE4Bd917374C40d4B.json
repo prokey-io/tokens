@@ -1,0 +1,34 @@
+{
+  "symbol": "miniSHIB",
+  "address": "0x35Bd36597fF784FCc30D08EBE4Bd917374C40d4B",
+  "decimals": 9,
+  "name": "miniShibaToken",
+  "ens_address": "",
+  "website": "https://minishib.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "CLEARMOON",
+  "address": "0xa178398a3A816d049588cC46D431f5EEC4dd7e96",
+  "decimals": 9,
+  "name": "ClearMoon",
+  "ens_address": "",
+  "website": "https://clearmoon.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

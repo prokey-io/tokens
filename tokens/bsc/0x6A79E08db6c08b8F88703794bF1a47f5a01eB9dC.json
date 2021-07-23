@@ -1,0 +1,34 @@
+{
+  "symbol": "WINLAMBO",
+  "address": "0x6A79E08db6c08b8F88703794bF1a47f5a01eB9dC",
+  "decimals": 9,
+  "name": "WINLAMBO",
+  "ens_address": "",
+  "website": "https://winlambo.fund/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

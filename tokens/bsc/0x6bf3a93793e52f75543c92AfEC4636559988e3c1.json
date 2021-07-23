@@ -1,0 +1,34 @@
+{
+  "symbol": "CIFI",
+  "address": "0x6bf3a93793e52f75543c92AfEC4636559988e3c1",
+  "decimals": 9,
+  "name": "Crucifearous Finance",
+  "ens_address": "",
+  "website": "https://crucifearous.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

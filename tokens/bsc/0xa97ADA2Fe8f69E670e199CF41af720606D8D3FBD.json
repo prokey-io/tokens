@@ -1,0 +1,34 @@
+{
+  "symbol": "EYFI",
+  "address": "0xa97ADA2Fe8f69E670e199CF41af720606D8D3FBD",
+  "decimals": 8,
+  "name": "EYFI",
+  "ens_address": "",
+  "website": "https://eyfi.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

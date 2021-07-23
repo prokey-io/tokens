@@ -1,0 +1,34 @@
+{
+  "symbol": "Glitchy",
+  "address": "0x75dffAf163D67591fDCa3907a50655dB3a5516Ed",
+  "decimals": 18,
+  "name": "Glitchy Token",
+  "ens_address": "",
+  "website": "https://glitchy.wtf",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

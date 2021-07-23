@@ -1,0 +1,34 @@
+{
+  "symbol": "BBYXRP",
+  "address": "0x8beAbaa4f025D00B4699d56a683758d692d17F20",
+  "decimals": 9,
+  "name": "BABYXRP",
+  "ens_address": "",
+  "website": "https://www.babyxrp.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

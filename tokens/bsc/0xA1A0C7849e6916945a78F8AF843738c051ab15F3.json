@@ -1,0 +1,34 @@
+{
+  "symbol": "MetaMoon",
+  "address": "0xA1A0C7849e6916945a78F8AF843738c051ab15F3",
+  "decimals": 9,
+  "name": "MetaMoon.io",
+  "ens_address": "",
+  "website": "https://metamoon.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

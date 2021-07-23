@@ -1,0 +1,34 @@
+{
+  "symbol": "Aqua",
+  "address": "0x9Fb677928dd244beFCD0BbEbdF6068dD4BEF559C",
+  "decimals": 9,
+  "name": "BelaAqua",
+  "ens_address": "",
+  "website": "https://www.belatoken.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

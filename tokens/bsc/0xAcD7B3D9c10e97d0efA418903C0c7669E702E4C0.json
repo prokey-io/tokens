@@ -1,0 +1,34 @@
+{
+  "symbol": "ELE",
+  "address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
+  "decimals": 18,
+  "name": "Eleven Finance",
+  "ens_address": "",
+  "website": "https://eleven.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "CLEANOCEAN",
+  "address": "0x579F11C75Eb4e47F5290122e87CA411644aDCD97",
+  "decimals": 9,
+  "name": "CleanOcean",
+  "ens_address": "",
+  "website": "https://cleanocean.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

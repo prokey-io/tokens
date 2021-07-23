@@ -1,0 +1,34 @@
+{
+  "symbol": "DOP",
+  "address": "0x844FA82f1E54824655470970F7004Dd90546bB28",
+  "decimals": 18,
+  "name": "DOPPLE",
+  "ens_address": "",
+  "website": "https://dopple.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

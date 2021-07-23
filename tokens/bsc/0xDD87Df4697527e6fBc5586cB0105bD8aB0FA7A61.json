@@ -1,0 +1,34 @@
+{
+  "symbol": "GMEv3",
+  "address": "0xDD87Df4697527e6fBc5586cB0105bD8aB0FA7A61",
+  "decimals": 18,
+  "name": "Game Token",
+  "ens_address": "",
+  "website": "https://gametoken.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "Beer",
+  "address": "0xbB8DB5e17BBe9c90Da8E3445E335b82d7cc53575",
+  "decimals": 18,
+  "name": "Beer",
+  "ens_address": "",
+  "website": "https://beergarden.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

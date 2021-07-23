@@ -1,0 +1,34 @@
+{
+  "symbol": "FORESTRY",
+  "address": "0x8c5a93Fa9BB2b0f396E80b51323767043C58E686",
+  "decimals": 9,
+  "name": "Forestry",
+  "ens_address": "",
+  "website": "https://forestrytoken.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

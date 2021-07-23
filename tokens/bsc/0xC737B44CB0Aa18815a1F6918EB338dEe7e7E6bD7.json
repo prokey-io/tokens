@@ -1,0 +1,34 @@
+{
+  "symbol": "COMFY",
+  "address": "0xC737B44CB0Aa18815a1F6918EB338dEe7e7E6bD7",
+  "decimals": 9,
+  "name": "Comfy Token",
+  "ens_address": "",
+  "website": "https://www.comfytoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

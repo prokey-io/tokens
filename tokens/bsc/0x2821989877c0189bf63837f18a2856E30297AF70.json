@@ -1,0 +1,34 @@
+{
+  "symbol": "ORION",
+  "address": "0x2821989877c0189bf63837f18a2856E30297AF70",
+  "decimals": 9,
+  "name": "Orion",
+  "ens_address": "",
+  "website": "https://orioninitiative.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

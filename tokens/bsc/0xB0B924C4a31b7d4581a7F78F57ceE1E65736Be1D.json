@@ -1,0 +1,34 @@
+{
+  "symbol": "HAPPY",
+  "address": "0xB0B924C4a31b7d4581a7F78F57ceE1E65736Be1D",
+  "decimals": 9,
+  "name": "HappyCoin",
+  "ens_address": "",
+  "website": "https://thehappycoin.co",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

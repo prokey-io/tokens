@@ -1,0 +1,34 @@
+{
+  "symbol": "BSCGIRLMOON",
+  "address": "0x4a706451Cf6D87bB04365B1BEa6242710D71078E",
+  "decimals": 8,
+  "name": "Binance Smart Chain Girl Moon",
+  "ens_address": "",
+  "website": "https://bscgirl.site/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

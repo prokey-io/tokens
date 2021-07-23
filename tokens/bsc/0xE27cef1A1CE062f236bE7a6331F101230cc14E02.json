@@ -1,0 +1,34 @@
+{
+  "symbol": "LTPM",
+  "address": "0xE27cef1A1CE062f236bE7a6331F101230cc14E02",
+  "decimals": 9,
+  "name": "LittlePandaMoon",
+  "ens_address": "",
+  "website": "https://littlepandamoon.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

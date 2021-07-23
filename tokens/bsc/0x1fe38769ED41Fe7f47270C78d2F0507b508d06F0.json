@@ -1,0 +1,34 @@
+{
+  "symbol": "HyMETEOR",
+  "address": "0x1fe38769ED41Fe7f47270C78d2F0507b508d06F0",
+  "decimals": 18,
+  "name": "HyperMeteor",
+  "ens_address": "",
+  "website": "https://hypermeteor.net",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

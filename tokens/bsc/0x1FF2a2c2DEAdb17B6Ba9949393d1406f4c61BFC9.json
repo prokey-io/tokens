@@ -1,0 +1,34 @@
+{
+  "symbol": "VCEGG",
+  "address": "0x1FF2a2c2DEAdb17B6Ba9949393d1406f4c61BFC9",
+  "decimals": 0,
+  "name": "VanCat Egg Token",
+  "ens_address": "",
+  "website": "https://www.vancategg.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

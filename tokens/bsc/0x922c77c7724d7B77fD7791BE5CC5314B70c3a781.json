@@ -1,0 +1,34 @@
+{
+  "symbol": "SSHIBA",
+  "address": "0x922c77c7724d7B77fD7791BE5CC5314B70c3a781",
+  "decimals": 18,
+  "name": "Super Shiba",
+  "ens_address": "",
+  "website": "https://supershiba.xyz",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

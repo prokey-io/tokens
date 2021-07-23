@@ -1,0 +1,34 @@
+{
+  "symbol": "AIOZ",
+  "address": "0x33d08D8C7a168333a85285a68C0042b39fC3741D",
+  "decimals": 18,
+  "name": "AIOZ Network Coin",
+  "ens_address": "",
+  "website": "https://aioz.network",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "HYPER",
+  "address": "0x25b15E17164b97202616e36Af1234Db944121185",
+  "decimals": 7,
+  "name": "HYPER",
+  "ens_address": "",
+  "website": "https://hyperchainx.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

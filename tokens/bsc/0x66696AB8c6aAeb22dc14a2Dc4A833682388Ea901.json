@@ -1,0 +1,34 @@
+{
+  "symbol": "BWC",
+  "address": "0x66696AB8c6aAeb22dc14a2Dc4A833682388Ea901",
+  "decimals": 9,
+  "name": "BongWeedCoin",
+  "ens_address": "",
+  "website": "https://bongweed.info/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

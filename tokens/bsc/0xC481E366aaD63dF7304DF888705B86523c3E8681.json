@@ -1,0 +1,34 @@
+{
+  "symbol": "FILMVAULT",
+  "address": "0xC481E366aaD63dF7304DF888705B86523c3E8681",
+  "decimals": 9,
+  "name": "Film Vault Protocol",
+  "ens_address": "",
+  "website": "https://filmvault.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

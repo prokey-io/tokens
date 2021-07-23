@@ -1,0 +1,34 @@
+{
+  "symbol": "DOG",
+  "address": "0xF94CA0B303e52d68b63626Bed7f680fa4DC3f779",
+  "decimals": 9,
+  "name": "UnderDog",
+  "ens_address": "",
+  "website": "https://underdog.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "EQL",
+  "address": "0x5C7e71f46e49Cf816f9863461EEB36e3bc8E3B51",
+  "decimals": 18,
+  "name": "EQUAL",
+  "ens_address": "",
+  "website": "https://equal.tech",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

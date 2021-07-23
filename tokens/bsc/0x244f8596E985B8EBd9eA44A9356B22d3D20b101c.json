@@ -1,0 +1,34 @@
+{
+  "symbol": "DOGE1",
+  "address": "0x244f8596E985B8EBd9eA44A9356B22d3D20b101c",
+  "decimals": 9,
+  "name": "DOGE-1",
+  "ens_address": "",
+  "website": "https://doge-1.space",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

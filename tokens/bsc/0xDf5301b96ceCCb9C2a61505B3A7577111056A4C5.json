@@ -1,0 +1,34 @@
+{
+  "symbol": "CAPT",
+  "address": "0xDf5301b96ceCCb9C2a61505B3A7577111056A4C5",
+  "decimals": 9,
+  "name": "Captain",
+  "ens_address": "",
+  "website": "https://capttoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

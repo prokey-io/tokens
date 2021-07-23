@@ -1,0 +1,34 @@
+{
+  "symbol": "LTN",
+  "address": "0x36f66D61Db3497f7FDBA22Efd2A251753A95d0E2",
+  "decimals": 18,
+  "name": "Life Token",
+  "ens_address": "",
+  "website": "https://thelifetoken.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

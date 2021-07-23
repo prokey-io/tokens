@@ -1,0 +1,34 @@
+{
+  "symbol": "FOX",
+  "address": "0x4796AB7F44E0561Ae353119B3E59a3F724E5F49e",
+  "decimals": 18,
+  "name": "FOX Token",
+  "ens_address": "",
+  "website": "https://foxnft.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

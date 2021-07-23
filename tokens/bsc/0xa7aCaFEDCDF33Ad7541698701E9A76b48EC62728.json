@@ -1,0 +1,34 @@
+{
+  "symbol": "TADP",
+  "address": "0xa7aCaFEDCDF33Ad7541698701E9A76b48EC62728",
+  "decimals": 0,
+  "name": "Tadpole",
+  "ens_address": "",
+  "website": "http://tadpole.vip",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "BTT",
+  "address": "0x8595F9dA7b868b1822194fAEd312235E43007b49",
+  "decimals": 18,
+  "name": "BitTorrent",
+  "ens_address": "",
+  "website": "https://bittorrent.com/btt",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

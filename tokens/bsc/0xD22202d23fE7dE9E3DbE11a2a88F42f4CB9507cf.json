@@ -1,0 +1,34 @@
+{
+  "symbol": "MNEB",
+  "address": "0xD22202d23fE7dE9E3DbE11a2a88F42f4CB9507cf",
+  "decimals": 8,
+  "name": "Minereum BSC",
+  "ens_address": "",
+  "website": "https://bsc.minereum.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

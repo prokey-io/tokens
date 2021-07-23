@@ -1,0 +1,34 @@
+{
+  "symbol": "bCHM",
+  "address": "0x648bA66B2859192d117E8FFd8712B5E8E8114e53",
+  "decimals": 18,
+  "name": "Cryptochrome",
+  "ens_address": "",
+  "website": "https://www.cryptochrome.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

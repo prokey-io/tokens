@@ -1,0 +1,34 @@
+{
+  "symbol": "RICH",
+  "address": "0xc0994Af94FEe0361A1e1E1ccf72BCe19d5FD86FB",
+  "decimals": 9,
+  "name": "RichCity",
+  "ens_address": "",
+  "website": "https://www.richcity.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

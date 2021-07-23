@@ -1,0 +1,34 @@
+{
+  "symbol": "ROF",
+  "address": "0xCD95B05Ebe61244de4dF9c2C4123920F016a06DF",
+  "decimals": 10,
+  "name": "Rose Finance",
+  "ens_address": "",
+  "website": "https://www.roseflower.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

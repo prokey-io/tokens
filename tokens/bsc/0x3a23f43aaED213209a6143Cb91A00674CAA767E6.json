@@ -1,0 +1,34 @@
+{
+  "symbol": "HENTAI",
+  "address": "0x3a23f43aaED213209a6143Cb91A00674CAA767E6",
+  "decimals": 9,
+  "name": "HentaiCoin",
+  "ens_address": "",
+  "website": "https://hentaicoin.net/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "WBST",
+  "address": "0x58d6f302aaF33DD30A7666E16909DB3C5C74021b",
+  "decimals": 18,
+  "name": "Wraped BST",
+  "ens_address": "",
+  "website": "https://token.bitsten.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

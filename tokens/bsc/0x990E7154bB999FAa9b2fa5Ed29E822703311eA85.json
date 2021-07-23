@@ -1,0 +1,34 @@
+{
+  "symbol": "TT",
+  "address": "0x990E7154bB999FAa9b2fa5Ed29E822703311eA85",
+  "decimals": 18,
+  "name": "BSC-Peg Thunder Token",
+  "ens_address": "",
+  "website": "https://bridge.thundercore.com/bsc/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

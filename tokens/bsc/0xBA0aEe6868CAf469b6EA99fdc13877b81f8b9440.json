@@ -1,0 +1,34 @@
+{
+  "symbol": "SPIDER",
+  "address": "0xBA0aEe6868CAf469b6EA99fdc13877b81f8b9440",
+  "decimals": 18,
+  "name": "Spider Swap",
+  "ens_address": "",
+  "website": "https://www.spiderswap.in",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

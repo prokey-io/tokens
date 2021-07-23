@@ -1,0 +1,34 @@
+{
+  "symbol": "SUGAR",
+  "address": "0x41AA9F842AF935cC71252C0dE4BFF13F821546b8",
+  "decimals": 18,
+  "name": "SUGAR",
+  "ens_address": "",
+  "website": "https://tea-swap-app.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

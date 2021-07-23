@@ -1,0 +1,34 @@
+{
+  "symbol": "fDOGE",
+  "address": "0xfB17D214d83643da1b079d410647c33aBcE972e2",
+  "decimals": 8,
+  "name": "FEG Wrapped DOGE",
+  "ens_address": "",
+  "website": "https://fegtoken.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "LAIKA",
+  "address": "0x2a49De60cc6204c3AFC3e770FDB30A0554147519",
+  "decimals": 9,
+  "name": "LaikaProtocol",
+  "ens_address": "",
+  "website": "https://laikato.space",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

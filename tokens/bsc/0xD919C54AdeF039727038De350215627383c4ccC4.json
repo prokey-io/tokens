@@ -1,0 +1,34 @@
+{
+  "symbol": "ABDUCT",
+  "address": "0xD919C54AdeF039727038De350215627383c4ccC4",
+  "decimals": 9,
+  "name": "Abduction Protocol",
+  "ens_address": "",
+  "website": "https://abductionprotocol.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

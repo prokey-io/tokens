@@ -1,0 +1,34 @@
+{
+  "symbol": "SHAGGY",
+  "address": "0x33a669a350807552a005845C13A37662FAcb041B",
+  "decimals": 0,
+  "name": "SHAGGY TOKEN",
+  "ens_address": "",
+  "website": "https://shaggytoken.xyz/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

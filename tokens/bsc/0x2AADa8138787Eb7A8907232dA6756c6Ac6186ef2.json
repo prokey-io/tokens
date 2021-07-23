@@ -1,0 +1,34 @@
+{
+  "symbol": "SMARSUP",
+  "address": "0x2AADa8138787Eb7A8907232dA6756c6Ac6186ef2",
+  "decimals": 9,
+  "name": "Secured Marsupial",
+  "ens_address": "",
+  "website": "https://marsupial.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

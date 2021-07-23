@@ -1,0 +1,34 @@
+{
+  "symbol": "SE7EN",
+  "address": "0x6CD502AB164e37231c20578214f874a8ADbdC7c2",
+  "decimals": 18,
+  "name": "Se7en",
+  "ens_address": "",
+  "website": "https://se7enbsc.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

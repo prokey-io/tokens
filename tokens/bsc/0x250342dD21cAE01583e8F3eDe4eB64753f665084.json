@@ -1,0 +1,34 @@
+{
+  "symbol": "SDFI",
+  "address": "0x250342dD21cAE01583e8F3eDe4eB64753f665084",
+  "decimals": 8,
+  "name": "Sting Defi",
+  "ens_address": "",
+  "website": "https://stingdefi.yfiigold.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

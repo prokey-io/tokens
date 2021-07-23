@@ -1,0 +1,34 @@
+{
+  "symbol": "BAFE",
+  "address": "0x7bb362962F2a4E2089466C79566572B37CFc5D78",
+  "decimals": 9,
+  "name": "Bafe.io",
+  "ens_address": "",
+  "website": "https://bafe.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

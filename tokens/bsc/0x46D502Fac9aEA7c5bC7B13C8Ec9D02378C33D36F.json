@@ -1,0 +1,34 @@
+{
+  "symbol": "WSPP",
+  "address": "0x46D502Fac9aEA7c5bC7B13C8Ec9D02378C33D36F",
+  "decimals": 0,
+  "name": "WolfSafePoorPeople",
+  "ens_address": "",
+  "website": "https://wolfsafepoorpeople.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

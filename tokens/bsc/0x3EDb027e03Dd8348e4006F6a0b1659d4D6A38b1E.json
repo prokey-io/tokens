@@ -1,0 +1,34 @@
+{
+  "symbol": "bDOGE",
+  "address": "0x3EDb027e03Dd8348e4006F6a0b1659d4D6A38b1E",
+  "decimals": 18,
+  "name": "DOGE BARKING",
+  "ens_address": "",
+  "website": "https://dogebarking.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

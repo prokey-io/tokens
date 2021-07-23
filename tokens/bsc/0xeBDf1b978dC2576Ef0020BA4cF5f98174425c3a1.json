@@ -1,0 +1,34 @@
+{
+  "symbol": "ROCKET",
+  "address": "0xeBDf1b978dC2576Ef0020BA4cF5f98174425c3a1",
+  "decimals": 9,
+  "name": "SafeRocket",
+  "ens_address": "",
+  "website": "https://saferocket.pro/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

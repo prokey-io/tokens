@@ -1,0 +1,34 @@
+{
+  "symbol": "PitMOONS",
+  "address": "0x9498DC3c229Cf917fB131671bC15fb1d781Ef231",
+  "decimals": 9,
+  "name": "Pitmoons",
+  "ens_address": "",
+  "website": "https://pitmoons.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

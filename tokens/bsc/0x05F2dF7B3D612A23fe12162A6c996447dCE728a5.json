@@ -1,0 +1,34 @@
+{
+  "symbol": "YUMMY",
+  "address": "0x05F2dF7B3D612A23fe12162A6c996447dCE728a5",
+  "decimals": 9,
+  "name": "YUMMY",
+  "ens_address": "",
+  "website": "https://yummycrypto.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "SMILE",
+  "address": "0x1cD137eb5BDf426AaE58C3Ed80383f74e42D9bF2",
+  "decimals": 18,
+  "name": "Smile Token",
+  "ens_address": "",
+  "website": "https://smiletoken.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

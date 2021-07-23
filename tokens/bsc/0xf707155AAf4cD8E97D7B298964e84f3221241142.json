@@ -1,0 +1,34 @@
+{
+  "symbol": "MARKGOAT",
+  "address": "0xf707155AAf4cD8E97D7B298964e84f3221241142",
+  "decimals": 9,
+  "name": "MARKGOAT Token",
+  "ens_address": "",
+  "website": "https://markgoat.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

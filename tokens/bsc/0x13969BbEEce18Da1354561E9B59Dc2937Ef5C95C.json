@@ -1,0 +1,34 @@
+{
+  "symbol": "SAFESEX",
+  "address": "0x13969BbEEce18Da1354561E9B59Dc2937Ef5C95C",
+  "decimals": 9,
+  "name": "SafeSex",
+  "ens_address": "",
+  "website": "https://www.safesextoken.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

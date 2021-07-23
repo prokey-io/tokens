@@ -1,0 +1,34 @@
+{
+  "symbol": "TWIN",
+  "address": "0xAF83F292fcED83032f52ced45ef7DBDdb586441a",
+  "decimals": 18,
+  "name": "Twinci Token",
+  "ens_address": "",
+  "website": "https://twinci.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "LAZY",
+  "address": "0xF4308ae29c84238f3386C01d3CF6266AC6939ADE",
+  "decimals": 18,
+  "name": "Lazy",
+  "ens_address": "",
+  "website": "https://lazymint.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

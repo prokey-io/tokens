@@ -1,0 +1,34 @@
+{
+  "symbol": "UNDO",
+  "address": "0xae768A3d387c3B65d382535a790370Af94bb1691",
+  "decimals": 9,
+  "name": "UndoToken",
+  "ens_address": "",
+  "website": "https://undo.website",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

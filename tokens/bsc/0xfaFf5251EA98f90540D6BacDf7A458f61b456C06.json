@@ -1,0 +1,34 @@
+{
+  "symbol": "Lava",
+  "address": "0xfaFf5251EA98f90540D6BacDf7A458f61b456C06",
+  "decimals": 9,
+  "name": "Lava Token",
+  "ens_address": "",
+  "website": "https://www.lavatoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

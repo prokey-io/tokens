@@ -1,0 +1,34 @@
+{
+  "symbol": "Diamonds",
+  "address": "0x37c4bcf0b8fC6f074be933Af7fb9D1DDe55f979C",
+  "decimals": 12,
+  "name": "Black Diamond",
+  "ens_address": "",
+  "website": "https://blackdiamond.gold",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

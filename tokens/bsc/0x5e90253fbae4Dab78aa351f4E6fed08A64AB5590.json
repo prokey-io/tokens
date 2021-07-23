@@ -1,0 +1,34 @@
+{
+  "symbol": "BONFIRE",
+  "address": "0x5e90253fbae4Dab78aa351f4E6fed08A64AB5590",
+  "decimals": 9,
+  "name": "Bonfire",
+  "ens_address": "",
+  "website": "https://www.bonfiretoken.co/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "$MC",
+  "address": "0x899dCdE4f486816aFae42442D4b1b6a7C6fE9c63",
+  "decimals": 8,
+  "name": "MARGIN CALL TOKEN",
+  "ens_address": "",
+  "website": "https://margincall.cc",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "XBC",
+  "address": "0x0321394309CaD7E0E424650844c3AB3b659315d3",
+  "decimals": 9,
+  "name": "XBN Community",
+  "ens_address": "",
+  "website": "https://xbc.xbn.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

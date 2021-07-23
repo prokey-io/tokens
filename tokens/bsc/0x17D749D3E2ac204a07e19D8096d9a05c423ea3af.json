@@ -1,0 +1,34 @@
+{
+  "symbol": "LTRBT",
+  "address": "0x17D749D3E2ac204a07e19D8096d9a05c423ea3af",
+  "decimals": 9,
+  "name": "Little Rabbit",
+  "ens_address": "",
+  "website": "https://littlerabbit.website",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

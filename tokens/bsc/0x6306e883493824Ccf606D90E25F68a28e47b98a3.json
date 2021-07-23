@@ -1,0 +1,34 @@
+{
+  "symbol": "EXF",
+  "address": "0x6306e883493824Ccf606D90E25F68a28e47b98a3",
+  "decimals": 9,
+  "name": "Extend Finance",
+  "ens_address": "",
+  "website": "https://extendfinance.online",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

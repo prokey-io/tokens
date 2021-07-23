@@ -1,0 +1,34 @@
+{
+  "symbol": "VANCATDOG",
+  "address": "0x97F4e15606cf335B7a6DAEC2BA02449Fb5Da69C6",
+  "decimals": 0,
+  "name": "VANCATDOG",
+  "ens_address": "",
+  "website": "https://vancatdogtoken.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "BOBA",
+  "address": "0x5481A517028813956005d77bcD0F561c7276b1e3",
+  "decimals": 9,
+  "name": "BOOBAM Token",
+  "ens_address": "",
+  "website": "https://boobamfinance.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

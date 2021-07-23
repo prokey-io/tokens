@@ -1,0 +1,34 @@
+{
+  "symbol": "TWERK",
+  "address": "0x25E193FB8c6216b33f82C5e636461D85db6B72c2",
+  "decimals": 9,
+  "name": "TWERK Finance",
+  "ens_address": "",
+  "website": "https://twerk-finance.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

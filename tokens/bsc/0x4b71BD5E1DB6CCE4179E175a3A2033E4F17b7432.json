@@ -1,0 +1,34 @@
+{
+  "symbol": "GMY",
+  "address": "0x4b71BD5E1DB6CCE4179E175a3A2033E4F17b7432",
+  "decimals": 9,
+  "name": "Gameology Token",
+  "ens_address": "",
+  "website": "https://www.gameologycrypto.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

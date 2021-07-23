@@ -1,0 +1,34 @@
+{
+  "symbol": "BBT",
+  "address": "0xB3670F91E86a96EeDA0c75b1573035A6277226fb",
+  "decimals": 18,
+  "name": "BUYBACK Token",
+  "ens_address": "",
+  "website": "https://www.buybacktoken.net/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

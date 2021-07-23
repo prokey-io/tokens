@@ -1,0 +1,34 @@
+{
+  "symbol": "BREW",
+  "address": "0x790Be81C3cA0e53974bE2688cDb954732C9862e1",
+  "decimals": 18,
+  "name": "CafeSwap Token (BREW)",
+  "ens_address": "",
+  "website": "https://cafeswap.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

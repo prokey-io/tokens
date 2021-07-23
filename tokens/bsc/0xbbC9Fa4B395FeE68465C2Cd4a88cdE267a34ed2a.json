@@ -1,0 +1,34 @@
+{
+  "symbol": "wXRP",
+  "address": "0xbbC9Fa4B395FeE68465C2Cd4a88cdE267a34ed2a",
+  "decimals": 18,
+  "name": "wRipple",
+  "ens_address": "",
+  "website": "https://wripple.net",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

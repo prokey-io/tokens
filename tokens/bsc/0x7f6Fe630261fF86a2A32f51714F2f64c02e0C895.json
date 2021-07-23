@@ -1,0 +1,34 @@
+{
+  "symbol": "BTCP",
+  "address": "0x7f6Fe630261fF86a2A32f51714F2f64c02e0C895",
+  "decimals": 6,
+  "name": "BITCOIN Plus+",
+  "ens_address": "",
+  "website": "https://bitcoinp.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

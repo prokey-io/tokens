@@ -1,0 +1,34 @@
+{
+  "symbol": "PACOCA",
+  "address": "0x55671114d774ee99D653D6C12460c780a67f1D18",
+  "decimals": 18,
+  "name": "Pacoca Token",
+  "ens_address": "",
+  "website": "https://pacoca.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

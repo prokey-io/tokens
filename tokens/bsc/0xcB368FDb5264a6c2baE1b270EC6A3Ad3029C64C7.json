@@ -1,0 +1,34 @@
+{
+  "symbol": "HPR",
+  "address": "0xcB368FDb5264a6c2baE1b270EC6A3Ad3029C64C7",
+  "decimals": 8,
+  "name": "Hyperion",
+  "ens_address": "",
+  "website": "http://hyperion.exchange/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

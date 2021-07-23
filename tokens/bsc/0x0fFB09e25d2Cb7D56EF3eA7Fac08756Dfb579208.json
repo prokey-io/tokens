@@ -1,0 +1,34 @@
+{
+  "symbol": "CLOUT",
+  "address": "0x0fFB09e25d2Cb7D56EF3eA7Fac08756Dfb579208",
+  "decimals": 9,
+  "name": "CLOUT",
+  "ens_address": "",
+  "website": "https://cloutdefi.app",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "LMOOSE",
+  "address": "0x17d8C396a55D6c1c2130EfC23f4936b56860Df9C",
+  "decimals": 9,
+  "name": "Littlemoose",
+  "ens_address": "",
+  "website": "https://littlemoosefinance.wixsite.com/website",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "DOGEB",
+  "address": "0x3645Faf5d10422d5508Cf37771F6e47fEfA4c6A3",
+  "decimals": 18,
+  "name": "Dogecoin Black",
+  "ens_address": "",
+  "website": "https://dogecoinblack.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

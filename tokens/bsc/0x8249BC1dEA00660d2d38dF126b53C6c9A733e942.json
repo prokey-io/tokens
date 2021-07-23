@@ -1,0 +1,34 @@
+{
+  "symbol": "BAMI",
+  "address": "0x8249BC1dEA00660d2d38dF126b53C6c9A733e942",
+  "decimals": 18,
+  "name": "Bami defi",
+  "ens_address": "",
+  "website": "https://bami.money",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

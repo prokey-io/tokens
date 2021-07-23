@@ -1,0 +1,34 @@
+{
+  "symbol": "SHIB",
+  "address": "0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
+  "decimals": 18,
+  "name": "SHIBA INU",
+  "ens_address": "",
+  "website": "https://shibatoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

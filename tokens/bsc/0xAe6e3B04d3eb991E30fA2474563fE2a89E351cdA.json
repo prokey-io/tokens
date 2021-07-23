@@ -1,0 +1,34 @@
+{
+  "symbol": "CAKF",
+  "address": "0xAe6e3B04d3eb991E30fA2474563fE2a89E351cdA",
+  "decimals": 18,
+  "name": "PancakeFork Finance",
+  "ens_address": "",
+  "website": "https://pancakefork.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

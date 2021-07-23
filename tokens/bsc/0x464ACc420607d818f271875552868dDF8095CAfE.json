@@ -1,0 +1,34 @@
+{
+  "symbol": "MEONG",
+  "address": "0x464ACc420607d818f271875552868dDF8095CAfE",
+  "decimals": 9,
+  "name": "Meong Token",
+  "ens_address": "",
+  "website": "https://meongtoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

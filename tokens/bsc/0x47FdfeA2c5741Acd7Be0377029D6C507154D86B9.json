@@ -1,0 +1,34 @@
+{
+  "symbol": "SAFEETH",
+  "address": "0x47FdfeA2c5741Acd7Be0377029D6C507154D86B9",
+  "decimals": 9,
+  "name": "SafeETH",
+  "ens_address": "",
+  "website": "https://safeethbsc.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

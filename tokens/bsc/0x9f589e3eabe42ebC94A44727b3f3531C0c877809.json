@@ -1,0 +1,34 @@
+{
+  "symbol": "TKO",
+  "address": "0x9f589e3eabe42ebC94A44727b3f3531C0c877809",
+  "decimals": 18,
+  "name": "Tokocrypto Token",
+  "ens_address": "",
+  "website": "http://www.tokocrypto.com/ ",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

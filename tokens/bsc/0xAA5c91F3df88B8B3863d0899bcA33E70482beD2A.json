@@ -1,0 +1,34 @@
+{
+  "symbol": "WAIV",
+  "address": "0xAA5c91F3df88B8B3863d0899bcA33E70482beD2A",
+  "decimals": 9,
+  "name": "WAIVLENGTH",
+  "ens_address": "",
+  "website": "https://www.waivlength.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

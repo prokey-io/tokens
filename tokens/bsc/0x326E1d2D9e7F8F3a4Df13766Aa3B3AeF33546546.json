@@ -1,0 +1,34 @@
+{
+  "symbol": "GrandpaDoge",
+  "address": "0x326E1d2D9e7F8F3a4Df13766Aa3B3AeF33546546",
+  "decimals": 9,
+  "name": "Grandpa Doge",
+  "ens_address": "",
+  "website": "https://www.grandpadoge.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "YUKINU",
+  "address": "0xa30CbbD41E2b8cbb6EA3923Ab215C782F8F9b51B",
+  "decimals": 9,
+  "name": "Yuki Inu",
+  "ens_address": "",
+  "website": "https://www.yukitoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

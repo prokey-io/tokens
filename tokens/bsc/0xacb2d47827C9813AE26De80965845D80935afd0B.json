@@ -1,0 +1,34 @@
+{
+  "symbol": "MCRN",
+  "address": "0xacb2d47827C9813AE26De80965845D80935afd0B",
+  "decimals": 18,
+  "name": "MacaronSwap Token",
+  "ens_address": "",
+  "website": "https://macaronswap.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "BOA",
+  "address": "0xcBc919D845f393Aa0ceD76085Fd082c8aDcE00be",
+  "decimals": 7,
+  "name": "BOSAGORA",
+  "ens_address": "",
+  "website": "https://bosagora.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

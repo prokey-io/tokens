@@ -1,0 +1,34 @@
+{
+  "symbol": "WYNAUT",
+  "address": "0x067a5ad3f0f91AcF512fFE66Ea77f37b4DcaaF18",
+  "decimals": 8,
+  "name": "Wynaut Token",
+  "ens_address": "",
+  "website": "https://wynaut.money",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

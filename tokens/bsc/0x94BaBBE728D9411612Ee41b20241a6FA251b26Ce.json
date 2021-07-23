@@ -1,0 +1,34 @@
+{
+  "symbol": "GFCE",
+  "address": "0x94BaBBE728D9411612Ee41b20241a6FA251b26Ce",
+  "decimals": 9,
+  "name": "GFORCE",
+  "ens_address": "",
+  "website": "https://jetfuel.finance/gforce",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

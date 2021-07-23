@@ -1,0 +1,34 @@
+{
+  "symbol": "SBYTE",
+  "address": "0x0Fe3e956D2034BCEF01FbA8A2BfCA389cdb72699",
+  "decimals": 9,
+  "name": "Securabyte",
+  "ens_address": "",
+  "website": "https://securabyte.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

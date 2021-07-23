@@ -1,0 +1,34 @@
+{
+  "symbol": "TCGCoin",
+  "address": "0xC070C8Ae94977f78d04553D33449DEf944F24254",
+  "decimals": 9,
+  "name": "TCGCoin",
+  "ens_address": "",
+  "website": "https://www.tcgcoin.tech",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

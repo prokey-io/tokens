@@ -1,0 +1,34 @@
+{
+  "symbol": "ORK",
+  "address": "0xCed0CE92F4bdC3c2201E255FAF12f05cf8206dA8",
+  "decimals": 18,
+  "name": "Orakuru",
+  "ens_address": "",
+  "website": "https://orakuru.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

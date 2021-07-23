@@ -1,0 +1,34 @@
+{
+  "symbol": "GREATAPE",
+  "address": "0x7f4a15F5cf12E1650f090FB7Bc7B0f240f1bDe98",
+  "decimals": 9,
+  "name": "Great Ape",
+  "ens_address": "",
+  "website": "https://greatape.cc/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

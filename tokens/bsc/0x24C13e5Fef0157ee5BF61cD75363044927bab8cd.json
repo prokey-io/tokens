@@ -1,0 +1,34 @@
+{
+  "symbol": "PTC",
+  "address": "0x24C13e5Fef0157ee5BF61cD75363044927bab8cd",
+  "decimals": 0,
+  "name": "Panther Coin",
+  "ens_address": "",
+  "website": "https://panthercoin.net/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

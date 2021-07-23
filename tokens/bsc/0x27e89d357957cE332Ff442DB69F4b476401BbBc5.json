@@ -1,0 +1,34 @@
+{
+  "symbol": "CARMA",
+  "address": "0x27e89d357957cE332Ff442DB69F4b476401BbBc5",
+  "decimals": 9,
+  "name": "Carma Coin",
+  "ens_address": "",
+  "website": "https://carmacoin.co",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

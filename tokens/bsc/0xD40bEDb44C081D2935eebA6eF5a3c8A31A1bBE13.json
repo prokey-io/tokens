@@ -1,0 +1,34 @@
+{
+  "symbol": "HERO",
+  "address": "0xD40bEDb44C081D2935eebA6eF5a3c8A31A1bBE13",
+  "decimals": 18,
+  "name": "Metahero",
+  "ens_address": "",
+  "website": "https://metahero.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

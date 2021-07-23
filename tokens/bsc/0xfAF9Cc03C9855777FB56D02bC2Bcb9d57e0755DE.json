@@ -1,0 +1,34 @@
+{
+  "symbol": "URG",
+  "address": "0xfAF9Cc03C9855777FB56D02bC2Bcb9d57e0755DE",
+  "decimals": 9,
+  "name": "Urgaming",
+  "ens_address": "",
+  "website": "https://www.urgaming.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

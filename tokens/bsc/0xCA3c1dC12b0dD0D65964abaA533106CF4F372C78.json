@@ -1,0 +1,34 @@
+{
+  "symbol": "CAKITA",
+  "address": "0xCA3c1dC12b0dD0D65964abaA533106CF4F372C78",
+  "decimals": 9,
+  "name": "ChubbyAkita",
+  "ens_address": "",
+  "website": "https://www.chubbyakita.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

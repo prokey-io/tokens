@@ -1,0 +1,34 @@
+{
+  "symbol": "PORNROCKET",
+  "address": "0xCF9f991b14620f5ad144Eec11f9bc7Bf08987622",
+  "decimals": 9,
+  "name": "PORNROCKET",
+  "ens_address": "",
+  "website": "https://pornrocket.co/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

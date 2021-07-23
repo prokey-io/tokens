@@ -1,0 +1,34 @@
+{
+  "symbol": "VBit",
+  "address": "0xE78a58ACB18811E840DD828d4f0116389e953592",
+  "decimals": 9,
+  "name": "VoltBit",
+  "ens_address": "",
+  "website": "https://www.voltbit.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

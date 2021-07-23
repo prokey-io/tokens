@@ -1,0 +1,34 @@
+{
+  "symbol": "BULL",
+  "address": "0x1F8Fc5470846011646C4cb05Cf235B47d5A7ADe6",
+  "decimals": 9,
+  "name": "Bullet Token",
+  "ens_address": "",
+  "website": "https://bulletbsc.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

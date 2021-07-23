@@ -1,0 +1,34 @@
+{
+  "symbol": "X2P",
+  "address": "0x53dcD4eF8E21FE014594a0854c4271a0623B31eC",
+  "decimals": 9,
+  "name": "Xenon Pay",
+  "ens_address": "",
+  "website": "https://xenonpay.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "BBoxer",
+  "address": "0xeD7ed82D5A0f1B363309223975f899E7BEd5Fea6",
+  "decimals": 9,
+  "name": "BabyBoxer",
+  "ens_address": "",
+  "website": "https://babyboxer.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

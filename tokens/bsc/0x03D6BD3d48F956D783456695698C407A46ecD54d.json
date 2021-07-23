@@ -1,0 +1,34 @@
+{
+  "symbol": "HYPR",
+  "address": "0x03D6BD3d48F956D783456695698C407A46ecD54d",
+  "decimals": 18,
+  "name": "HyperBurn",
+  "ens_address": "",
+  "website": "https://hyperjump.fi/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

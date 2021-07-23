@@ -1,0 +1,34 @@
+{
+  "symbol": "MOONBEE",
+  "address": "0x4a37a2d3Ec44F0FD7DdCF7c2D90749dDeEFb6101",
+  "decimals": 9,
+  "name": "MOON BEE Token",
+  "ens_address": "",
+  "website": "https://moonbee.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

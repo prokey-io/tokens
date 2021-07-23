@@ -1,0 +1,34 @@
+{
+  "symbol": "EGG",
+  "address": "0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6",
+  "decimals": 18,
+  "name": "Goose Golden Egg",
+  "ens_address": "",
+  "website": "https://www.goosedefi.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

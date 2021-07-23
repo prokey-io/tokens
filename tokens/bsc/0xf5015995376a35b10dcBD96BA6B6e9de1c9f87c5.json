@@ -1,0 +1,34 @@
+{
+  "symbol": "MIL",
+  "address": "0xf5015995376a35b10dcBD96BA6B6e9de1c9f87c5",
+  "decimals": 9,
+  "name": "Military Finance Token",
+  "ens_address": "",
+  "website": "https://www.military.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

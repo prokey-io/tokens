@@ -1,0 +1,34 @@
+{
+  "symbol": "NSTLE",
+  "address": "0xf79a6caDa446F331BC560CDE7946d09AEF0EE18B",
+  "decimals": 9,
+  "name": "Nestle Finance",
+  "ens_address": "",
+  "website": "https://www.nestlefinance.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

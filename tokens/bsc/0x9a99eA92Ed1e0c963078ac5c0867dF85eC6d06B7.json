@@ -1,0 +1,34 @@
+{
+  "symbol": "QTM",
+  "address": "0x9a99eA92Ed1e0c963078ac5c0867dF85eC6d06B7",
+  "decimals": 8,
+  "name": "QuantumToken",
+  "ens_address": "",
+  "website": "https://quantumchain.app",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

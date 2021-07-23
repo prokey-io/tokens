@@ -1,0 +1,34 @@
+{
+  "symbol": "MiniDOGE",
+  "address": "0xBa07EED3d09055d60CAEf2bDfCa1c05792f2dFad",
+  "decimals": 9,
+  "name": "MiniDOGE",
+  "ens_address": "",
+  "website": "https://minidoge.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

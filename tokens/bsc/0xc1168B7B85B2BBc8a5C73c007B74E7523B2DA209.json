@@ -1,0 +1,34 @@
+{
+  "symbol": "BABYBNB",
+  "address": "0xc1168B7B85B2BBc8a5C73c007B74E7523B2DA209",
+  "decimals": 9,
+  "name": "Babybnb",
+  "ens_address": "",
+  "website": "https://babybnb.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

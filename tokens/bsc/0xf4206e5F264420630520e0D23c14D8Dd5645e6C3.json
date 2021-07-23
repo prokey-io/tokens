@@ -1,0 +1,34 @@
+{
+  "symbol": "LUNAR",
+  "address": "0xf4206e5F264420630520e0D23c14D8Dd5645e6C3",
+  "decimals": 9,
+  "name": "Lunar",
+  "ens_address": "",
+  "website": "https://lunarswap.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

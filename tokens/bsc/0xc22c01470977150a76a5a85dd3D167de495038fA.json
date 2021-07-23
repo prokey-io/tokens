@@ -1,0 +1,34 @@
+{
+  "symbol": "DRAGON",
+  "address": "0xc22c01470977150a76a5a85dd3D167de495038fA",
+  "decimals": 9,
+  "name": "Space Dragon",
+  "ens_address": "",
+  "website": "https://spacedragon.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

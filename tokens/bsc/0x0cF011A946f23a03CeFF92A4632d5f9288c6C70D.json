@@ -1,0 +1,34 @@
+{
+  "symbol": "NCAT",
+  "address": "0x0cF011A946f23a03CeFF92A4632d5f9288c6C70D",
+  "decimals": 9,
+  "name": "NCAT Token",
+  "ens_address": "",
+  "website": "https://ncat.fun",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "SAFESTAR",
+  "address": "0x3C00F8FCc8791fa78DAA4A480095Ec7D475781e2",
+  "decimals": 9,
+  "name": "Safe Star Token",
+  "ens_address": "",
+  "website": "https://safestar.me",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "DND",
+  "address": "0x14c358b573a4cE45364a3DBD84BBb4Dae87af034",
+  "decimals": 18,
+  "name": "DungeonSwap Token",
+  "ens_address": "",
+  "website": "https://dungeonswap.app/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

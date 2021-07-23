@@ -1,0 +1,34 @@
+{
+  "symbol": "PNDA",
+  "address": "0x4273d797Ebc0063d5d887B1e67daD4A43E2Fd244",
+  "decimals": 18,
+  "name": "ProjectPanda",
+  "ens_address": "",
+  "website": "https://project-panda.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "TCAKE",
+  "address": "0x3b831d36ed418e893F42d46ff308C326C239429f",
+  "decimals": 18,
+  "name": "PancakeTools",
+  "ens_address": "",
+  "website": "https://pancaketools.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

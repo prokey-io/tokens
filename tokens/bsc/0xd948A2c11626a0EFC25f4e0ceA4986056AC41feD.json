@@ -1,0 +1,34 @@
+{
+  "symbol": "SAFEMARSCASH",
+  "address": "0xd948A2c11626a0EFC25f4e0ceA4986056AC41feD",
+  "decimals": 8,
+  "name": "SAFEMARSCASH",
+  "ens_address": "",
+  "website": "https://safemarscash.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

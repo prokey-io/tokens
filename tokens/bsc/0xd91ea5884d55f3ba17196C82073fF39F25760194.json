@@ -1,0 +1,34 @@
+{
+  "symbol": "pZERO",
+  "address": "0xd91ea5884d55f3ba17196C82073fF39F25760194",
+  "decimals": 18,
+  "name": " PROJECT ZERO",
+  "ens_address": "",
+  "website": "https://projectzero.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

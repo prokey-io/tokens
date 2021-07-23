@@ -1,0 +1,34 @@
+{
+  "symbol": "MOONRABBIT",
+  "address": "0x5Ac69C40bc7363EA7D98574C78F4f54DbecbD54B",
+  "decimals": 9,
+  "name": "MoonRabbit",
+  "ens_address": "",
+  "website": "https://moonrabbit.money",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

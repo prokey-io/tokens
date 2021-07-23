@@ -1,0 +1,34 @@
+{
+  "symbol": "AIRT",
+  "address": "0x016CF83732f1468150D87dCC5BdF67730B3934D3",
+  "decimals": 18,
+  "name": "AirNFT Token",
+  "ens_address": "",
+  "website": "http://airnfts.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

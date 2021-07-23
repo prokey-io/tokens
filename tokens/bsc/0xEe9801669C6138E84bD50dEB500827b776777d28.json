@@ -1,0 +1,34 @@
+{
+  "symbol": "O3",
+  "address": "0xEe9801669C6138E84bD50dEB500827b776777d28",
+  "decimals": 18,
+  "name": "O3 Swap",
+  "ens_address": "",
+  "website": "https://o3swap.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

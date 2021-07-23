@@ -1,0 +1,34 @@
+{
+  "symbol": "TTDX",
+  "address": "0xc4957a864245AA4373Be1f33ae24E93876b7Dfe1",
+  "decimals": 8,
+  "name": "TurtleDex",
+  "ens_address": "",
+  "website": "https://turtledex.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "BULL",
+  "address": "0xf483af09917bA63F1E274056978036d266EB56e6",
+  "decimals": 18,
+  "name": "BULL COIN",
+  "ens_address": "",
+  "website": "http://bullcoin.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

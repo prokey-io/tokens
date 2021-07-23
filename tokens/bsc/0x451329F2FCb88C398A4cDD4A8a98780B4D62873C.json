@@ -1,0 +1,34 @@
+{
+  "symbol": "CATE1",
+  "address": "0x451329F2FCb88C398A4cDD4A8a98780B4D62873C",
+  "decimals": 9,
+  "name": "CateCoin 1",
+  "ens_address": "",
+  "website": "http://catecoin.club",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

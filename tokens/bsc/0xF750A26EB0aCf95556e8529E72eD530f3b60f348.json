@@ -1,0 +1,34 @@
+{
+  "symbol": "GNT",
+  "address": "0xF750A26EB0aCf95556e8529E72eD530f3b60f348",
+  "decimals": 18,
+  "name": "GreenTrust",
+  "ens_address": "",
+  "website": "https://www.greentrusttoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

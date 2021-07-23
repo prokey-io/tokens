@@ -1,0 +1,34 @@
+{
+  "symbol": "N1CE",
+  "address": "0xC14dF1E2fFf3708816495e7364Ff274aCEEcAd91",
+  "decimals": 18,
+  "name": "N1CE Token",
+  "ens_address": "",
+  "website": "https://www.n1ce.community/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

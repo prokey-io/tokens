@@ -1,0 +1,34 @@
+{
+  "symbol": "SPACETOAST",
+  "address": "0x623b3A37E06268E99096a56A8A0c1207a024245d",
+  "decimals": 9,
+  "name": "SpaceToast",
+  "ens_address": "",
+  "website": "https://www.toastfinance.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

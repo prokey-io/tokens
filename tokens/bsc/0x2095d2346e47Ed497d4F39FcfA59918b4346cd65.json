@@ -1,0 +1,34 @@
+{
+  "symbol": "TCT",
+  "address": "0x2095d2346e47Ed497d4F39FcfA59918b4346cd65",
+  "decimals": 18,
+  "name": "TACOCAT Token",
+  "ens_address": "",
+  "website": "https://tacocat.co",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

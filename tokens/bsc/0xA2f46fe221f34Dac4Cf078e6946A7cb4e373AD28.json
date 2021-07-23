@@ -1,0 +1,34 @@
+{
+  "symbol": "BAFI",
+  "address": "0xA2f46fe221f34Dac4Cf078e6946A7cb4e373AD28",
+  "decimals": 18,
+  "name": "BAFI Token",
+  "ens_address": "",
+  "website": "https://bafi.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

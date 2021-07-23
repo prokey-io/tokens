@@ -1,0 +1,34 @@
+{
+  "symbol": "DDIM",
+  "address": "0xc9132C76060F6b319764Ea075973a650A1a53bC9",
+  "decimals": 18,
+  "name": "DuckDaoDime",
+  "ens_address": "",
+  "website": "https://duckdao.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

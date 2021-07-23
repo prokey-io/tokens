@@ -1,0 +1,34 @@
+{
+  "symbol": "DMOON",
+  "address": "0x8267d169E1483E01AACBCfd22d294c47ECE9F07f",
+  "decimals": 9,
+  "name": "DragonMoon",
+  "ens_address": "",
+  "website": "https://www.dmoon.xyz/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

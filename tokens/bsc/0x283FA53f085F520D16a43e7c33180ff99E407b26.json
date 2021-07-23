@@ -1,0 +1,34 @@
+{
+  "symbol": "MAX",
+  "address": "0x283FA53f085F520D16a43e7c33180ff99E407b26",
+  "decimals": 8,
+  "name": "Maxima",
+  "ens_address": "",
+  "website": "https://www.maximatoken.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

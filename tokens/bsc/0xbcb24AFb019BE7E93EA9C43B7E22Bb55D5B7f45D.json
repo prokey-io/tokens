@@ -1,0 +1,34 @@
+{
+  "symbol": "BSCS",
+  "address": "0xbcb24AFb019BE7E93EA9C43B7E22Bb55D5B7f45D",
+  "decimals": 18,
+  "name": "BSCS Token",
+  "ens_address": "",
+  "website": "https://bscstation.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "BTCR",
+  "address": "0x893F9C19e2b9f7865f6d0f953C38B34A3a6c17cF",
+  "decimals": 9,
+  "name": "Bitcoin Reflect",
+  "ens_address": "",
+  "website": "https://bitcoinreflect.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

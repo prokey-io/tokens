@@ -1,0 +1,34 @@
+{
+  "symbol": "SENSI",
+  "address": "0x7869044D36ea75975B793ca4312608cc3817895B",
+  "decimals": 9,
+  "name": "Sensible Finance",
+  "ens_address": "",
+  "website": "https://sensible.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

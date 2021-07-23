@@ -1,0 +1,34 @@
+{
+  "symbol": "CROW",
+  "address": "0xcc2E12a9b5b75360c6FBf23B584c275D52cDdb0E",
+  "decimals": 18,
+  "name": "Crow Token",
+  "ens_address": "",
+  "website": "https://crowfinance.net/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

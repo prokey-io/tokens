@@ -1,0 +1,34 @@
+{
+  "symbol": "MOJO",
+  "address": "0x8087E4c1735C1373F0D04b88d4Dbe1FAe1149123",
+  "decimals": 9,
+  "name": "MoonJuice",
+  "ens_address": "",
+  "website": "https://www.moonjuice.app",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

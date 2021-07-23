@@ -1,0 +1,34 @@
+{
+  "symbol": "TCF",
+  "address": "0xD78Bd47A6934959583b47F081Ce0f9Fd5E0338D1",
+  "decimals": 18,
+  "name": "TeaCrypto Finance",
+  "ens_address": "",
+  "website": "https://teacrypto.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

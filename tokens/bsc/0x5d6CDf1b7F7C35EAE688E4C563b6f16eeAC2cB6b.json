@@ -1,0 +1,34 @@
+{
+  "symbol": "SMOON",
+  "address": "0x5d6CDf1b7F7C35EAE688E4C563b6f16eeAC2cB6b",
+  "decimals": 9,
+  "name": "SaylorMoon",
+  "ens_address": "",
+  "website": "https://saylormoon.army",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

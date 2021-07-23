@@ -1,0 +1,34 @@
+{
+  "symbol": "USDC",
+  "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+  "decimals": 18,
+  "name": "Binance-Peg USD Coin",
+  "ens_address": "",
+  "website": "https://www.centre.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

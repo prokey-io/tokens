@@ -1,0 +1,34 @@
+{
+  "symbol": "Astroape",
+  "address": "0x95df1652cBAB65fd566C088531B7760C9dA19f5F",
+  "decimals": 9,
+  "name": "Astroape",
+  "ens_address": "",
+  "website": "https://astroape.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "OXB",
+  "address": "0x3fd5B5746315E3F8d43A46b09c826a001EBb977d",
+  "decimals": 9,
+  "name": "oxbull.tech",
+  "ens_address": "",
+  "website": "https://www.oxbull.tech",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

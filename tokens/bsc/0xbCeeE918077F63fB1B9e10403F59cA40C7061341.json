@@ -1,0 +1,34 @@
+{
+  "symbol": "PAPADOGE",
+  "address": "0xbCeeE918077F63fB1B9e10403F59cA40C7061341",
+  "decimals": 18,
+  "name": "Papa Doge Coin",
+  "ens_address": "",
+  "website": "https://www.papadoge.space/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

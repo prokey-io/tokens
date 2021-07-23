@@ -1,0 +1,34 @@
+{
+  "symbol": "MERL",
+  "address": "0xDA360309C59CB8C434b28A91b823344a96444278",
+  "decimals": 18,
+  "name": "Merlin Lab",
+  "ens_address": "",
+  "website": "https://merlinlab.com/farm",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

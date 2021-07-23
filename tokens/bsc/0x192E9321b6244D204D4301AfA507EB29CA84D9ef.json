@@ -1,0 +1,34 @@
+{
+  "symbol": "BOXER",
+  "address": "0x192E9321b6244D204D4301AfA507EB29CA84D9ef",
+  "decimals": 9,
+  "name": "BoxerInu",
+  "ens_address": "",
+  "website": "https://boxerinu.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

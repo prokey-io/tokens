@@ -1,0 +1,34 @@
+{
+  "symbol": "SHIBS",
+  "address": "0x10B7Be52636882d7ECa1611144A9Df7642F95B5D",
+  "decimals": 18,
+  "name": "SHIBA SUPER",
+  "ens_address": "",
+  "website": "https://shibasuper.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

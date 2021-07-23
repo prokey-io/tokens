@@ -1,0 +1,34 @@
+{
+  "symbol": "GDT",
+  "address": "0xb7F2bca9b034f8cc143339Dd12bb31D3D50Cf27a",
+  "decimals": 9,
+  "name": "Gorilla Diamond",
+  "ens_address": "",
+  "website": "https://www.gorilladiamond.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

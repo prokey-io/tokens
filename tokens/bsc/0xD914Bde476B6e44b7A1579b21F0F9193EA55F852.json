@@ -1,0 +1,34 @@
+{
+  "symbol": "HSHIBA",
+  "address": "0xD914Bde476B6e44b7A1579b21F0F9193EA55F852",
+  "decimals": 9,
+  "name": "HuskyShiba",
+  "ens_address": "",
+  "website": "https://huskyshiba.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

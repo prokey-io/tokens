@@ -1,0 +1,34 @@
+{
+  "symbol": "BRT",
+  "address": "0xeB2d878Dcc05c8f39411dF483574907b4fb11990",
+  "decimals": 9,
+  "name": "Brastoken",
+  "ens_address": "",
+  "website": "https://brastoken.com/lp-en",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

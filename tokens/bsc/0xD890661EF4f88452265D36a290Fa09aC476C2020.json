@@ -1,0 +1,34 @@
+{
+  "symbol": "BTEC",
+  "address": "0xD890661EF4f88452265D36a290Fa09aC476C2020",
+  "decimals": 9,
+  "name": "Brazil Technology",
+  "ens_address": "",
+  "website": "https://braziltechnology.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

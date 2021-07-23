@@ -1,0 +1,34 @@
+{
+  "symbol": "GOLDEN INU",
+  "address": "0xD3aBd3fdc3463F3a82c80adc581DA2432e42c215",
+  "decimals": 8,
+  "name": "Golden Shiba Inu Token",
+  "ens_address": "",
+  "website": "https://goldenshibainu.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "SHARK",
+  "address": "0xcc9b175E4b88a22543C44F1cC65B73f63b0D4EfE",
+  "decimals": 9,
+  "name": "BabyShark",
+  "ens_address": "",
+  "website": "https://babysharktoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

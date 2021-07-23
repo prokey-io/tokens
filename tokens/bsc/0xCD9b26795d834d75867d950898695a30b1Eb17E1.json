@@ -1,0 +1,34 @@
+{
+  "symbol": "VIDTC",
+  "address": "0xCD9b26795d834d75867d950898695a30b1Eb17E1",
+  "decimals": 0,
+  "name": "VIDTC NFT Claim",
+  "ens_address": "",
+  "website": "https://vidt-datalink.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

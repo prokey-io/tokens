@@ -1,0 +1,34 @@
+{
+  "symbol": "$SUPDOG",
+  "address": "0x622A1297057ea233287ce77bdBF2AB4E63609F23",
+  "decimals": 9,
+  "name": "SUPERDOGE",
+  "ens_address": "",
+  "website": "https://superdoge.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

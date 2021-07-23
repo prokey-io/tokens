@@ -1,0 +1,34 @@
+{
+  "symbol": "SAFECOMET",
+  "address": "0xB667bbfE0DcEdae1a53555a0e8B0a14EAf0d5231",
+  "decimals": 9,
+  "name": "SafeComet",
+  "ens_address": "",
+  "website": "https://safecometcrypto.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "RSD",
+  "address": "0x61Ed1C66239d29Cc93C8597c6167159e8F69a823",
+  "decimals": 18,
+  "name": "Reference System for DeFi",
+  "ens_address": "",
+  "website": "https://rsd.cash",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

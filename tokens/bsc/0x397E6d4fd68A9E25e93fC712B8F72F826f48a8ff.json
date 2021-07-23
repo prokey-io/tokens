@@ -1,0 +1,34 @@
+{
+  "symbol": "DINGO",
+  "address": "0x397E6d4fd68A9E25e93fC712B8F72F826f48a8ff",
+  "decimals": 9,
+  "name": "Dingo Token",
+  "ens_address": "",
+  "website": "https://dingotoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

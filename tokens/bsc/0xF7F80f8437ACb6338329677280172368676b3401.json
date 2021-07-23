@@ -1,0 +1,34 @@
+{
+  "symbol": "EUR/T",
+  "address": "0xF7F80f8437ACb6338329677280172368676b3401",
+  "decimals": 6,
+  "name": "Tether/EURO",
+  "ens_address": "",
+  "website": "https://tether.work/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

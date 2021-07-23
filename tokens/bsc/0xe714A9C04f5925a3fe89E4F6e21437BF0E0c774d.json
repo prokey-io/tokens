@@ -1,0 +1,34 @@
+{
+  "symbol": "GFCC",
+  "address": "0xe714A9C04f5925a3fe89E4F6e21437BF0E0c774d",
+  "decimals": 18,
+  "name": "GOLD FINCH CRYPTO CURRENCY",
+  "ens_address": "",
+  "website": "https://goldfinch.global",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

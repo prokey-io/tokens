@@ -1,0 +1,34 @@
+{
+  "symbol": "CLIMB",
+  "address": "0x2A1d286ed5edAD78BeFD6E0d8BEb38791e8cD69d",
+  "decimals": 8,
+  "name": "CLIMB TOKEN . FINANCE",
+  "ens_address": "",
+  "website": "https://www.climbtoken.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

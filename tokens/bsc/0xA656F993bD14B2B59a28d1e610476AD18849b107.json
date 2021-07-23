@@ -1,0 +1,34 @@
+{
+  "symbol": "SAFERMOON",
+  "address": "0xA656F993bD14B2B59a28d1e610476AD18849b107",
+  "decimals": 9,
+  "name": "SAFERMOON",
+  "ens_address": "",
+  "website": "https://safermoon.net/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

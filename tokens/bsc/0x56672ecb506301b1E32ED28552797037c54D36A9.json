@@ -1,0 +1,34 @@
+{
+  "symbol": "wBIS",
+  "address": "0x56672ecb506301b1E32ED28552797037c54D36A9",
+  "decimals": 8,
+  "name": "Wrapped BIS",
+  "ens_address": "",
+  "website": "https://bismuth.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

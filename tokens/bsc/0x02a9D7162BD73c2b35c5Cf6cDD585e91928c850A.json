@@ -1,0 +1,34 @@
+{
+  "symbol": "BFLOKI",
+  "address": "0x02a9D7162BD73c2b35c5Cf6cDD585e91928c850A",
+  "decimals": 9,
+  "name": "Baby Floki Inu",
+  "ens_address": "",
+  "website": "https://babyflokiinu.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

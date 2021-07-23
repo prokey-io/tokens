@@ -1,0 +1,34 @@
+{
+  "symbol": "OROS",
+  "address": "0xe540b81133C597b31c3A33E318E5bC0f3e78DfC9",
+  "decimals": 9,
+  "name": "Oros",
+  "ens_address": "",
+  "website": "https://oros.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

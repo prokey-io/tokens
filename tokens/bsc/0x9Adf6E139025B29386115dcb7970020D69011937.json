@@ -1,0 +1,34 @@
+{
+  "symbol": "GIFT",
+  "address": "0x9Adf6E139025B29386115dcb7970020D69011937",
+  "decimals": 18,
+  "name": "GIFT Coin",
+  "ens_address": "",
+  "website": "https://www.gift-coin.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

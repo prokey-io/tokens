@@ -1,0 +1,34 @@
+{
+  "symbol": "MOMA",
+  "address": "0xB72842D6F5feDf91D22d56202802Bb9A79C6322E",
+  "decimals": 18,
+  "name": "MOchi MArket",
+  "ens_address": "",
+  "website": "https://mochi.market",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

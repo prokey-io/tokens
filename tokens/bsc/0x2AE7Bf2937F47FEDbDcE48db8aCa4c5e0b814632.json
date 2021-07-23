@@ -1,0 +1,34 @@
+{
+  "symbol": "SAFEYIELD",
+  "address": "0x2AE7Bf2937F47FEDbDcE48db8aCa4c5e0b814632",
+  "decimals": 8,
+  "name": "SafeYield",
+  "ens_address": "",
+  "website": "https://safeyield.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

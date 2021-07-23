@@ -1,0 +1,34 @@
+{
+  "symbol": "STARDUST",
+  "address": "0xf647d6B49ea7bb880EcbCFf9913dF0d634875D33",
+  "decimals": 9,
+  "name": "Stargazer Protocol",
+  "ens_address": "",
+  "website": "https://stargazerprotocol.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

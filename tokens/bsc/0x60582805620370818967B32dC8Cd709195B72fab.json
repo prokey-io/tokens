@@ -1,0 +1,34 @@
+{
+  "symbol": "FINU",
+  "address": "0x60582805620370818967B32dC8Cd709195B72fab",
+  "decimals": 18,
+  "name": "FireInu",
+  "ens_address": "",
+  "website": "https://www.fireinu.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "ECGOD",
+  "address": "0x64F9DcD33D9F3A98407EeF67aC8F60CD370961Cf",
+  "decimals": 9,
+  "name": "ElonCryptoGod",
+  "ens_address": "",
+  "website": "https://www.eloncryptogod.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

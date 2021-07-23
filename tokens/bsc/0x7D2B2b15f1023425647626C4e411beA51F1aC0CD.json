@@ -1,0 +1,34 @@
+{
+  "symbol": "OW",
+  "address": "0x7D2B2b15f1023425647626C4e411beA51F1aC0CD",
+  "decimals": 9,
+  "name": "OWGaming",
+  "ens_address": "",
+  "website": "https://www.owgaming.co",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

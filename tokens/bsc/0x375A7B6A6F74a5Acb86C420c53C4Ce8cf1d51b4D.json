@@ -1,0 +1,34 @@
+{
+  "symbol": "HUP",
+  "address": "0x375A7B6A6F74a5Acb86C420c53C4Ce8cf1d51b4D",
+  "decimals": 9,
+  "name": "HUP.LIFE",
+  "ens_address": "",
+  "website": "https://www.hup.life",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "XPR",
+  "address": "0x5de3939b2F811A61d830E6F52d13B066881412ab",
+  "decimals": 4,
+  "name": "Proton",
+  "ens_address": "",
+  "website": "https://protonchain.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "OCP",
+  "address": "0x3C70260eEe0a2bFc4b375feB810325801f289fBd",
+  "decimals": 18,
+  "name": "Omni Consumer Protocols",
+  "ens_address": "",
+  "website": "https://OCP.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

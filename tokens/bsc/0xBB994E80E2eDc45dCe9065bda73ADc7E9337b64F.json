@@ -1,0 +1,34 @@
+{
+  "symbol": "O1T",
+  "address": "0xBB994E80E2eDc45dCe9065bda73ADc7E9337b64F",
+  "decimals": 18,
+  "name": "Only 1 Token",
+  "ens_address": "",
+  "website": "https://only1token.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

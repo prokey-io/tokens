@@ -1,0 +1,34 @@
+{
+  "symbol": "CPAC",
+  "address": "0x43D096cdD8a71d9421af406E8EeEfeD5861e74E1",
+  "decimals": 9,
+  "name": "Compact",
+  "ens_address": "",
+  "website": "https://compactcrypto.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

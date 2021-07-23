@@ -1,0 +1,34 @@
+{
+  "symbol": "NAFT",
+  "address": "0xD7730681B1DC8f6F969166B29D8A5EA8568616a3",
+  "decimals": 18,
+  "name": "Nafter",
+  "ens_address": "",
+  "website": "https://nafter.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

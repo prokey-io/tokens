@@ -1,0 +1,34 @@
+{
+  "symbol": "TORPEDO",
+  "address": "0xAF169E53e9f07DE6F9F4Eac67e2833C623f0c122",
+  "decimals": 9,
+  "name": "Torpedo",
+  "ens_address": "",
+  "website": "https://torpedo.live",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "bFR",
+  "address": "0xBea7086c99A85D4b5E6A0494C18B037fDD8eE932",
+  "decimals": 18,
+  "name": "Freedom Reserve",
+  "ens_address": "",
+  "website": "https://freedomreserv.eth.link/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "SUSHIBA",
+  "address": "0xa96658cd0D04a8fdCDc30D1156CC65BbFC7591eD",
+  "decimals": 9,
+  "name": "Sushiba Token",
+  "ens_address": "",
+  "website": "https://www.sushibatoken.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

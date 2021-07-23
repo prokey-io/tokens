@@ -1,0 +1,34 @@
+{
+  "symbol": "BEER",
+  "address": "0xD5a0dAd4E6f399CdC346ff04fd90ec0B511fCeF9",
+  "decimals": 9,
+  "name": "Beer Token",
+  "ens_address": "",
+  "website": "https://beertoken.co",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

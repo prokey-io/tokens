@@ -1,0 +1,34 @@
+{
+  "symbol": "HODL",
+  "address": "0x0E3EAF83Ea93Abe756690C62c72284943b96a6Bc",
+  "decimals": 9,
+  "name": "HODL Token",
+  "ens_address": "",
+  "website": "https://hodltoken.net/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

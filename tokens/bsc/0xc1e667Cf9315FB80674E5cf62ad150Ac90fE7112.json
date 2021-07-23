@@ -1,0 +1,34 @@
+{
+  "symbol": "TIKTOK",
+  "address": "0xc1e667Cf9315FB80674E5cf62ad150Ac90fE7112",
+  "decimals": 0,
+  "name": "TIKTOK COIN",
+  "ens_address": "",
+  "website": "https://tiktokcoinbsc.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

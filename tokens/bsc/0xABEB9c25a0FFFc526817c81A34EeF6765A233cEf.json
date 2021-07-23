@@ -1,0 +1,34 @@
+{
+  "symbol": "FLAME",
+  "address": "0xABEB9c25a0FFFc526817c81A34EeF6765A233cEf",
+  "decimals": 8,
+  "name": "Flame Chain",
+  "ens_address": "",
+  "website": "https://flamechain.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

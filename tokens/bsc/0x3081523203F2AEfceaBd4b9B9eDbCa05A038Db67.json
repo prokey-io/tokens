@@ -1,0 +1,34 @@
+{
+  "symbol": "MCAFEE",
+  "address": "0x3081523203F2AEfceaBd4b9B9eDbCa05A038Db67",
+  "decimals": 9,
+  "name": "The Last McAfee Token",
+  "ens_address": "",
+  "website": "https://mcafee.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

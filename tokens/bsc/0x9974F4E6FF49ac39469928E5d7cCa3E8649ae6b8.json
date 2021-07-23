@@ -1,0 +1,34 @@
+{
+  "symbol": "PATH",
+  "address": "0x9974F4E6FF49ac39469928E5d7cCa3E8649ae6b8",
+  "decimals": 9,
+  "name": "PathFund",
+  "ens_address": "",
+  "website": "https://pathfund.net",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

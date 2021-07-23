@@ -1,0 +1,34 @@
+{
+  "symbol": "LOF",
+  "address": "0xB3225aC90B741f762BecA76dEA1eaD278Ef26A96",
+  "decimals": 9,
+  "name": "LOFcrypto",
+  "ens_address": "",
+  "website": "https://lofcrypto.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

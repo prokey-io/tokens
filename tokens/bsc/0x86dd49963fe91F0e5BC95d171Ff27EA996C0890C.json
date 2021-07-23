@@ -1,0 +1,34 @@
+{
+  "symbol": "0XC",
+  "address": "0x86dd49963fe91F0e5BC95d171Ff27EA996C0890C",
+  "decimals": 9,
+  "name": "0xCharts Token",
+  "ens_address": "",
+  "website": "https://0xcharts.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

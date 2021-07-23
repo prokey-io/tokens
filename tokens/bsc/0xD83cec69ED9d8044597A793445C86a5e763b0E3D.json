@@ -1,0 +1,34 @@
+{
+  "symbol": "STOPELON",
+  "address": "0xD83cec69ED9d8044597A793445C86a5e763b0E3D",
+  "decimals": 9,
+  "name": "Stop Elon",
+  "ens_address": "",
+  "website": "https://stopelon.space",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "OBS",
+  "address": "0x490DbA6180b089d8E36eBb1E56a33F1aE9B96b87",
+  "decimals": 18,
+  "name": "OpenBiSea",
+  "ens_address": "",
+  "website": "https://openbisea.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

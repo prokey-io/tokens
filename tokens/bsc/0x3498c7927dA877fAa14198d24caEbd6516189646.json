@@ -1,0 +1,34 @@
+{
+  "symbol": "ROTHS",
+  "address": "0x3498c7927dA877fAa14198d24caEbd6516189646",
+  "decimals": 18,
+  "name": "ROTHS",
+  "ens_address": "",
+  "website": "https://roths.live",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

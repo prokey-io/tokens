@@ -1,0 +1,34 @@
+{
+  "symbol": "SHIBK",
+  "address": "0x09F956f1E0C28f0b436663D44e0830B7853203d4",
+  "decimals": 0,
+  "name": "SHIBA KILLER",
+  "ens_address": "",
+  "website": "https://shibakiller.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

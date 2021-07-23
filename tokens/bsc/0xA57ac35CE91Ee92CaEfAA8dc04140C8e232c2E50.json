@@ -1,0 +1,34 @@
+{
+  "symbol": "PIT",
+  "address": "0xA57ac35CE91Ee92CaEfAA8dc04140C8e232c2E50",
+  "decimals": 9,
+  "name": "Pitbull",
+  "ens_address": "",
+  "website": "https://pitbull.community",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

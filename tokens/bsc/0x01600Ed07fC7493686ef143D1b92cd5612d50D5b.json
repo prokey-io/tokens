@@ -1,0 +1,34 @@
+{
+  "symbol": "PANTHER",
+  "address": "0x01600Ed07fC7493686ef143D1b92cd5612d50D5b",
+  "decimals": 9,
+  "name": "PinkPanther NFT",
+  "ens_address": "",
+  "website": "https://pinkpanther.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

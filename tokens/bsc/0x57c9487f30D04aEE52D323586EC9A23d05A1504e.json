@@ -1,0 +1,34 @@
+{
+  "symbol": "HOME",
+  "address": "0x57c9487f30D04aEE52D323586EC9A23d05A1504e",
+  "decimals": 9,
+  "name": "HomeCoin",
+  "ens_address": "",
+  "website": "https://www.thehomecoin.co/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

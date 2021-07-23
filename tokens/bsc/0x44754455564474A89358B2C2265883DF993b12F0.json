@@ -1,0 +1,34 @@
+{
+  "symbol": "ZEE",
+  "address": "0x44754455564474A89358B2C2265883DF993b12F0",
+  "decimals": 18,
+  "name": "ZeroSwap",
+  "ens_address": "",
+  "website": "https://zeroswap.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

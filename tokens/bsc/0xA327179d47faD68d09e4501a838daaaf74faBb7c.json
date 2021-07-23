@@ -1,0 +1,34 @@
+{
+  "symbol": "SXI",
+  "address": "0xA327179d47faD68d09e4501a838daaaf74faBb7c",
+  "decimals": 9,
+  "name": "SafeXI",
+  "ens_address": "",
+  "website": "https://safe-xi.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "CROX",
+  "address": "0x2c094F5A7D1146BB93850f629501eB749f6Ed491",
+  "decimals": 18,
+  "name": "CROX Token",
+  "ens_address": "",
+  "website": "https://croxswap.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

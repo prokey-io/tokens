@@ -1,0 +1,34 @@
+{
+  "symbol": "BEST",
+  "address": "0x667bEbFf5cda3C4A460B514aB478Da0A8cF80910",
+  "decimals": 18,
+  "name": "Bitcoin And Ethereum Standard Token",
+  "ens_address": "",
+  "website": "https://bestokens.network",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

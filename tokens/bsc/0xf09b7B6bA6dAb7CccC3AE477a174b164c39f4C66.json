@@ -1,0 +1,34 @@
+{
+  "symbol": "MOONPIRATE",
+  "address": "0xf09b7B6bA6dAb7CccC3AE477a174b164c39f4C66",
+  "decimals": 9,
+  "name": "MoonPirate",
+  "ens_address": "",
+  "website": "https://www.moonpirate.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

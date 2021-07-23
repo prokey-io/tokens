@@ -1,0 +1,34 @@
+{
+  "symbol": "KaiInu",
+  "address": "0xe5a09784b16E1065C37dF14c6e2f06fDcE317a1b",
+  "decimals": 9,
+  "name": "Kai Inu",
+  "ens_address": "",
+  "website": "https://kaiinu.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

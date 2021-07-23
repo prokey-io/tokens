@@ -1,0 +1,34 @@
+{
+  "symbol": "APE",
+  "address": "0xAe0D2cC54e4821D8aec9aDd89125B70d34Ac906e",
+  "decimals": 18,
+  "name": "APE INU",
+  "ens_address": "",
+  "website": "https://apeinu.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "GEMS",
+  "address": "0xDfDec49462f7D3C3b0A48E729F77A0645CDFA7c0",
+  "decimals": 9,
+  "name": "SafeGem.finance",
+  "ens_address": "",
+  "website": "https://www.safegem.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

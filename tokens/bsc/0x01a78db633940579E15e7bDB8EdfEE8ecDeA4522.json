@@ -1,0 +1,34 @@
+{
+  "symbol": "EBSC",
+  "address": "0x01a78db633940579E15e7bDB8EdfEE8ecDeA4522",
+  "decimals": 9,
+  "name": "Lithium",
+  "ens_address": "",
+  "website": "https://lithium.ventures",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

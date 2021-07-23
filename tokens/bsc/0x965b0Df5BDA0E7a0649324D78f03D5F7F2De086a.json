@@ -1,0 +1,34 @@
+{
+  "symbol": "COOK",
+  "address": "0x965b0Df5BDA0E7a0649324D78f03D5F7F2De086a",
+  "decimals": 18,
+  "name": "COOK Token",
+  "ens_address": "",
+  "website": "https://cook.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

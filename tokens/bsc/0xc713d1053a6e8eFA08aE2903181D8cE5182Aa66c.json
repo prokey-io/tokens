@@ -1,0 +1,34 @@
+{
+  "symbol": "NFTBOX",
+  "address": "0xc713d1053a6e8eFA08aE2903181D8cE5182Aa66c",
+  "decimals": 9,
+  "name": "NFTBOX",
+  "ens_address": "",
+  "website": "https://nftbox.fun",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

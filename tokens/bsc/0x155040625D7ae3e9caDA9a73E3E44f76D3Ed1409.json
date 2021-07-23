@@ -1,0 +1,34 @@
+{
+  "symbol": "REVO",
+  "address": "0x155040625D7ae3e9caDA9a73E3E44f76D3Ed1409",
+  "decimals": 18,
+  "name": "Revomon",
+  "ens_address": "",
+  "website": "https://revomon.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

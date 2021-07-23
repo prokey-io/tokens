@@ -1,0 +1,34 @@
+{
+  "symbol": "MRSDOGE",
+  "address": "0x986eedB84A934C81eDc0a080D03C6e3C1d7A8399",
+  "decimals": 9,
+  "name": "Dogette",
+  "ens_address": "",
+  "website": "https://www.mrsdoge.club/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

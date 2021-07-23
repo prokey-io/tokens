@@ -1,0 +1,34 @@
+{
+  "symbol": "Nicheman",
+  "address": "0xF27580F6a58FF785c60B7c15fD394AB442aAA451",
+  "decimals": 9,
+  "name": "Nicheman",
+  "ens_address": "",
+  "website": "https://nicheman.space",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

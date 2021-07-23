@@ -1,0 +1,34 @@
+{
+  "symbol": "MAMADOGE",
+  "address": "0x7819806b6eA4b5582c5aE3825a521b4067B5C7fE",
+  "decimals": 18,
+  "name": "MAMADOGE",
+  "ens_address": "",
+  "website": "https://www.mamadogecoin.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

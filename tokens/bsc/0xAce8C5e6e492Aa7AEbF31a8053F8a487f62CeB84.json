@@ -1,0 +1,34 @@
+{
+  "symbol": "NADA",
+  "address": "0xAce8C5e6e492Aa7AEbF31a8053F8a487f62CeB84",
+  "decimals": 18,
+  "name": "NOTHING",
+  "ens_address": "",
+  "website": "https://www.nothingcoincrypto.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

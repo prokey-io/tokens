@@ -1,0 +1,34 @@
+{
+  "symbol": "TCC",
+  "address": "0xf8418D0a7f30BB899639B232f9748c0f1fA87870",
+  "decimals": 9,
+  "name": "TheCollectiveCoin",
+  "ens_address": "",
+  "website": "https://www.thecollectivecoin.co",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

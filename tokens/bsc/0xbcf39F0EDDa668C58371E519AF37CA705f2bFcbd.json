@@ -1,0 +1,34 @@
+{
+  "symbol": "pCWS",
+  "address": "0xbcf39F0EDDa668C58371E519AF37CA705f2bFcbd",
+  "decimals": 18,
+  "name": "PolyCrowns",
+  "ens_address": "",
+  "website": "https://www.seascape.network",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

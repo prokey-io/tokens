@@ -1,0 +1,34 @@
+{
+  "symbol": "MAGO",
+  "address": "0x452698Acacc695cEcA215B5e43525f6C36f240D3",
+  "decimals": 18,
+  "name": "MaxGoat",
+  "ens_address": "",
+  "website": "https://maxgoat.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

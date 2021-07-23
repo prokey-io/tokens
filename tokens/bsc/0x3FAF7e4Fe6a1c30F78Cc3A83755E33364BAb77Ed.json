@@ -1,0 +1,34 @@
+{
+  "symbol": "TEST",
+  "address": "0x3FAF7e4Fe6a1c30F78Cc3A83755E33364BAb77Ed",
+  "decimals": 9,
+  "name": "TEST DO NOT BUY",
+  "ens_address": "",
+  "website": "https://www.donotbuythetoken.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

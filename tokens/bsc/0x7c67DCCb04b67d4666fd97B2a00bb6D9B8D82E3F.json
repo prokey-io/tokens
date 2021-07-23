@@ -1,0 +1,34 @@
+{
+  "symbol": "GOAT",
+  "address": "0x7c67DCCb04b67d4666fd97B2a00bb6D9B8D82E3F",
+  "decimals": 18,
+  "name": "Goatcoin",
+  "ens_address": "",
+  "website": "https://goatcoin.xyz",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

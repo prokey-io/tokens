@@ -1,0 +1,34 @@
+{
+  "symbol": "ELG",
+  "address": "0x2A9718defF471f3Bb91FA0ECEAB14154F150a385",
+  "decimals": 9,
+  "name": "$ElonGate",
+  "ens_address": "",
+  "website": "https://elongate.cc",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

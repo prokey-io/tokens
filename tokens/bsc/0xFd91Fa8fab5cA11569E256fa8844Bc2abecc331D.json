@@ -1,0 +1,34 @@
+{
+  "symbol": "VGD",
+  "address": "0xFd91Fa8fab5cA11569E256fa8844Bc2abecc331D",
+  "decimals": 18,
+  "name": "VANGOLD Token",
+  "ens_address": "",
+  "website": "https://www.vangold.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

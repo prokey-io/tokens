@@ -1,0 +1,34 @@
+{
+  "symbol": "TOKI",
+  "address": "0xE405f6Ae74ad3efD31C23A40CE23b3D3A3B95FB9",
+  "decimals": 9,
+  "name": "Tokyo Inu",
+  "ens_address": "",
+  "website": "https://www.tokyoinu.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

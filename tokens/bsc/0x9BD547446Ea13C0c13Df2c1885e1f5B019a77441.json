@@ -1,0 +1,34 @@
+{
+  "symbol": "TREE",
+  "address": "0x9BD547446Ea13C0c13Df2c1885e1f5B019a77441",
+  "decimals": 2,
+  "name": "Tree Token",
+  "ens_address": "",
+  "website": "https://www.koalaclancyfoundation.org.au",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "KIND",
+  "address": "0xE3Ba88c38D2789FE58465020CC0FB60b70c10d32",
+  "decimals": 8,
+  "name": "Kindcow Finance",
+  "ens_address": "",
+  "website": "https://kindcow.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

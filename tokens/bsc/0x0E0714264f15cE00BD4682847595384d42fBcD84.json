@@ -1,0 +1,34 @@
+{
+  "symbol": "MBULL",
+  "address": "0x0E0714264f15cE00BD4682847595384d42fBcD84",
+  "decimals": 9,
+  "name": "MoonBull",
+  "ens_address": "",
+  "website": "https://www.moonbull.net/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

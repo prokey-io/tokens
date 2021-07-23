@@ -1,0 +1,34 @@
+{
+  "symbol": "mBTC",
+  "address": "0x0E65834a4092B10EcE3C9290b256F0Df83F71C6c",
+  "decimals": 0,
+  "name": "MoonBitcoin",
+  "ens_address": "",
+  "website": "https://mbitcoin.cc/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

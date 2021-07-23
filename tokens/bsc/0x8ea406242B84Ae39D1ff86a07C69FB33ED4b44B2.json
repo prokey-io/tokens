@@ -1,0 +1,34 @@
+{
+  "symbol": "ELONMARS",
+  "address": "0x8ea406242B84Ae39D1ff86a07C69FB33ED4b44B2",
+  "decimals": 9,
+  "name": "ElonMars",
+  "ens_address": "",
+  "website": "https://elonmars.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

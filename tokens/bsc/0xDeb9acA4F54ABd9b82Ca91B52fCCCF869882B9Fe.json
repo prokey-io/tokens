@@ -1,0 +1,34 @@
+{
+  "symbol": "GDOGE",
+  "address": "0xDeb9acA4F54ABd9b82Ca91B52fCCCF869882B9Fe",
+  "decimals": 9,
+  "name": "GDOGE",
+  "ens_address": "",
+  "website": "https://gdoge.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "SWORD",
+  "address": "0x17dD6e742A5324D3F1B2b242374fc01Bc61ee56d",
+  "decimals": 18,
+  "name": "Flaring Sword",
+  "ens_address": "",
+  "website": "https://flaringsword.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

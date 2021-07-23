@@ -1,0 +1,34 @@
+{
+  "symbol": "HYDRO",
+  "address": "0xf3DBB49999B25c9D6641a9423C7ad84168D00071",
+  "decimals": 18,
+  "name": "Hydro Token",
+  "ens_address": "",
+  "website": "https://projecthydro.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

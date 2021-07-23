@@ -1,0 +1,34 @@
+{
+  "symbol": "$tream",
+  "address": "0x1C2425F50a1e98D5631b223E56760d21BC840C53",
+  "decimals": 9,
+  "name": "World Stream",
+  "ens_address": "",
+  "website": "https://www.worldstreamfinance.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

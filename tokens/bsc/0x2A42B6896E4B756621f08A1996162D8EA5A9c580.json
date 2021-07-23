@@ -1,0 +1,34 @@
+{
+  "symbol": "FLOKISHIB",
+  "address": "0x2A42B6896E4B756621f08A1996162D8EA5A9c580",
+  "decimals": 9,
+  "name": "Floki Shiba Inu",
+  "ens_address": "",
+  "website": "https://www.flokishibainu.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

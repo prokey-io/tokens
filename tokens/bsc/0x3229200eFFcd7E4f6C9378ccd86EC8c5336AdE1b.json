@@ -1,0 +1,34 @@
+{
+  "symbol": "RBST",
+  "address": "0x3229200eFFcd7E4f6C9378ccd86EC8c5336AdE1b",
+  "decimals": 18,
+  "name": "Rocket Bsc",
+  "ens_address": "",
+  "website": "https://www.rocketbsc.info",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

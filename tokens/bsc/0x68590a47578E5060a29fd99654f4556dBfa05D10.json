@@ -1,0 +1,34 @@
+{
+  "symbol": "SMRAT",
+  "address": "0x68590a47578E5060a29fd99654f4556dBfa05D10",
+  "decimals": 9,
+  "name": "MoonRat",
+  "ens_address": "",
+  "website": "https://moonrat.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

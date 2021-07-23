@@ -1,0 +1,34 @@
+{
+  "symbol": "RICH",
+  "address": "0x3B4443F97B37A6Ef864c3f0f1632E366B4f1d20f",
+  "decimals": 9,
+  "name": "RichieRich Coin",
+  "ens_address": "",
+  "website": "https://www.richierichcoin.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

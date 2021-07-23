@@ -1,0 +1,34 @@
+{
+  "symbol": "littlegecko",
+  "address": "0x2F52F99DB24b0cBedD16dA57b098226D3b0831e8",
+  "decimals": 9,
+  "name": "LittleGecko",
+  "ens_address": "",
+  "website": "https://littlegecko.net",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

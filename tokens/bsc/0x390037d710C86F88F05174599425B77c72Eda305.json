@@ -1,0 +1,34 @@
+{
+  "symbol": "MNTT",
+  "address": "0x390037d710C86F88F05174599425B77c72Eda305",
+  "decimals": 18,
+  "name": "MoonTrust",
+  "ens_address": "",
+  "website": "https://moontrust.net",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

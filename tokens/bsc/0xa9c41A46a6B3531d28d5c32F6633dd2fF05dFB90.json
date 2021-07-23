@@ -1,0 +1,34 @@
+{
+  "symbol": "WEX",
+  "address": "0xa9c41A46a6B3531d28d5c32F6633dd2fF05dFB90",
+  "decimals": 18,
+  "name": "WaultSwap",
+  "ens_address": "",
+  "website": "https://wault.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

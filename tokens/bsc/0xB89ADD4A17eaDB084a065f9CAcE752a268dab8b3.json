@@ -1,0 +1,34 @@
+{
+  "symbol": "ZETBNB",
+  "address": "0xB89ADD4A17eaDB084a065f9CAcE752a268dab8b3",
+  "decimals": 0,
+  "name": "ZETBNB",
+  "ens_address": "",
+  "website": "https://zetbnb.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

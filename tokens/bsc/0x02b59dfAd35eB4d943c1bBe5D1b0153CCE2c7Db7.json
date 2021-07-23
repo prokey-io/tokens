@@ -1,0 +1,34 @@
+{
+  "symbol": "Kittycoin",
+  "address": "0x02b59dfAd35eB4d943c1bBe5D1b0153CCE2c7Db7",
+  "decimals": 8,
+  "name": "Kittycoin Token",
+  "ens_address": "",
+  "website": "https://kittycointoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

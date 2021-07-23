@@ -1,0 +1,34 @@
+{
+  "symbol": "SAFEDOGE",
+  "address": "0x7b5beB86af822125762bd0E9eb0Df3154ffbF640",
+  "decimals": 9,
+  "name": "SafeDoge",
+  "ens_address": "",
+  "website": "https://safedoge.dog",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

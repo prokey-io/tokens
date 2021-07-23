@@ -1,0 +1,34 @@
+{
+  "symbol": "VCSPERM",
+  "address": "0xE285510E5C14c2b8ff46147D9145f034B8Ff073B",
+  "decimals": 0,
+  "name": "VanCat Sperm Token",
+  "ens_address": "",
+  "website": "https://www.vancatsperm.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

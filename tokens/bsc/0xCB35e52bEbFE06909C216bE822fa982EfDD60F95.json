@@ -1,0 +1,34 @@
+{
+  "symbol": "BAPE",
+  "address": "0xCB35e52bEbFE06909C216bE822fa982EfDD60F95",
+  "decimals": 9,
+  "name": "BabyApe",
+  "ens_address": "",
+  "website": "https://babyape.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

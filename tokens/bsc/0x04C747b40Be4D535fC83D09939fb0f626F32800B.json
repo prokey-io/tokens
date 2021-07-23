@@ -1,0 +1,34 @@
+{
+  "symbol": "ITAM",
+  "address": "0x04C747b40Be4D535fC83D09939fb0f626F32800B",
+  "decimals": 18,
+  "name": "ITAM",
+  "ens_address": "",
+  "website": "https://itam.network",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "CTRFI",
+  "address": "0xb74ed4112C23B7c8ef1439FA55D304D537C5599B",
+  "decimals": 9,
+  "name": "ChesterCoin",
+  "ens_address": "",
+  "website": "https://chesterfinance.info/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

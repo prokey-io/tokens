@@ -1,0 +1,34 @@
+{
+  "symbol": "Xpose",
+  "address": "0xcc10c8AfD683c5AA86B1d170d75B555bce5a2C37",
+  "decimals": 9,
+  "name": "Xpose",
+  "ens_address": "",
+  "website": "https://xposeprotocol.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "YFIH2",
+  "address": "0xDcb624C870d73CDD0B3345762977CB14dE598cd0",
+  "decimals": 18,
+  "name": "YFIH2",
+  "ens_address": "",
+  "website": "https://h2finance.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

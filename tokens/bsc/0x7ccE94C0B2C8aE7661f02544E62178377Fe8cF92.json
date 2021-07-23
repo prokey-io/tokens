@@ -1,0 +1,34 @@
+{
+  "symbol": "DaddyDoge",
+  "address": "0x7ccE94C0B2C8aE7661f02544E62178377Fe8cF92",
+  "decimals": 9,
+  "name": "Daddy Doge",
+  "ens_address": "",
+  "website": "https://daddydoge.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "BPD",
+  "address": "0x11Eecc7c164B185dc54534DcE21fDA807D6F301a",
+  "decimals": 9,
+  "name": "BPlanted",
+  "ens_address": "",
+  "website": "https://bplanted.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

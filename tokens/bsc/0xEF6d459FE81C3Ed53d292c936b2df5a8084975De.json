@@ -1,0 +1,34 @@
+{
+  "symbol": "crUSDT",
+  "address": "0xEF6d459FE81C3Ed53d292c936b2df5a8084975De",
+  "decimals": 8,
+  "name": "Cream Tether USD",
+  "ens_address": "",
+  "website": "https://app.cream.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "vUSDC",
+  "address": "0xecA88125a5ADbe82614ffC12D0DB554E2e2867C8",
+  "decimals": 8,
+  "name": "Venus USDC",
+  "ens_address": "",
+  "website": "https://venus.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "AAVE",
+  "address": "0xfb6115445Bff7b52FeB98650C87f44907E58f802",
+  "decimals": 18,
+  "name": "Binance-Peg Aave Token",
+  "ens_address": "",
+  "website": "https://aave.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

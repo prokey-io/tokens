@@ -1,0 +1,34 @@
+{
+  "symbol": "GIV",
+  "address": "0xE49b84771470A87F4D9544685ea0F0517933B2B4",
+  "decimals": 8,
+  "name": "CryptoLocally (GIV)",
+  "ens_address": "",
+  "website": "https://cryptolocally.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "SBS",
+  "address": "0xc1D99537392084Cc02D3F52386729b79d01035ce",
+  "decimals": 9,
+  "name": "StaysBASE",
+  "ens_address": "",
+  "website": "https://staysbase.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

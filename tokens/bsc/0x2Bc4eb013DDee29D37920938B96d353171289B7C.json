@@ -1,0 +1,34 @@
+{
+  "symbol": "crBUSD",
+  "address": "0x2Bc4eb013DDee29D37920938B96d353171289B7C",
+  "decimals": 8,
+  "name": "Cream Binance USD",
+  "ens_address": "",
+  "website": "https://app.cream.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

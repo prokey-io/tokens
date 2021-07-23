@@ -1,0 +1,34 @@
+{
+  "symbol": "SFP",
+  "address": "0xD41FDb03Ba84762dD66a0af1a6C8540FF1ba5dfb",
+  "decimals": 18,
+  "name": "SafePal Token",
+  "ens_address": "",
+  "website": "https://www.safepal.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "SPAZ",
+  "address": "0x37109a51e712471Bd2C72d8D70718627e7fF0032",
+  "decimals": 8,
+  "name": "Swapcoinz",
+  "ens_address": "",
+  "website": "https://swapcoinz.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

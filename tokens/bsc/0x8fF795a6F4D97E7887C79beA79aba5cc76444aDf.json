@@ -1,0 +1,34 @@
+{
+  "symbol": "BCH",
+  "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+  "decimals": 18,
+  "name": "Bitcoin Cash Token",
+  "ens_address": "",
+  "website": "https://bitcoincash.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

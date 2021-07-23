@@ -1,0 +1,34 @@
+{
+  "symbol": "INNBC",
+  "address": "0xdF1F0026374d4BCc490BE5E316963Cf6Df2FfF19",
+  "decimals": 6,
+  "name": "InnovativeBioresearchCoin",
+  "ens_address": "",
+  "website": "https://innovativebioresearch.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

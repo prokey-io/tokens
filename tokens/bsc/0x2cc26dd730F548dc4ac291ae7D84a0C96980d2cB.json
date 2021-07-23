@@ -1,0 +1,34 @@
+{
+  "symbol": "PIZZA",
+  "address": "0x2cc26dd730F548dc4ac291ae7D84a0C96980d2cB",
+  "decimals": 18,
+  "name": "PizzaSwap",
+  "ens_address": "",
+  "website": "https://pizzafinance.app/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

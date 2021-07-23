@@ -1,0 +1,34 @@
+{
+  "symbol": "LTC",
+  "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
+  "decimals": 18,
+  "name": "Litecoin Token",
+  "ens_address": "",
+  "website": "https://litecoin.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

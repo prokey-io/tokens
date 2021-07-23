@@ -1,0 +1,34 @@
+{
+  "symbol": "DEGO",
+  "address": "0x3FdA9383A84C05eC8f7630Fe10AdF1fAC13241CC",
+  "decimals": 18,
+  "name": "Dego Finance",
+  "ens_address": "",
+  "website": "https://bsc.dego.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

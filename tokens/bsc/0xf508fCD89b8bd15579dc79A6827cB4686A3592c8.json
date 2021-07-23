@@ -1,0 +1,34 @@
+{
+  "symbol": "vETH",
+  "address": "0xf508fCD89b8bd15579dc79A6827cB4686A3592c8",
+  "decimals": 8,
+  "name": "Venus ETH",
+  "ens_address": "",
+  "website": "https://venus.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

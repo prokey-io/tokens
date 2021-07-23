@@ -1,0 +1,34 @@
+{
+  "symbol": "MILK",
+  "address": "0x8E9f5173e16Ff93F81579d73A7f9723324d6B6aF",
+  "decimals": 18,
+  "name": "Milk Protocol",
+  "ens_address": "",
+  "website": "https://stakecow.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

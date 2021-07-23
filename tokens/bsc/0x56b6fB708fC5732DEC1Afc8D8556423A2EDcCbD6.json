@@ -1,0 +1,34 @@
+{
+  "symbol": "EOS",
+  "address": "0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6",
+  "decimals": 18,
+  "name": "EOS Token",
+  "ens_address": "",
+  "website": "https://eos.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

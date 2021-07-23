@@ -1,0 +1,34 @@
+{
+  "symbol": "BAND",
+  "address": "0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18",
+  "decimals": 18,
+  "name": "Band Protocol Token",
+  "ens_address": "",
+  "website": "https://bandprotocol.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

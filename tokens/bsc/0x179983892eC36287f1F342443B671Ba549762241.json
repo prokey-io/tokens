@@ -1,0 +1,34 @@
+{
+  "symbol": "GUNS",
+  "address": "0x179983892eC36287f1F342443B671Ba549762241",
+  "decimals": 18,
+  "name": "GUNS",
+  "ens_address": "",
+  "website": "https://thugs.fi/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

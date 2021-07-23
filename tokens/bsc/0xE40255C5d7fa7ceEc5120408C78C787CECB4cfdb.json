@@ -1,0 +1,34 @@
+{
+  "symbol": "SWGb",
+  "address": "0xE40255C5d7fa7ceEc5120408C78C787CECB4cfdb",
+  "decimals": 18,
+  "name": "Swirge",
+  "ens_address": "",
+  "website": "https://swirgepay.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

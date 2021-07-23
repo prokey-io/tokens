@@ -1,0 +1,34 @@
+{
+  "symbol": "crBTCB",
+  "address": "0x11883Cdea6bAb720092791cc89affa54428Ce069",
+  "decimals": 8,
+  "name": "Cream BTCB Token",
+  "ens_address": "",
+  "website": "https://app.cream.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

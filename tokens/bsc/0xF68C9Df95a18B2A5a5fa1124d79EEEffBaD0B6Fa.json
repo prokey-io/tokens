@@ -1,0 +1,34 @@
+{
+  "symbol": "ANY",
+  "address": "0xF68C9Df95a18B2A5a5fa1124d79EEEffBaD0B6Fa",
+  "decimals": 18,
+  "name": "Anyswap-BEP20",
+  "ens_address": "",
+  "website": "https://bsc.anyswap.exchange",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

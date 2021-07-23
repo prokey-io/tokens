@@ -1,0 +1,34 @@
+{
+  "symbol": "KEBAB",
+  "address": "0x7979F6C54ebA05E18Ded44C4F986F49a5De551c2",
+  "decimals": 18,
+  "name": "Kebab Token",
+  "ens_address": "",
+  "website": "https://kebabfinance.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

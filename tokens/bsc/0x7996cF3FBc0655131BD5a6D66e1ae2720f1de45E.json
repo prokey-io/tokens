@@ -1,0 +1,34 @@
+{
+  "symbol": "VEX",
+  "address": "0x7996cF3FBc0655131BD5a6D66e1ae2720f1de45E",
+  "decimals": 9,
+  "name": "VELOREX",
+  "ens_address": "",
+  "website": "https://velorex.cc/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

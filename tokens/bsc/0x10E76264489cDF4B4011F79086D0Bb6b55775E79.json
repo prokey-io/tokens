@@ -1,0 +1,34 @@
+{
+  "symbol": "LTMS",
+  "address": "0x10E76264489cDF4B4011F79086D0Bb6b55775E79",
+  "decimals": 9,
+  "name": "LittleMouse",
+  "ens_address": "",
+  "website": "https://newlittlemouse.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

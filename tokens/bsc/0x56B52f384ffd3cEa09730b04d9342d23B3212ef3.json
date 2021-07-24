@@ -1,0 +1,34 @@
+{
+  "symbol": "VICE",
+  "address": "0x56B52f384ffd3cEa09730b04d9342d23B3212ef3",
+  "decimals": 18,
+  "name": "Vice Token",
+  "ens_address": "",
+  "website": "https://Vice.Uno",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

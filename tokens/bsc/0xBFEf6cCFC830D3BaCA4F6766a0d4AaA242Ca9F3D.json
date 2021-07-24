@@ -1,0 +1,34 @@
+{
+  "symbol": "WNAV",
+  "address": "0xBFEf6cCFC830D3BaCA4F6766a0d4AaA242Ca9F3D",
+  "decimals": 8,
+  "name": "Navcoin",
+  "ens_address": "",
+  "website": "https://navcoin.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "BLOSM",
+  "address": "0x8d03e069840D6Fb103abC4F640C8cc07F7F4bc10",
+  "decimals": 9,
+  "name": "BlossomCoin",
+  "ens_address": "",
+  "website": "https://www.blossomco.in/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

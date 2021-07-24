@@ -1,0 +1,34 @@
+{
+  "symbol": "JIND",
+  "address": "0x22D6363949E295873D261b812A281D014367e8f9",
+  "decimals": 18,
+  "name": "Jindo Inu",
+  "ens_address": "",
+  "website": "https://www.jindoinu.info/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

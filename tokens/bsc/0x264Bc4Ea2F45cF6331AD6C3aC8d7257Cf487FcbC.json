@@ -1,0 +1,34 @@
+{
+  "symbol": "crALPHA",
+  "address": "0x264Bc4Ea2F45cF6331AD6C3aC8d7257Cf487FcbC",
+  "decimals": 8,
+  "name": "Cream ALPHA Token",
+  "ens_address": "",
+  "website": "https://app.cream.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

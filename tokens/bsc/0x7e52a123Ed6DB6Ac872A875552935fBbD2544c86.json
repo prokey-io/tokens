@@ -1,0 +1,34 @@
+{
+  "symbol": "SYL",
+  "address": "0x7e52a123Ed6DB6Ac872A875552935fBbD2544c86",
+  "decimals": 6,
+  "name": "SYL",
+  "ens_address": "",
+  "website": "https://www.xsl-labs.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

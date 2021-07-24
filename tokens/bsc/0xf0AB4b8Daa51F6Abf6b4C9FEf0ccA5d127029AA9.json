@@ -1,0 +1,34 @@
+{
+  "symbol": "SBD",
+  "address": "0xf0AB4b8Daa51F6Abf6b4C9FEf0ccA5d127029AA9",
+  "decimals": 18,
+  "name": "Scooby",
+  "ens_address": "",
+  "website": "https://scooby.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

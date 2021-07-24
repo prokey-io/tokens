@@ -1,0 +1,34 @@
+{
+  "symbol": "PYE",
+  "address": "0xAaD87f47CDEa777FAF87e7602E91e3a6AFbe4D57",
+  "decimals": 18,
+  "name": "CreamPYE",
+  "ens_address": "",
+  "website": "https://www.creampye.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

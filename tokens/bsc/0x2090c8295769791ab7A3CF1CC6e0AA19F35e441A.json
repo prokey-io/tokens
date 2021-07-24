@@ -1,0 +1,34 @@
+{
+  "symbol": "Fuel",
+  "address": "0x2090c8295769791ab7A3CF1CC6e0AA19F35e441A",
+  "decimals": 18,
+  "name": "Jetfuel.Finance",
+  "ens_address": "",
+  "website": "https://jetfuel.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

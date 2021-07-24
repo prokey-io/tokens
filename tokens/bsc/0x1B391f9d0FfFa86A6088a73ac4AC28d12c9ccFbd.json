@@ -1,0 +1,34 @@
+{
+  "symbol": "SET",
+  "address": "0x1B391f9d0FfFa86A6088a73ac4AC28d12c9ccFbd",
+  "decimals": 9,
+  "name": "Sustainable Energy Token",
+  "ens_address": "",
+  "website": "https://sustainableenergy.online",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

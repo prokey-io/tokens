@@ -1,0 +1,34 @@
+{
+  "symbol": "PEPPA",
+  "address": "0x6d34F621d2A1812434cE7Af6E04A344BFCE9B47E",
+  "decimals": 18,
+  "name": "Peppa Network",
+  "ens_address": "",
+  "website": "https://peppa.network/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

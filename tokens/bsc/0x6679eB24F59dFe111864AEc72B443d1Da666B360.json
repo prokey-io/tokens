@@ -1,0 +1,34 @@
+{
+  "symbol": "ARV",
+  "address": "0x6679eB24F59dFe111864AEc72B443d1Da666B360",
+  "decimals": 8,
+  "name": "ARIVA",
+  "ens_address": "",
+  "website": "https://ariva.digital/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

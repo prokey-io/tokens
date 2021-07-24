@@ -1,0 +1,34 @@
+{
+  "symbol": "PMON",
+  "address": "0xeB22C12429ff03688dD15a34824d736741605ca0",
+  "decimals": 9,
+  "name": "PocMon",
+  "ens_address": "",
+  "website": "https://pocmon.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

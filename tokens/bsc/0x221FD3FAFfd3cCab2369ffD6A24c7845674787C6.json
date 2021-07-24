@@ -1,0 +1,34 @@
+{
+  "symbol": "GMPX",
+  "address": "0x221FD3FAFfd3cCab2369ffD6A24c7845674787C6",
+  "decimals": 9,
+  "name": "Galaxium Phoenix",
+  "ens_address": "",
+  "website": "https://www.galaxiumphoenix.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

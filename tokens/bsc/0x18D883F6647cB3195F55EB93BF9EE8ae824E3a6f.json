@@ -1,0 +1,34 @@
+{
+  "symbol": "UNF",
+  "address": "0x18D883F6647cB3195F55EB93BF9EE8ae824E3a6f",
+  "decimals": 9,
+  "name": "UniFarm",
+  "ens_address": "",
+  "website": "https://unifarm.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

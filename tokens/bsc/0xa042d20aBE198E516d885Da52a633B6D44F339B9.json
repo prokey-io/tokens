@@ -1,0 +1,34 @@
+{
+  "symbol": "MUST",
+  "address": "0xa042d20aBE198E516d885Da52a633B6D44F339B9",
+  "decimals": 9,
+  "name": "MustangToken",
+  "ens_address": "",
+  "website": "https://mustangtoken.net",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

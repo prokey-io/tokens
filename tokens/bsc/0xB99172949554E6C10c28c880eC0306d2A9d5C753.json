@@ -1,0 +1,34 @@
+{
+  "symbol": "LOGE",
+  "address": "0xB99172949554E6C10c28c880eC0306d2A9d5C753",
+  "decimals": 9,
+  "name": "LunaDoge",
+  "ens_address": "",
+  "website": "https://lunadoge.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

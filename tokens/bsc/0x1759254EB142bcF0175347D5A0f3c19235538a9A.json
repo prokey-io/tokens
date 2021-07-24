@@ -1,0 +1,34 @@
+{
+  "symbol": "upBNB",
+  "address": "0x1759254EB142bcF0175347D5A0f3c19235538a9A",
+  "decimals": 18,
+  "name": "upBNB",
+  "ens_address": "",
+  "website": "https://upbnb.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

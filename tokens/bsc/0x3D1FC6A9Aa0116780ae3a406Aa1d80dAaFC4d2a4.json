@@ -1,0 +1,34 @@
+{
+  "symbol": "ZTKN",
+  "address": "0x3D1FC6A9Aa0116780ae3a406Aa1d80dAaFC4d2a4",
+  "decimals": 18,
+  "name": "Z Token",
+  "ens_address": "",
+  "website": "https://zworld.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

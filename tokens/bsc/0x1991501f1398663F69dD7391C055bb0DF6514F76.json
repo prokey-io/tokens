@@ -1,0 +1,34 @@
+{
+  "symbol": "HotDoge",
+  "address": "0x1991501f1398663F69dD7391C055bb0DF6514F76",
+  "decimals": 9,
+  "name": "HotDoge Token",
+  "ens_address": "",
+  "website": "https://www.hotdogetoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

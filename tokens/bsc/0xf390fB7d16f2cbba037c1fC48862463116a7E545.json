@@ -1,0 +1,34 @@
+{
+  "symbol": "MLTP",
+  "address": "0xf390fB7d16f2cbba037c1fC48862463116a7E545",
+  "decimals": 18,
+  "name": "MoonLift",
+  "ens_address": "",
+  "website": "https://moonlift.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

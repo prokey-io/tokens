@@ -1,0 +1,34 @@
+{
+  "symbol": "DAM",
+  "address": "0x4299260f10d7AE857DD877865D0C4aC96aFe773A",
+  "decimals": 9,
+  "name": "DiamondsAlaskaMalamute",
+  "ens_address": "",
+  "website": "https://alaskatoken.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

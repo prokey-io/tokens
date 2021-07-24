@@ -1,0 +1,34 @@
+{
+  "symbol": "BLAST",
+  "address": "0xDdC0dBd7dC799ae53A98a60b54999cb6eBb3Abf0",
+  "decimals": 9,
+  "name": "SafeBLAST",
+  "ens_address": "",
+  "website": "https://safeblastcrypto.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

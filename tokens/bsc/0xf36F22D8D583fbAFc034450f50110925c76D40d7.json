@@ -1,0 +1,34 @@
+{
+  "symbol": "SIAM",
+  "address": "0xf36F22D8D583fbAFc034450f50110925c76D40d7",
+  "decimals": 9,
+  "name": "SIAMESE NEKO",
+  "ens_address": "",
+  "website": "https://siamese.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

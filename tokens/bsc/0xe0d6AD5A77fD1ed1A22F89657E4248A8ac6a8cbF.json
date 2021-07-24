@@ -1,0 +1,34 @@
+{
+  "symbol": "DailyS",
+  "address": "0xe0d6AD5A77fD1ed1A22F89657E4248A8ac6a8cbF",
+  "decimals": 18,
+  "name": "DailySwap",
+  "ens_address": "",
+  "website": "https://dailyswap.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

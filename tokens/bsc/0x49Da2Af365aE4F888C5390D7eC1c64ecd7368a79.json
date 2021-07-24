@@ -1,0 +1,34 @@
+{
+  "symbol": "ShibS",
+  "address": "0x49Da2Af365aE4F888C5390D7eC1c64ecd7368a79",
+  "decimals": 9,
+  "name": "ShibaSaur INU",
+  "ens_address": "",
+  "website": "https://shibasaur.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

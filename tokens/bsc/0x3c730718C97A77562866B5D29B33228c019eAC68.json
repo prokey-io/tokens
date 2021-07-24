@@ -1,0 +1,34 @@
+{
+  "symbol": "BNBD",
+  "address": "0x3c730718C97A77562866B5D29B33228c019eAC68",
+  "decimals": 9,
+  "name": "BNB Diamond",
+  "ens_address": "",
+  "website": "https://bnbdiamond.net/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "LIT",
+  "address": "0xb59490aB09A0f526Cc7305822aC65f2Ab12f9723",
+  "decimals": 18,
+  "name": "Litentry",
+  "ens_address": "",
+  "website": "https://www.litentry.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "JulD",
+  "address": "0x5A41F637C3f7553dBa6dDC2D3cA92641096577ea",
+  "decimals": 18,
+  "name": "JulSwap",
+  "ens_address": "",
+  "website": "https://julswap.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

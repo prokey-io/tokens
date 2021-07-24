@@ -1,0 +1,34 @@
+{
+  "symbol": "SNX",
+  "address": "0x9Ac983826058b8a9C7Aa1C9171441191232E8404",
+  "decimals": 18,
+  "name": "Synthetix Network Token",
+  "ens_address": "",
+  "website": "https://synthetix.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

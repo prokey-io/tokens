@@ -1,0 +1,34 @@
+{
+  "symbol": "NFTART",
+  "address": "0xF7844CB890F4C339c497aeAb599aBDc3c874B67A",
+  "decimals": 9,
+  "name": "NFT-Art.Finance",
+  "ens_address": "",
+  "website": "https://nft-art.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

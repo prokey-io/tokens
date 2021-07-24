@@ -1,0 +1,34 @@
+{
+  "symbol": "BURNC",
+  "address": "0xD3AB99C79d831df2a44C10739E7BB1847f843f49",
+  "decimals": 9,
+  "name": "Burncoin",
+  "ens_address": "",
+  "website": "https://burncoin.net/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

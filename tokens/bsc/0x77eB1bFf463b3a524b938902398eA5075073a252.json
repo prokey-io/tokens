@@ -1,0 +1,34 @@
+{
+  "symbol": "LDEER",
+  "address": "0x77eB1bFf463b3a524b938902398eA5075073a252",
+  "decimals": 9,
+  "name": "Little Deer Token",
+  "ens_address": "",
+  "website": "https://littledeerbsc.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

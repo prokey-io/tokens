@@ -1,0 +1,34 @@
+{
+  "symbol": "SAFERUNE",
+  "address": "0x862827E70221C3A0BA27aB608DDfE4d5D3Fe27C2",
+  "decimals": 9,
+  "name": "SafeRune",
+  "ens_address": "",
+  "website": "https://saferune.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

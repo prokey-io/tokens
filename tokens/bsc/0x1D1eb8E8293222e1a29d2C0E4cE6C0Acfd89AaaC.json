@@ -1,0 +1,34 @@
+{
+  "symbol": "HAKKA",
+  "address": "0x1D1eb8E8293222e1a29d2C0E4cE6C0Acfd89AaaC",
+  "decimals": 18,
+  "name": "Hakka Finance on xDai on BSC",
+  "ens_address": "",
+  "website": "https://hakka.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

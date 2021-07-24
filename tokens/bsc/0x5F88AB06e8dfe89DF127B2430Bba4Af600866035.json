@@ -1,0 +1,34 @@
+{
+  "symbol": "KAVA",
+  "address": "0x5F88AB06e8dfe89DF127B2430Bba4Af600866035",
+  "decimals": 6,
+  "name": "Kava",
+  "ens_address": "",
+  "website": "https://kava.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

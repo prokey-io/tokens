@@ -1,0 +1,34 @@
+{
+  "symbol": "AEDART",
+  "address": "0x4247aeB8E759e575Fe350921cD174C48df304F2A",
+  "decimals": 18,
+  "name": "AEDART Network",
+  "ens_address": "",
+  "website": "https://aedart.network",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

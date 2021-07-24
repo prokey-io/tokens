@@ -1,0 +1,34 @@
+{
+  "symbol": "DFX",
+  "address": "0x74B3abB94e9e1ECc25Bd77d6872949B4a9B2aACF",
+  "decimals": 18,
+  "name": "DeFireX on BSC",
+  "ens_address": "",
+  "website": "https://defirex.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

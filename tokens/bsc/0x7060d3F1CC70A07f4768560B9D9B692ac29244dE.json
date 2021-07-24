@@ -1,0 +1,34 @@
+{
+  "symbol": "Yeet",
+  "address": "0x7060d3F1CC70A07f4768560B9D9B692ac29244dE",
+  "decimals": 9,
+  "name": "YeetToken",
+  "ens_address": "",
+  "website": "https://www.yeettoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

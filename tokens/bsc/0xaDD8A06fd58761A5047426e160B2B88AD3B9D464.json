@@ -1,0 +1,34 @@
+{
+  "symbol": "PIZZA",
+  "address": "0xaDD8A06fd58761A5047426e160B2B88AD3B9D464",
+  "decimals": 18,
+  "name": "CheeseSwap",
+  "ens_address": "",
+  "website": "https://cheeseswap.app/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

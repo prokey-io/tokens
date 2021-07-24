@@ -1,0 +1,34 @@
+{
+  "symbol": "LEV",
+  "address": "0x304c62b5B030176F8d328d3A01FEaB632FC929BA",
+  "decimals": 18,
+  "name": "LEV Token",
+  "ens_address": "",
+  "website": "https://www.levyathan.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

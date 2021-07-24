@@ -1,0 +1,34 @@
+{
+  "symbol": "LOCKCHAIN",
+  "address": "0xAc4c2903fb2f073e94De57c79D8Bec5155662122",
+  "decimals": 0,
+  "name": "Lock Chain Finance",
+  "ens_address": "",
+  "website": "http://lockchainfinance.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

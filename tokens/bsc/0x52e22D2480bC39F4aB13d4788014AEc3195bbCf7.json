@@ -1,0 +1,34 @@
+{
+  "symbol": "SafeBankToken",
+  "address": "0x52e22D2480bC39F4aB13d4788014AEc3195bbCf7",
+  "decimals": 18,
+  "name": "SafeBank DIGITAL",
+  "ens_address": "",
+  "website": "https://safebank.app",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

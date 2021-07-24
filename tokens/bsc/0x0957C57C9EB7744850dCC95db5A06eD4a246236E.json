@@ -1,0 +1,34 @@
+{
+  "symbol": "DANGO",
+  "address": "0x0957C57C9EB7744850dCC95db5A06eD4a246236E",
+  "decimals": 6,
+  "name": "DANGO",
+  "ens_address": "",
+  "website": "https://bsc.dango.money",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

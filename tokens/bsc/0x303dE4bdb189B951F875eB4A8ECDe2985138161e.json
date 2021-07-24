@@ -1,0 +1,34 @@
+{
+  "symbol": "USDs",
+  "address": "0x303dE4bdb189B951F875eB4A8ECDe2985138161e",
+  "decimals": 18,
+  "name": "USD SMART",
+  "ens_address": "",
+  "website": "https://usdsmart.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

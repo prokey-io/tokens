@@ -1,0 +1,34 @@
+{
+  "symbol": "crETH",
+  "address": "0xb31f5d117541825D6692c10e4357008EDF3E2BCD",
+  "decimals": 8,
+  "name": "Cream Ethereum Token",
+  "ens_address": "",
+  "website": "https://app.cream.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

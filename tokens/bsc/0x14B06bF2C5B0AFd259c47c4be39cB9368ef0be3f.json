@@ -1,0 +1,34 @@
+{
+  "symbol": "GOUDA",
+  "address": "0x14B06bF2C5B0AFd259c47c4be39cB9368ef0be3f",
+  "decimals": 18,
+  "name": "GOUDA Token",
+  "ens_address": "",
+  "website": "https://cowswap.app",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

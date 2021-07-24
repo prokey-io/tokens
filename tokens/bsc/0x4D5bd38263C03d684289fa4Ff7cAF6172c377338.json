@@ -1,0 +1,34 @@
+{
+  "symbol": "SAFEMOONGOLD",
+  "address": "0x4D5bd38263C03d684289fa4Ff7cAF6172c377338",
+  "decimals": 9,
+  "name": "SafeMoonGold",
+  "ens_address": "",
+  "website": "https://www.safemoongold.space/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

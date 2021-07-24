@@ -1,0 +1,34 @@
+{
+  "symbol": "UNI",
+  "address": "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1",
+  "decimals": 18,
+  "name": "Uniswap",
+  "ens_address": "",
+  "website": "https://uniswap.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

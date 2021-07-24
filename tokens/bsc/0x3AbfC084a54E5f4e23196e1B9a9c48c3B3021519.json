@@ -1,0 +1,34 @@
+{
+  "symbol": "PLNT",
+  "address": "0x3AbfC084a54E5f4e23196e1B9a9c48c3B3021519",
+  "decimals": 18,
+  "name": "Planet",
+  "ens_address": "",
+  "website": "https://xpace.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

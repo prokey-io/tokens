@@ -1,0 +1,34 @@
+{
+  "symbol": "MBY",
+  "address": "0x98BC4773Bd1e9A53631FD6028E06cd6cD17b7401",
+  "decimals": 9,
+  "name": "Monkey TOKEN",
+  "ens_address": "",
+  "website": "https://mbytoken.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "DOGI",
+  "address": "0x373849E1DbEE104D67afFf1B73703De4fd96294E",
+  "decimals": 9,
+  "name": "DoggyInu Token",
+  "ens_address": "",
+  "website": "https://doggyinu.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

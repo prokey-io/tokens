@@ -1,0 +1,34 @@
+{
+  "symbol": "SUSHI",
+  "address": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
+  "decimals": 18,
+  "name": "Sushi",
+  "ens_address": "",
+  "website": "https://sushiswap.fi",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

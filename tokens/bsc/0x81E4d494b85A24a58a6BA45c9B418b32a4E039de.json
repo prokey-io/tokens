@@ -1,0 +1,34 @@
+{
+  "symbol": "MOON",
+  "address": "0x81E4d494b85A24a58a6BA45c9B418b32a4E039de",
+  "decimals": 18,
+  "name": "MoonToken",
+  "ens_address": "",
+  "website": "https://www.moontoken.xyz/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

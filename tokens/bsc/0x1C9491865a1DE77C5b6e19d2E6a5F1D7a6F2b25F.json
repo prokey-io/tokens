@@ -1,0 +1,34 @@
+{
+  "symbol": "MATTER",
+  "address": "0x1C9491865a1DE77C5b6e19d2E6a5F1D7a6F2b25F",
+  "decimals": 18,
+  "name": "Antimatter.Finance Governance Token",
+  "ens_address": "",
+  "website": "https://antimatter.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

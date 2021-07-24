@@ -1,0 +1,34 @@
+{
+  "symbol": "MNRY",
+  "address": "0x5baeBd214FdAe546ce39750B8363e799E2ABa21E",
+  "decimals": 9,
+  "name": "Moonery",
+  "ens_address": "",
+  "website": "https://moonery.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

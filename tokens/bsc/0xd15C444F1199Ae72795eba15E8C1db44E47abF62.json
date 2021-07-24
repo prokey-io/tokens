@@ -1,0 +1,34 @@
+{
+  "symbol": "TENFI",
+  "address": "0xd15C444F1199Ae72795eba15E8C1db44E47abF62",
+  "decimals": 18,
+  "name": "TEN Finance",
+  "ens_address": "",
+  "website": "https://ten.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

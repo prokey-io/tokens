@@ -1,0 +1,34 @@
+{
+  "symbol": "LIGHT",
+  "address": "0x7B9c3Df47F3326FbC0674d51dc3EB0f2Df29F37F",
+  "decimals": 8,
+  "name": "Lightning",
+  "ens_address": "",
+  "website": "https://lightningprotocol.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

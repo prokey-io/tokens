@@ -1,0 +1,34 @@
+{
+  "symbol": "VOLTA",
+  "address": "0xfebc87c6ff184B1AD2D2081eCd5d8Fb18571bD24",
+  "decimals": 9,
+  "name": "Volta",
+  "ens_address": "",
+  "website": "https://www.voltacrypto.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

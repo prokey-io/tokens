@@ -1,0 +1,34 @@
+{
+  "symbol": "CUMMIES",
+  "address": "0x27Ae27110350B98d564b9A3eeD31bAeBc82d878d",
+  "decimals": 18,
+  "name": "CumRocket",
+  "ens_address": "",
+  "website": "https://cumrocketcrypto.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

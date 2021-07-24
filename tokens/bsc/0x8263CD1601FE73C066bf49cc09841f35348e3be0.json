@@ -1,0 +1,34 @@
+{
+  "symbol": "ALU",
+  "address": "0x8263CD1601FE73C066bf49cc09841f35348e3be0",
+  "decimals": 18,
+  "name": "Altura",
+  "ens_address": "",
+  "website": "https://www.alturanft.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

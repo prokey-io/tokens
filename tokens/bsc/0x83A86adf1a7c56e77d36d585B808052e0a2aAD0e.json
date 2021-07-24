@@ -1,0 +1,34 @@
+{
+  "symbol": "SYA",
+  "address": "0x83A86adf1a7c56e77d36d585B808052e0a2aAD0e",
+  "decimals": 9,
+  "name": "Save Your Assets",
+  "ens_address": "",
+  "website": "https://sya.today/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

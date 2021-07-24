@@ -1,0 +1,34 @@
+{
+  "symbol": "GABECOIN",
+  "address": "0x6e0BEF56b648b3eEBaE3808B8cBe7EFE8755AD9C",
+  "decimals": 9,
+  "name": "gabecoin",
+  "ens_address": "",
+  "website": "https://gabecoin.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "WENMOON",
+  "address": "0xb93ba7DC61ECFced69067151FC00C41cA369A797",
+  "decimals": 7,
+  "name": "WenMoon Token",
+  "ens_address": "",
+  "website": "https://wenmoon.space",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

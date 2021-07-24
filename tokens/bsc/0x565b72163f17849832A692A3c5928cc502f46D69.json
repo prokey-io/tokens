@@ -1,0 +1,34 @@
+{
+  "symbol": "HUNNY",
+  "address": "0x565b72163f17849832A692A3c5928cc502f46D69",
+  "decimals": 18,
+  "name": "Hunny Token",
+  "ens_address": "",
+  "website": "https://pancakehunny.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

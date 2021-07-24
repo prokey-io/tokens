@@ -1,0 +1,34 @@
+{
+  "symbol": "NRV",
+  "address": "0x42F6f551ae042cBe50C739158b4f0CAC0Edb9096",
+  "decimals": 18,
+  "name": "Nerve",
+  "ens_address": "",
+  "website": "https://nerve.fi/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

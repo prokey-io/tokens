@@ -1,0 +1,34 @@
+{
+  "symbol": "ACS",
+  "address": "0x4197C6EF3879a08cD51e5560da5064B773aa1d29",
+  "decimals": 18,
+  "name": "ACryptoS",
+  "ens_address": "",
+  "website": "https://acryptos.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

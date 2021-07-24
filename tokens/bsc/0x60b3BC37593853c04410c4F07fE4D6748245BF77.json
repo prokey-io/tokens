@@ -1,0 +1,34 @@
+{
+  "symbol": "SHIELD",
+  "address": "0x60b3BC37593853c04410c4F07fE4D6748245BF77",
+  "decimals": 18,
+  "name": "Shield Protocol",
+  "ens_address": "",
+  "website": "https://shieldprotocol.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

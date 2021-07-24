@@ -1,0 +1,34 @@
+{
+  "symbol": "OLYMPUS",
+  "address": "0x18b426813731C144108c6D7FAf5EdE71a258fD9A",
+  "decimals": 9,
+  "name": "OLYMPUS",
+  "ens_address": "",
+  "website": "https://olympustoken.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

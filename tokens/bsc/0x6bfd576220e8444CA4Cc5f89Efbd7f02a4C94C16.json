@@ -1,0 +1,34 @@
+{
+  "symbol": "SMG",
+  "address": "0x6bfd576220e8444CA4Cc5f89Efbd7f02a4C94C16",
+  "decimals": 8,
+  "name": "Smaugs NFT",
+  "ens_address": "",
+  "website": "https://www.smaugs.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

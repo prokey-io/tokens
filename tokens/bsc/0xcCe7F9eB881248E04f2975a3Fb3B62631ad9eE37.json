@@ -1,0 +1,34 @@
+{
+  "symbol": "SLAM",
+  "address": "0xcCe7F9eB881248E04f2975a3Fb3B62631ad9eE37",
+  "decimals": 18,
+  "name": "SLAM",
+  "ens_address": "",
+  "website": "https://slamtoken.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

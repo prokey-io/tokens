@@ -1,0 +1,34 @@
+{
+  "symbol": "SAVEANIMAL",
+  "address": "0xaa2C290bF62B7d100D2D7f87b7223e3A71b737F7",
+  "decimals": 9,
+  "name": "SaveAnimal",
+  "ens_address": "",
+  "website": "https://saveanimal.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

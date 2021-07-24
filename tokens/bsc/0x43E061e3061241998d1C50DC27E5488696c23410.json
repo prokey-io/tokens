@@ -1,0 +1,34 @@
+{
+  "symbol": "KAIK",
+  "address": "0x43E061e3061241998d1C50DC27E5488696c23410",
+  "decimals": 9,
+  "name": "KaikenCoin",
+  "ens_address": "",
+  "website": "https://kaikencoin.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

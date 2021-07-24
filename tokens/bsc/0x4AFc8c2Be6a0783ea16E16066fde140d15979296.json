@@ -1,0 +1,34 @@
+{
+  "symbol": "HARE",
+  "address": "0x4AFc8c2Be6a0783ea16E16066fde140d15979296",
+  "decimals": 9,
+  "name": "Hare Token",
+  "ens_address": "",
+  "website": "https://haretoken.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

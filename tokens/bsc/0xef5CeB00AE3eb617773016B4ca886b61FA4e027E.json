@@ -1,0 +1,34 @@
+{
+  "symbol": "BURN",
+  "address": "0xef5CeB00AE3eb617773016B4ca886b61FA4e027E",
+  "decimals": 18,
+  "name": "Burning Token",
+  "ens_address": "",
+  "website": "https://burningtoken.cash/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

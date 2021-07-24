@@ -1,0 +1,34 @@
+{
+  "symbol": "TPAY",
+  "address": "0x1C9257e55318eb9B472ed45ef5C55ccD941538f0",
+  "decimals": 18,
+  "name": "TETRA PAY",
+  "ens_address": "",
+  "website": "https://www.tpaytoken.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

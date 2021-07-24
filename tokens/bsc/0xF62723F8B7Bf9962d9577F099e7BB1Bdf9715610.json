@@ -1,0 +1,34 @@
+{
+  "symbol": "wLink",
+  "address": "0xF62723F8B7Bf9962d9577F099e7BB1Bdf9715610",
+  "decimals": 8,
+  "name": "wLink",
+  "ens_address": "",
+  "website": "https://wlink.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

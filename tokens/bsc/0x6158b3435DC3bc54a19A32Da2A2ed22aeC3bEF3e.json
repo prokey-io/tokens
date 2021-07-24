@@ -1,0 +1,34 @@
+{
+  "symbol": "bShiba",
+  "address": "0x6158b3435DC3bc54a19A32Da2A2ed22aeC3bEF3e",
+  "decimals": 9,
+  "name": "bscShiba",
+  "ens_address": "",
+  "website": "https://shibacorp.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

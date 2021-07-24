@@ -1,0 +1,34 @@
+{
+  "symbol": "vUSDT",
+  "address": "0xfD5840Cd36d94D7229439859C0112a4185BC0255",
+  "decimals": 8,
+  "name": "Venus USDT",
+  "ens_address": "",
+  "website": "https://venus.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

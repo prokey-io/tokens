@@ -1,0 +1,34 @@
+{
+  "symbol": "bALBT",
+  "address": "0x72fAa679E1008Ad8382959FF48E392042A8b06f7",
+  "decimals": 18,
+  "name": "AllianceBlock",
+  "ens_address": "",
+  "website": "https://allianceblock.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

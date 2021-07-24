@@ -1,0 +1,34 @@
+{
+  "symbol": "BLIMPSROCK",
+  "address": "0xdF6d9fC61Bd8163b59d6381EC93aE1D3a4D95bB2",
+  "decimals": 9,
+  "name": "BlimpsRock",
+  "ens_address": "",
+  "website": "https://blimpsrock.net",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

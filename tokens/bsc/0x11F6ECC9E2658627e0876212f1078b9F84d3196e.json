@@ -1,0 +1,34 @@
+{
+  "symbol": "2LC",
+  "address": "0x11F6ECC9E2658627e0876212f1078b9F84d3196e",
+  "decimals": 18,
+  "name": "2local",
+  "ens_address": "",
+  "website": "https://2local.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

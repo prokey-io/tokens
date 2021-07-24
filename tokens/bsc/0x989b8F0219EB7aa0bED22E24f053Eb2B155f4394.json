@@ -1,0 +1,34 @@
+{
+  "symbol": "MommyDoge",
+  "address": "0x989b8F0219EB7aa0bED22E24f053Eb2B155f4394",
+  "decimals": 9,
+  "name": "MommyDoge Token",
+  "ens_address": "",
+  "website": "https://mommydoge.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

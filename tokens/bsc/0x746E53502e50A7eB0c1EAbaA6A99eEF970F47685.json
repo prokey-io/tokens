@@ -1,0 +1,34 @@
+{
+  "symbol": "Ji",
+  "address": "0x746E53502e50A7eB0c1EAbaA6A99eEF970F47685",
+  "decimals": 18,
+  "name": "Xiaoji.cash",
+  "ens_address": "",
+  "website": "http://Xiaoji.cash",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

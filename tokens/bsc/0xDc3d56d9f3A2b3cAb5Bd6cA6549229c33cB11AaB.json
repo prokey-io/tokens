@@ -1,0 +1,34 @@
+{
+  "symbol": "BABYODA",
+  "address": "0xDc3d56d9f3A2b3cAb5Bd6cA6549229c33cB11AaB",
+  "decimals": 9,
+  "name": "BabYoda",
+  "ens_address": "",
+  "website": "https://babyoda.net/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "JULb",
+  "address": "0x32dFFc3fE8E3EF3571bF8a72c0d0015C5373f41D",
+  "decimals": 18,
+  "name": "JULb",
+  "ens_address": "",
+  "website": "https://justliquidity.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

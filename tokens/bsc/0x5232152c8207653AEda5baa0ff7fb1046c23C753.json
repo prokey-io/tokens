@@ -1,0 +1,34 @@
+{
+  "symbol": "SUBX",
+  "address": "0x5232152c8207653AEda5baa0ff7fb1046c23C753",
+  "decimals": 9,
+  "name": "Startup Boost Token",
+  "ens_address": "",
+  "website": "https://startupboost.app/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

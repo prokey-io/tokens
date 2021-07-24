@@ -1,0 +1,34 @@
+{
+  "symbol": "BFG",
+  "address": "0xd1061342B3A119Ad2247c79235ECbd51997ed8eD",
+  "decimals": 9,
+  "name": "BabyFeg",
+  "ens_address": "",
+  "website": "https://www.babyfeg.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

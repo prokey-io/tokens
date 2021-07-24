@@ -1,0 +1,34 @@
+{
+  "symbol": "XIASI",
+  "address": "0x0e20E3216EA172fcf9eAa19723b119e090fD353f",
+  "decimals": 9,
+  "name": "Xiasi Inu",
+  "ens_address": "",
+  "website": "https://xiasi.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

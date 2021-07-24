@@ -1,0 +1,34 @@
+{
+  "symbol": "CERBERUS",
+  "address": "0x8B3268a23131DAFBd77165690767F285C1AAC6C5",
+  "decimals": 18,
+  "name": "Cerberus Token",
+  "ens_address": "",
+  "website": "https://gocerberus.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

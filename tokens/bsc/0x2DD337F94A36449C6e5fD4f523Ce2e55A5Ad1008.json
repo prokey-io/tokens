@@ -1,0 +1,34 @@
+{
+  "symbol": "WOW",
+  "address": "0x2DD337F94A36449C6e5fD4f523Ce2e55A5Ad1008",
+  "decimals": 9,
+  "name": "World of Whales",
+  "ens_address": "",
+  "website": "https://worldofwhales.biz",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

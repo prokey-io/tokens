@@ -1,0 +1,34 @@
+{
+  "symbol": "PIG",
+  "address": "0x8850D2c68c632E3B258e612abAA8FadA7E6958E5",
+  "decimals": 9,
+  "name": "PIG Token",
+  "ens_address": "",
+  "website": "https://pigtoken.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "X Stake",
+  "address": "0x64197A553a03b8C9f23D5A15FA9fD91eac4A9538",
+  "decimals": 8,
+  "name": "X Stake Chain",
+  "ens_address": "",
+  "website": "http://xstakechain.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "ROO",
+  "address": "0x30b29C6C03546F6395ddB454538D0eb7E4a6E32f",
+  "decimals": 18,
+  "name": "RooCoin",
+  "ens_address": "",
+  "website": "https://roocoin.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

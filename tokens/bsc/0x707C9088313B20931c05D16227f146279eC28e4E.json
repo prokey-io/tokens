@@ -1,0 +1,34 @@
+{
+  "symbol": "SBSH",
+  "address": "0x707C9088313B20931c05D16227f146279eC28e4E",
+  "decimals": 9,
+  "name": "SafeBabyShiba",
+  "ens_address": "",
+  "website": "https://safebabyshiba.tech/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

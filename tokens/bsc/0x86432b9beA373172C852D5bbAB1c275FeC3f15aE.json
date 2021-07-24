@@ -1,0 +1,34 @@
+{
+  "symbol": "SLEEPY",
+  "address": "0x86432b9beA373172C852D5bbAB1c275FeC3f15aE",
+  "decimals": 8,
+  "name": "Sleepy Sloth",
+  "ens_address": "",
+  "website": "https://sleepysloth.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

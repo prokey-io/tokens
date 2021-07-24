@@ -1,0 +1,34 @@
+{
+  "symbol": "AIRx",
+  "address": "0x6Fb05b156788E88c8ad1e057e729362ff8c39d93",
+  "decimals": 8,
+  "name": "Aircoins",
+  "ens_address": "",
+  "website": "https://www.aircoins.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

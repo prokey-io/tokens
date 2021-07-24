@@ -1,0 +1,34 @@
+{
+  "symbol": "PAWG",
+  "address": "0x19B60612F9A93359bca835A788A334D4157E675B",
+  "decimals": 9,
+  "name": "PAWGcoin",
+  "ens_address": "",
+  "website": "https://www.pawgcoin.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

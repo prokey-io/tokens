@@ -1,0 +1,34 @@
+{
+  "symbol": "TeslaSafe",
+  "address": "0x3504de9e61FDFf2Fc70f5cC8a6D1Ee493434C1Aa",
+  "decimals": 9,
+  "name": "TeslaSafe",
+  "ens_address": "",
+  "website": "https://teslasafe.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

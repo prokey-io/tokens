@@ -1,0 +1,34 @@
+{
+  "symbol": "BB",
+  "address": "0x86bBc9838C3370e0fD570b4ee8087f5aCa299977",
+  "decimals": 0,
+  "name": "Blackberry token",
+  "ens_address": "",
+  "website": "https://www.blackberrytoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

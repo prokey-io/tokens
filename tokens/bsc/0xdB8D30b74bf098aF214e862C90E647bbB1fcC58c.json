@@ -1,0 +1,34 @@
+{
+  "symbol": "BABYCAKE",
+  "address": "0xdB8D30b74bf098aF214e862C90E647bbB1fcC58c",
+  "decimals": 18,
+  "name": "BABY CAKE",
+  "ens_address": "",
+  "website": "https://babycake.app/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "BCKY",
+  "address": "0x3adaf5DA3d11Cc20ef937417a5c55E7cB18fDE6f",
+  "decimals": 9,
+  "name": "Bucky",
+  "ens_address": "",
+  "website": "https://buckycoin.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

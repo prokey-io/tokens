@@ -1,0 +1,34 @@
+{
+  "symbol": "iBNB",
+  "address": "0x830F7A104a3dF30879D526031D57DAa44BF85686",
+  "decimals": 9,
+  "name": "iBNB",
+  "ens_address": "",
+  "website": "https://ibnb.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

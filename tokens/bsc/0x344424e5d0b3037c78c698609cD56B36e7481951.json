@@ -1,0 +1,34 @@
+{
+  "symbol": "MYS",
+  "address": "0x344424e5d0b3037c78c698609cD56B36e7481951",
+  "decimals": 9,
+  "name": "MysteryCoin",
+  "ens_address": "",
+  "website": "https://www.mysterycoin.family",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "HGET",
+  "address": "0xC7d8D35EBA58a0935ff2D5a33Df105DD9f071731",
+  "decimals": 6,
+  "name": "Hedget",
+  "ens_address": "",
+  "website": "https://www.hedget.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

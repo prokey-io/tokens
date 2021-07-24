@@ -1,0 +1,34 @@
+{
+  "symbol": "DSHIB",
+  "address": "0x5A810FC02ae3C79299179E2C8dBb6F104A9eCc71",
+  "decimals": 18,
+  "name": "DARK SHIBA INU",
+  "ens_address": "",
+  "website": "https://darkshiba.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

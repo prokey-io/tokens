@@ -1,0 +1,34 @@
+{
+  "symbol": "Bali",
+  "address": "0x2aC8f06A3165f38BF582c5D2edC22B245889bD2F",
+  "decimals": 18,
+  "name": "Token Bali",
+  "ens_address": "",
+  "website": "https://tokenbalibnb.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

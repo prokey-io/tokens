@@ -1,0 +1,34 @@
+{
+  "symbol": "BYCO",
+  "address": "0xDbCa1Fecbd2d3AE9EfC48f3E823fedE48530551a",
+  "decimals": 9,
+  "name": "BYCOIN NFT",
+  "ens_address": "",
+  "website": "https://bycoin.digital/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

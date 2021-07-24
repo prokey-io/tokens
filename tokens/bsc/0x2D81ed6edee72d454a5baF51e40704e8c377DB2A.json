@@ -1,0 +1,34 @@
+{
+  "symbol": "FDOTA",
+  "address": "0x2D81ed6edee72d454a5baF51e40704e8c377DB2A",
+  "decimals": 9,
+  "name": "FomoDota",
+  "ens_address": "",
+  "website": "https://fomodota.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

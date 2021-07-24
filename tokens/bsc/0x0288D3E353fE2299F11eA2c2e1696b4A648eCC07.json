@@ -1,0 +1,34 @@
+{
+  "symbol": "ZEFI",
+  "address": "0x0288D3E353fE2299F11eA2c2e1696b4A648eCC07",
+  "decimals": 18,
+  "name": "ZCore Finance",
+  "ens_address": "",
+  "website": "http://finance.zcore.network",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

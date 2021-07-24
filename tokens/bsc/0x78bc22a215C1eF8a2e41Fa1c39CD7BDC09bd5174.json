@@ -1,0 +1,34 @@
+{
+  "symbol": "RMOON",
+  "address": "0x78bc22a215C1eF8a2e41Fa1c39CD7BDC09bd5174",
+  "decimals": 9,
+  "name": "Rocket Moon",
+  "ens_address": "",
+  "website": "https://www.rocketmoon.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

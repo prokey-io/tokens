@@ -1,0 +1,34 @@
+{
+  "symbol": "TLM",
+  "address": "0x2222227E22102Fe3322098e4CBfE18cFebD57c95",
+  "decimals": 4,
+  "name": "Alien Worlds Trilium",
+  "ens_address": "",
+  "website": "https://alienworlds.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

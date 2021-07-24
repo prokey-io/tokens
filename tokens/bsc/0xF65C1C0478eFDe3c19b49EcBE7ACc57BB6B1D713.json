@@ -1,0 +1,34 @@
+{
+  "symbol": "APE-LP",
+  "address": "0xF65C1C0478eFDe3c19b49EcBE7ACc57BB6B1D713",
+  "decimals": 18,
+  "name": "Ape Swap LP BNB-BANANA",
+  "ens_address": "",
+  "website": "https://apeswap.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

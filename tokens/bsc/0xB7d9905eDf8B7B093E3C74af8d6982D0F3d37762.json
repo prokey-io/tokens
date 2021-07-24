@@ -1,0 +1,34 @@
+{
+  "symbol": "NGNT",
+  "address": "0xB7d9905eDf8B7B093E3C74af8d6982D0F3d37762",
+  "decimals": 2,
+  "name": "Ngnt",
+  "ens_address": "",
+  "website": "https://ngnt.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

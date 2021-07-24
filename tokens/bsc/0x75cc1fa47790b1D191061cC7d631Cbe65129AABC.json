@@ -1,0 +1,34 @@
+{
+  "symbol": "DogeDF",
+  "address": "0x75cc1fa47790b1D191061cC7d631Cbe65129AABC",
+  "decimals": 9,
+  "name": "Doge DeFi",
+  "ens_address": "",
+  "website": "https://www.dogedf.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

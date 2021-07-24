@@ -1,0 +1,34 @@
+{
+  "symbol": "SAFEMOONC",
+  "address": "0x00e7daf0E5FD1F5331c92d09e3C825A8e4Fc6515",
+  "decimals": 0,
+  "name": "SAFEMOON CLASSIC",
+  "ens_address": "",
+  "website": "https://safemoonclassic.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

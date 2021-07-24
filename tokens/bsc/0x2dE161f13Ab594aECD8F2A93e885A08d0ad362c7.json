@@ -1,0 +1,34 @@
+{
+  "symbol": "VANITY",
+  "address": "0x2dE161f13Ab594aECD8F2A93e885A08d0ad362c7",
+  "decimals": 9,
+  "name": "Vanity",
+  "ens_address": "",
+  "website": "https://vanitytoken.net",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

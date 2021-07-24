@@ -1,0 +1,34 @@
+{
+  "symbol": "MEGARISE",
+  "address": "0x3ec7ba1B86387B8CB323eaC3f2AAE217C876f9A7",
+  "decimals": 9,
+  "name": "MegaRise",
+  "ens_address": "",
+  "website": "https://megarisetoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

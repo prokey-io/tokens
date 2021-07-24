@@ -1,0 +1,34 @@
+{
+  "symbol": "SEX",
+  "address": "0x6eA05F63DAF6b0Dc6b8bea94342330CC602c5536",
+  "decimals": 9,
+  "name": "SafeSex Finance",
+  "ens_address": "",
+  "website": "https://safesexfinance.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

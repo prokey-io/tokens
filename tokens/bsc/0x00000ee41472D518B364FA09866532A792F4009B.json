@@ -1,0 +1,34 @@
+{
+  "symbol": "TBCC",
+  "address": "0x00000ee41472D518B364FA09866532A792F4009B",
+  "decimals": 18,
+  "name": "TBCC",
+  "ens_address": "",
+  "website": "https://www.tbcc.com/footer/token",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

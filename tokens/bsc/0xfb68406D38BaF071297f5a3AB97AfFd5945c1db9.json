@@ -1,0 +1,34 @@
+{
+  "symbol": "SAFUV2",
+  "address": "0xfb68406D38BaF071297f5a3AB97AfFd5945c1db9",
+  "decimals": 9,
+  "name": "SafeUniverse",
+  "ens_address": "",
+  "website": "https://www.safeuniverse.net/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

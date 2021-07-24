@@ -1,0 +1,34 @@
+{
+  "symbol": "THC",
+  "address": "0x1e4e9397533efBF31eD451Eae1c17Bca090Bc9ef",
+  "decimals": 18,
+  "name": "Weedcoin",
+  "ens_address": "",
+  "website": "https://weedcointhc.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "OLE",
+  "address": "0xfb4b7ee058828b5fBF2e475dA88F1903f453334E",
+  "decimals": 9,
+  "name": "OleCoin",
+  "ens_address": "",
+  "website": "https://olecoin.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

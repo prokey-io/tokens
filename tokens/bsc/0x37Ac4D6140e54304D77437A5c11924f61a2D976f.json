@@ -1,0 +1,34 @@
+{
+  "symbol": "SFUEL",
+  "address": "0x37Ac4D6140e54304D77437A5c11924f61a2D976f",
+  "decimals": 18,
+  "name": "SparkPoint Fuel",
+  "ens_address": "",
+  "website": "https://srk.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

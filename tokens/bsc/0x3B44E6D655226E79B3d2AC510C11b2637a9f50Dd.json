@@ -1,0 +1,34 @@
+{
+  "symbol": "SHEESHMOON",
+  "address": "0x3B44E6D655226E79B3d2AC510C11b2637a9f50Dd",
+  "decimals": 9,
+  "name": "SheeshMoon",
+  "ens_address": "",
+  "website": "https://sheeshmoon.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "RiseUp",
+  "address": "0x61C911B6D1B46DcaDbB61bFa7100290a6faaD53D",
+  "decimals": 9,
+  "name": "RiseUp",
+  "ens_address": "",
+  "website": "https://riseupofficial.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "RAKUC",
+  "address": "0xc094b9604225062c7edCA29DB444B9b035f78C8B",
+  "decimals": 9,
+  "name": "Raku Coin",
+  "ens_address": "",
+  "website": "https://rakucoin.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

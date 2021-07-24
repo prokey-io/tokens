@@ -1,0 +1,34 @@
+{
+  "symbol": "MOONBAR",
+  "address": "0x47e28936D9c7944D106e46295d87A8E4c1Be818c",
+  "decimals": 9,
+  "name": "MOONBAR",
+  "ens_address": "",
+  "website": "https://moonbar.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

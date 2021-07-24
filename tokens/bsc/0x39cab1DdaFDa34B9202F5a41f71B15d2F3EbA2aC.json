@@ -1,0 +1,34 @@
+{
+  "symbol": "OCTAX",
+  "address": "0x39cab1DdaFDa34B9202F5a41f71B15d2F3EbA2aC",
+  "decimals": 18,
+  "name": "OctaX",
+  "ens_address": "",
+  "website": "https://octax.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

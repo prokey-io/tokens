@@ -1,0 +1,34 @@
+{
+  "symbol": "SNN",
+  "address": "0xA997E5AaaE60987Eb0B59A336dce6B158B113100",
+  "decimals": 3,
+  "name": "SeChain",
+  "ens_address": "",
+  "website": "https://sechain.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

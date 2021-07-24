@@ -1,0 +1,34 @@
+{
+  "symbol": "FAIRLIFE",
+  "address": "0x8a646ec31EE33B12FF47E6C7DAaF4BC4df9ae54a",
+  "decimals": 8,
+  "name": "FairLife",
+  "ens_address": "",
+  "website": "https://fairlife.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

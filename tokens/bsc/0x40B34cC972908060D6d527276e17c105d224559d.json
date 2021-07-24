@@ -1,0 +1,34 @@
+{
+  "symbol": "SEED",
+  "address": "0x40B34cC972908060D6d527276e17c105d224559d",
+  "decimals": 18,
+  "name": "TreeDefi",
+  "ens_address": "",
+  "website": "https://treedefi.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

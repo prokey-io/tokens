@@ -1,0 +1,34 @@
+{
+  "symbol": "SAFEHAMSTERS",
+  "address": "0xa016F295A5957cB80D03d8E5464A429007555124",
+  "decimals": 9,
+  "name": "SafeHamsters",
+  "ens_address": "",
+  "website": "https://safehamsters.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

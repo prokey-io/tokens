@@ -1,0 +1,34 @@
+{
+  "symbol": "ANON",
+  "address": "0xFd78aAEd1e3f2d06DbDE9510C6dC14112eCA896D",
+  "decimals": 9,
+  "name": "Anonymous",
+  "ens_address": "",
+  "website": "https://4n0nym0u5.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

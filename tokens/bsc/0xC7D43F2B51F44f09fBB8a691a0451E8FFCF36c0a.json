@@ -1,0 +1,34 @@
+{
+  "symbol": "RISE",
+  "address": "0xC7D43F2B51F44f09fBB8a691a0451E8FFCF36c0a",
+  "decimals": 9,
+  "name": "EverRise",
+  "ens_address": "",
+  "website": "https://www.everrisecoin.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

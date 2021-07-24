@@ -1,0 +1,34 @@
+{
+  "symbol": "SAFEPIT",
+  "address": "0xe2F4516aA9bd7b864FF0C6DD4EbB8878E1BBc97D",
+  "decimals": 9,
+  "name": "SafePitbull",
+  "ens_address": "",
+  "website": "https://safepitbull.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

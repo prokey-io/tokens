@@ -1,0 +1,34 @@
+{
+  "symbol": "MOONGHOST",
+  "address": "0xf818D092BeAF21BEaFe6aCDd8230BD5F7b861D9C",
+  "decimals": 9,
+  "name": "MoonGhost",
+  "ens_address": "",
+  "website": "http://moonghost.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

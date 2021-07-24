@@ -1,0 +1,34 @@
+{
+  "symbol": "FREE",
+  "address": "0x12e34cDf6A031a10FE241864c32fB03a4FDaD739",
+  "decimals": 18,
+  "name": "FREE coin",
+  "ens_address": "",
+  "website": "https://FREEcoin.technology",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

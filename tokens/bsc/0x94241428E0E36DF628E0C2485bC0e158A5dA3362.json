@@ -1,0 +1,34 @@
+{
+  "symbol": "CrazyTime",
+  "address": "0x94241428E0E36DF628E0C2485bC0e158A5dA3362",
+  "decimals": 9,
+  "name": "CrazyTime",
+  "ens_address": "",
+  "website": "https://www.moochii.net/crazytime",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

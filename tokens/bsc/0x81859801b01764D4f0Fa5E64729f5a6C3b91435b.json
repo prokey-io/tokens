@@ -1,0 +1,34 @@
+{
+  "symbol": "BFI",
+  "address": "0x81859801b01764D4f0Fa5E64729f5a6C3b91435b",
+  "decimals": 18,
+  "name": "bearn.fi",
+  "ens_address": "",
+  "website": "https://bearn.fi",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

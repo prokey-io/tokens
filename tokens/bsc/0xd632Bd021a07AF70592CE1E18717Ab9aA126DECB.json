@@ -1,0 +1,34 @@
+{
+  "symbol": "bKANGAL",
+  "address": "0xd632Bd021a07AF70592CE1E18717Ab9aA126DECB",
+  "decimals": 18,
+  "name": "Kangal",
+  "ens_address": "",
+  "website": "https://www.kangaltoken.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

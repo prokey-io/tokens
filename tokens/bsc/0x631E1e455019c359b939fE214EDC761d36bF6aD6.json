@@ -1,0 +1,34 @@
+{
+  "symbol": "PINKPANDA",
+  "address": "0x631E1e455019c359b939fE214EDC761d36bF6aD6",
+  "decimals": 9,
+  "name": "PinkPanda",
+  "ens_address": "",
+  "website": "https://pinkpanda.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

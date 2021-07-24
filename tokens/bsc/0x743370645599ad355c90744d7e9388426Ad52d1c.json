@@ -1,0 +1,34 @@
+{
+  "symbol": "BSCC",
+  "address": "0x743370645599ad355c90744d7e9388426Ad52d1c",
+  "decimals": 18,
+  "name": "SiaCashCoin",
+  "ens_address": "",
+  "website": "https://www.siacashcoin.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

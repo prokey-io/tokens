@@ -1,0 +1,34 @@
+{
+  "symbol": "SPARTA",
+  "address": "0x3910db0600eA925F63C36DdB1351aB6E2c6eb102",
+  "decimals": 18,
+  "name": "Spartan Protocol Token V2",
+  "ens_address": "",
+  "website": "https://spartanprotocol.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "CHAD",
+  "address": "0x9E1892eD30796FF96aBBb1b6A5e722C6ea9C46eB",
+  "decimals": 18,
+  "name": "CHAD",
+  "ens_address": "",
+  "website": "https://chads.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "BICHON",
+  "address": "0xDf394853D830424CaFCCF7Be7dF065366cF31a69",
+  "decimals": 9,
+  "name": "BICHON TOKENT",
+  "ens_address": "",
+  "website": "https://bichontoken.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

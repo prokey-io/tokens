@@ -1,0 +1,34 @@
+{
+  "symbol": "KABOSU",
+  "address": "0x4A824eE819955A7D769e03fe36f9E0C3Bd3Aa60b",
+  "decimals": 9,
+  "name": "Kabosu",
+  "ens_address": "",
+  "website": "https://kabosutoken.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "BOOZE",
+  "address": "0x184392F0f03CA11186722f38a04C15c3A90155D3",
+  "decimals": 9,
+  "name": "BoozeMoon",
+  "ens_address": "",
+  "website": "https://boozemoon.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

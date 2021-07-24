@@ -1,0 +1,34 @@
+{
+  "symbol": "ELP",
+  "address": "0xE3894CB9E92ca78524Fb6a30Ff072FA5E533c162",
+  "decimals": 18,
+  "name": "Everlasting Parachain",
+  "ens_address": "",
+  "website": "https://www.cycan.network/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

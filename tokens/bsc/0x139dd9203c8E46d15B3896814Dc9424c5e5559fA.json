@@ -1,0 +1,34 @@
+{
+  "symbol": "OX",
+  "address": "0x139dd9203c8E46d15B3896814Dc9424c5e5559fA",
+  "decimals": 9,
+  "name": "OrcaX",
+  "ens_address": "",
+  "website": "https://orcax.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

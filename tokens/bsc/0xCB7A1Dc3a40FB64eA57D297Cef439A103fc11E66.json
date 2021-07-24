@@ -1,0 +1,34 @@
+{
+  "symbol": "MILF",
+  "address": "0xCB7A1Dc3a40FB64eA57D297Cef439A103fc11E66",
+  "decimals": 9,
+  "name": "MILF",
+  "ens_address": "",
+  "website": "https://milf.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

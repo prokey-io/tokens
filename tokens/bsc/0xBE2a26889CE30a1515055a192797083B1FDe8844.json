@@ -1,0 +1,34 @@
+{
+  "symbol": "STRIKE",
+  "address": "0xBE2a26889CE30a1515055a192797083B1FDe8844",
+  "decimals": 3,
+  "name": "STRIKE",
+  "ens_address": "",
+  "website": "https://www.strikecoin.co/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

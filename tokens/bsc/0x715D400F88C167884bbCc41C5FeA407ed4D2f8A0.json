@@ -1,0 +1,34 @@
+{
+  "symbol": "AXS",
+  "address": "0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0",
+  "decimals": 18,
+  "name": "Binance-Pegged Axie Infinity Shard",
+  "ens_address": "",
+  "website": "https://axieinfinity.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

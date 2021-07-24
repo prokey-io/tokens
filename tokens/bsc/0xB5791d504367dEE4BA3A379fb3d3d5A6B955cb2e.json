@@ -1,0 +1,34 @@
+{
+  "symbol": "TLB",
+  "address": "0xB5791d504367dEE4BA3A379fb3d3d5A6B955cb2e",
+  "decimals": 18,
+  "name": "The Luxury Coin",
+  "ens_address": "",
+  "website": "https://theluxurybank.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "WHIRL",
+  "address": "0x7f479d78380Ad00341fdD7322fE8AEf766e29e5A",
+  "decimals": 18,
+  "name": "Whirl Finance",
+  "ens_address": "",
+  "website": "https://www.whirl-finance.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

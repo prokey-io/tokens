@@ -1,0 +1,34 @@
+{
+  "symbol": "KAWAII",
+  "address": "0x099D6CC403C0a5B46A6dD384c622Da39f1e1001C",
+  "decimals": 9,
+  "name": "kawaiINU",
+  "ens_address": "",
+  "website": "https://kawaiinu.net/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

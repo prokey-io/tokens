@@ -1,0 +1,34 @@
+{
+  "symbol": "PBOM",
+  "address": "0x3Ea50B7Ef6a7eaf7E966E2cb72b519C16557497c",
+  "decimals": 9,
+  "name": "Pocket Bomb",
+  "ens_address": "",
+  "website": "https://pbom.rocketbunny.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

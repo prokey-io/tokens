@@ -1,0 +1,34 @@
+{
+  "symbol": "MOONLIGHT",
+  "address": "0xB1CeD2e320E3f4C8e3511B1DC59203303493F382",
+  "decimals": 9,
+  "name": "Moonlight Token",
+  "ens_address": "",
+  "website": "https://moonlighttoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

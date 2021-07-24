@@ -1,0 +1,34 @@
+{
+  "symbol": "WGR",
+  "address": "0xdBf8265B1d5244A13424f13977723AcF5395eAB2",
+  "decimals": 18,
+  "name": "Wagerr",
+  "ens_address": "",
+  "website": "https://www.wagerr.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

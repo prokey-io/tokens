@@ -1,0 +1,34 @@
+{
+  "symbol": "MMON",
+  "address": "0xa9F179C99567D6D671c3AC5eDf206F5fc647483f",
+  "decimals": 8,
+  "name": "Mammon",
+  "ens_address": "",
+  "website": "https://mammon.money",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

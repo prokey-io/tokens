@@ -1,0 +1,34 @@
+{
+  "symbol": "fUSDT",
+  "address": "0xEf11aB854b475Bd0c5Db37f6bFFAB443219d656d",
+  "decimals": 18,
+  "name": "FEG Wrapped USDT",
+  "ens_address": "",
+  "website": "https://fegtoken.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

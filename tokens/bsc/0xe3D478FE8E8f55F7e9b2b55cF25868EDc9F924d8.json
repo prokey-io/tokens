@@ -1,0 +1,34 @@
+{
+  "symbol": "GEM",
+  "address": "0xe3D478FE8E8f55F7e9b2b55cF25868EDc9F924d8",
+  "decimals": 9,
+  "name": "Gem Protocol",
+  "ens_address": "",
+  "website": "https://gemprotocol.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

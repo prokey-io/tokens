@@ -1,0 +1,34 @@
+{
+  "symbol": "ZABAKU",
+  "address": "0x1e5F009d4f8cA44b5FcC4963dD301Da82b4eed09",
+  "decimals": 9,
+  "name": "Zabaku Inu",
+  "ens_address": "",
+  "website": "https://zabakuinu.herokuapp.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

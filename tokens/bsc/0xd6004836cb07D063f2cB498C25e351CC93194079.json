@@ -1,0 +1,34 @@
+{
+  "symbol": "LONG",
+  "address": "0xd6004836cb07D063f2cB498C25e351CC93194079",
+  "decimals": 18,
+  "name": "Long Asset",
+  "ens_address": "",
+  "website": "https://longasset.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

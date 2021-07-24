@@ -1,0 +1,34 @@
+{
+  "symbol": "IMSL",
+  "address": "0xc8aE2289c032B119DFD29396F1FC68Ee91F80118",
+  "decimals": 9,
+  "name": "IM Super League",
+  "ens_address": "",
+  "website": "https://imsuperleague.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

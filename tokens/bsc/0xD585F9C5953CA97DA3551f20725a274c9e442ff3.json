@@ -1,0 +1,34 @@
+{
+  "symbol": "PEG",
+  "address": "0xD585F9C5953CA97DA3551f20725a274c9e442ff3",
+  "decimals": 9,
+  "name": "Pegazus Finance",
+  "ens_address": "",
+  "website": "https://pegazus.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

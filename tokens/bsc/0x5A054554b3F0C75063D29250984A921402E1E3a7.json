@@ -1,0 +1,34 @@
+{
+  "symbol": "SDF",
+  "address": "0x5A054554b3F0C75063D29250984A921402E1E3a7",
+  "decimals": 18,
+  "name": "SHIELD FINANCE",
+  "ens_address": "",
+  "website": "http://www.shieldtoken.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

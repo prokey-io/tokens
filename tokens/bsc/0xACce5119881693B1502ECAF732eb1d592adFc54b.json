@@ -1,0 +1,34 @@
+{
+  "symbol": "WOJAK",
+  "address": "0xACce5119881693B1502ECAF732eb1d592adFc54b",
+  "decimals": 9,
+  "name": "SafeWojak",
+  "ens_address": "",
+  "website": "https://safewojak.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

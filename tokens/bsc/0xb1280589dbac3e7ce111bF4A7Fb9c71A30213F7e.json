@@ -1,0 +1,34 @@
+{
+  "symbol": "DEXT",
+  "address": "0xb1280589dbac3e7ce111bF4A7Fb9c71A30213F7e",
+  "decimals": 18,
+  "name": "DEXTools",
+  "ens_address": "",
+  "website": "https://dextools.io/app",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

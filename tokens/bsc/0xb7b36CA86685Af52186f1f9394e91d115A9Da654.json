@@ -1,0 +1,34 @@
+{
+  "symbol": "HAM",
+  "address": "0xb7b36CA86685Af52186f1f9394e91d115A9Da654",
+  "decimals": 18,
+  "name": "HAMSTER",
+  "ens_address": "",
+  "website": "https://www.hamsterfinance.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

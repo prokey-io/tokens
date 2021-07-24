@@ -1,0 +1,34 @@
+{
+  "symbol": "ULTIMATE",
+  "address": "0xC5FFc1cb7533931D737E13A9b68eBb45270f3298",
+  "decimals": 18,
+  "name": "UltimateToken",
+  "ens_address": "",
+  "website": "https://ultimatetokenbsc.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

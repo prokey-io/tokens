@@ -1,0 +1,34 @@
+{
+  "symbol": "DBM",
+  "address": "0x0314e5a39806C30D67B869EE1bCDABee7e08dE74",
+  "decimals": 9,
+  "name": "DoubleMoon",
+  "ens_address": "",
+  "website": "https://doublemoon.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

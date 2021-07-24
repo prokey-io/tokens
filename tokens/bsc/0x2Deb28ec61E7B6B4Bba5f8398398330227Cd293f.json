@@ -1,0 +1,34 @@
+{
+  "symbol": "MINTv2",
+  "address": "0x2Deb28ec61E7B6B4Bba5f8398398330227Cd293f",
+  "decimals": 18,
+  "name": "MINTv2",
+  "ens_address": "",
+  "website": "https://tea-swap-app.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

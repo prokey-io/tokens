@@ -1,0 +1,34 @@
+{
+  "symbol": "BMON",
+  "address": "0x08ba0619b1e7A582E0BCe5BBE9843322C954C340",
+  "decimals": 18,
+  "name": "Binamon",
+  "ens_address": "",
+  "website": "https://binamon.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

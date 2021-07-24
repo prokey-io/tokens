@@ -1,0 +1,34 @@
+{
+  "symbol": "RICH",
+  "address": "0xC7Bc24c4C18F8251D31611114d0e7B5F5ef76762",
+  "decimals": 9,
+  "name": "Richie",
+  "ens_address": "",
+  "website": "https://www.getrichie.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

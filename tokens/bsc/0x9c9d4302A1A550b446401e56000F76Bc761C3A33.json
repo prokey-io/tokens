@@ -1,0 +1,34 @@
+{
+  "symbol": "GLASS",
+  "address": "0x9c9d4302A1A550b446401e56000F76Bc761C3A33",
+  "decimals": 9,
+  "name": "OurGlass",
+  "ens_address": "",
+  "website": "https://our.glass",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

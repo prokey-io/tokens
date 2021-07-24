@@ -1,0 +1,34 @@
+{
+  "symbol": "XMPT",
+  "address": "0x8099C0c7b3E530F563d4B121Abd2Ee365c72fB78",
+  "decimals": 18,
+  "name": "XMPT Token",
+  "ens_address": "",
+  "website": "https://www.xiamipool.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

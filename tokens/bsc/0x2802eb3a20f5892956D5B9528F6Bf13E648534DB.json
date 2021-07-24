@@ -1,0 +1,34 @@
+{
+  "symbol": "ODIN",
+  "address": "0x2802eb3a20f5892956D5B9528F6Bf13E648534DB",
+  "decimals": 18,
+  "name": "Odin Protocol Token",
+  "ens_address": "",
+  "website": "https://odinprotocol.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

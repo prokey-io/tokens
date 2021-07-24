@@ -1,0 +1,34 @@
+{
+  "symbol": "THOREUM",
+  "address": "0x580dE58c1BD593A43DaDcF0A739d504621817c05",
+  "decimals": 18,
+  "name": "Thoreum Token",
+  "ens_address": "",
+  "website": "https://thoreum.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "TONE",
+  "address": "0xbCdfD50ead6b6da1970464985FAb894Fb83d17C0",
+  "decimals": 8,
+  "name": "NFTTONE",
+  "ens_address": "",
+  "website": "https://www.nfttone.net/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

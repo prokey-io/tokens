@@ -1,0 +1,34 @@
+{
+  "symbol": "wADA",
+  "address": "0xdF2fc196d57f7E3736DAAab1De4b717C32380fB6",
+  "decimals": 8,
+  "name": "wCardano",
+  "ens_address": "",
+  "website": "https://wcardano.net",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

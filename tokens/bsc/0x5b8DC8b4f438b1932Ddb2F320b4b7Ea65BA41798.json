@@ -1,0 +1,34 @@
+{
+  "symbol": "BDCC",
+  "address": "0x5b8DC8b4f438b1932Ddb2F320b4b7Ea65BA41798",
+  "decimals": 18,
+  "name": "BDCC COIN",
+  "ens_address": "",
+  "website": "https://www.thebitica.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

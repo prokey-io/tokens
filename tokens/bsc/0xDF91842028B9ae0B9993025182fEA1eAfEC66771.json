@@ -1,0 +1,34 @@
+{
+  "symbol": "TREX",
+  "address": "0xDF91842028B9ae0B9993025182fEA1eAfEC66771",
+  "decimals": 9,
+  "name": "Tyrannosaurus Rex",
+  "ens_address": "",
+  "website": "https://trextoken.net/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

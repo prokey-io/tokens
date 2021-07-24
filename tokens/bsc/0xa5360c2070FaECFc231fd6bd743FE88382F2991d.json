@@ -1,0 +1,34 @@
+{
+  "symbol": "SafeLight",
+  "address": "0xa5360c2070FaECFc231fd6bd743FE88382F2991d",
+  "decimals": 9,
+  "name": "SafeLight",
+  "ens_address": "",
+  "website": "https://www.safelightcrypto.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

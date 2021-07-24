@@ -1,0 +1,34 @@
+{
+  "symbol": "DCASH",
+  "address": "0x12c2Fc002DEaf2239dDa8cB92F3b28BbcbE96323",
+  "decimals": 18,
+  "name": "Diamond Cash",
+  "ens_address": "",
+  "website": "https://diamondcash.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "SSN",
+  "address": "0x89d453108bD94B497bBB4496729cd26f92Aba533",
+  "decimals": 9,
+  "name": "Supersonic Finance",
+  "ens_address": "",
+  "website": "https://supersonic.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "CORGI",
+  "address": "0x450dCf93160A30BE156A4600802c91BF64dFFD2E",
+  "decimals": 18,
+  "name": "CorgiCoin",
+  "ens_address": "",
+  "website": "https://corgicoin.net",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

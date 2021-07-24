@@ -1,0 +1,34 @@
+{
+  "symbol": "AIR",
+  "address": "0xa123aB52a32267Dc357B7599739d3C6CAF856fe4",
+  "decimals": 18,
+  "name": "AIR",
+  "ens_address": "",
+  "website": "https://aircoin.cool",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

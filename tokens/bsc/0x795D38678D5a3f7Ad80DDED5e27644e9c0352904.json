@@ -1,0 +1,34 @@
+{
+  "symbol": "UPSHIB",
+  "address": "0x795D38678D5a3f7Ad80DDED5e27644e9c0352904",
+  "decimals": 9,
+  "name": "upShib",
+  "ens_address": "",
+  "website": "https://www.upshib.space/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

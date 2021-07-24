@@ -1,0 +1,34 @@
+{
+  "symbol": "PoFi",
+  "address": "0x461f6C9aE13a7daC7055C73fBF8daB529D667041",
+  "decimals": 18,
+  "name": "PoFi",
+  "ens_address": "",
+  "website": "https://official.pollo.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "SHIBG",
+  "address": "0x64Cc7ED01fA6b6D3E587E9c89DA04ddBEBE07580",
+  "decimals": 18,
+  "name": "SHIBA INU GOLD",
+  "ens_address": "",
+  "website": "https://shibainugold.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

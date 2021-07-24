@@ -1,0 +1,34 @@
+{
+  "symbol": "POODLE",
+  "address": "0x4487A8a40caa9fA0e70B9041C368b6e0d4089314",
+  "decimals": 18,
+  "name": "Poodledog Token",
+  "ens_address": "",
+  "website": "https://poodledog.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

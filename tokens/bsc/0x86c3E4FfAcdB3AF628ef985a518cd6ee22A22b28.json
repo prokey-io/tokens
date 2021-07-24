@@ -1,0 +1,34 @@
+{
+  "symbol": "OCTA",
+  "address": "0x86c3E4FfAcdB3AF628ef985a518cd6ee22A22b28",
+  "decimals": 9,
+  "name": "Octans",
+  "ens_address": "",
+  "website": "https://octanscrypto.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

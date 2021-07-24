@@ -1,0 +1,34 @@
+{
+  "symbol": "KODA",
+  "address": "0x9E993671976a5AC51bBfB3Db9E34eAC8d518fe82",
+  "decimals": 9,
+  "name": "Summit Koda Token",
+  "ens_address": "",
+  "website": "https://koda.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

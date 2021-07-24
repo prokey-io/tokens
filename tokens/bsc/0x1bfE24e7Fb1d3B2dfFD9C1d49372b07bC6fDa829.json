@@ -1,0 +1,34 @@
+{
+  "symbol": "ColdKoala",
+  "address": "0x1bfE24e7Fb1d3B2dfFD9C1d49372b07bC6fDa829",
+  "decimals": 9,
+  "name": "ColdKoala",
+  "ens_address": "",
+  "website": "https://Coldkoala.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

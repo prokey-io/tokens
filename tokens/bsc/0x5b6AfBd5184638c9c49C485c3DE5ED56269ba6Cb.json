@@ -1,0 +1,34 @@
+{
+  "symbol": "AUR",
+  "address": "0x5b6AfBd5184638c9c49C485c3DE5ED56269ba6Cb",
+  "decimals": 9,
+  "name": "Aurum",
+  "ens_address": "",
+  "website": "https://aurumofficial.net/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

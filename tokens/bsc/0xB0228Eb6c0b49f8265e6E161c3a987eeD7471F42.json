@@ -1,0 +1,34 @@
+{
+  "symbol": "FAN",
+  "address": "0xB0228Eb6c0b49f8265e6E161c3a987eeD7471F42",
+  "decimals": 18,
+  "name": "Fanspel Token",
+  "ens_address": "",
+  "website": "https://www.fanspel.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

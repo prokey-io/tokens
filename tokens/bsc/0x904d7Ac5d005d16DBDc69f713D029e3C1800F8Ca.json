@@ -1,0 +1,34 @@
+{
+  "symbol": "MDAO",
+  "address": "0x904d7Ac5d005d16DBDc69f713D029e3C1800F8Ca",
+  "decimals": 9,
+  "name": "Martian DAO",
+  "ens_address": "",
+  "website": "https://www.martiandao.net/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

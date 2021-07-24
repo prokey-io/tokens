@@ -1,0 +1,34 @@
+{
+  "symbol": "PAYNS",
+  "address": "0xCB6b5d0562bB2ACBd930c3112857E5121A02B522",
+  "decimals": 3,
+  "name": "Paynshop",
+  "ens_address": "",
+  "website": "https://paynshop.store/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "GGININDER",
+  "address": "0x0D6A59cEF44BaC622e91313B366C7F802b2670D6",
+  "decimals": 9,
+  "name": "GGININDER",
+  "ens_address": "",
+  "website": "https://ggininder.space/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

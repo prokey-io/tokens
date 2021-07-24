@@ -1,0 +1,34 @@
+{
+  "symbol": "BFIC",
+  "address": "0xF0a0913BA2b173c1fbCa1c1b2FCFC0E3678f66a9",
+  "decimals": 8,
+  "name": "BFI-COIN",
+  "ens_address": "",
+  "website": "https://bficoin.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

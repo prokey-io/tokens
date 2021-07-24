@@ -1,0 +1,34 @@
+{
+  "symbol": "MOLLYDOGE ⭐",
+  "address": "0x96aC1E773677FA02726B5A670CA96a7aDf7F8523",
+  "decimals": 9,
+  "name": "Mini Hollywood Doge",
+  "ens_address": "",
+  "website": "https://www.minihollywooddoge.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

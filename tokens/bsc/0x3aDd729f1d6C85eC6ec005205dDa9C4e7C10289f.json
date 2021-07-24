@@ -1,0 +1,34 @@
+{
+  "symbol": "PM",
+  "address": "0x3aDd729f1d6C85eC6ec005205dDa9C4e7C10289f",
+  "decimals": 9,
+  "name": "Pomskey",
+  "ens_address": "",
+  "website": "https://pomskey.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

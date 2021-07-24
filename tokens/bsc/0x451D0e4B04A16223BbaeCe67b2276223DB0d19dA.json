@@ -1,0 +1,34 @@
+{
+  "symbol": "GCR",
+  "address": "0x451D0e4B04A16223BbaeCe67b2276223DB0d19dA",
+  "decimals": 18,
+  "name": "GoldCoin Reserve",
+  "ens_address": "",
+  "website": "https://Goldcoinreserve.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

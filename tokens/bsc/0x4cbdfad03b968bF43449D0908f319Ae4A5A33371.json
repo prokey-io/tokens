@@ -1,0 +1,34 @@
+{
+  "symbol": "ECOIN",
+  "address": "0x4cbdfad03b968bF43449D0908f319Ae4A5A33371",
+  "decimals": 9,
+  "name": "E-COIN Finance",
+  "ens_address": "",
+  "website": "https://ecoin-finance.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

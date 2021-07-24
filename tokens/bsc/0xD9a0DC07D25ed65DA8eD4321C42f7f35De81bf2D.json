@@ -1,0 +1,34 @@
+{
+  "symbol": "FISH",
+  "address": "0xD9a0DC07D25ed65DA8eD4321C42f7f35De81bf2D",
+  "decimals": 18,
+  "name": "FishSwap",
+  "ens_address": "",
+  "website": "https://FishSwap.App/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

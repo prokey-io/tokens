@@ -1,0 +1,34 @@
+{
+  "symbol": "BNBC",
+  "address": "0x101D35140719EB2D07fFA71185f5bfBE31D6A212",
+  "decimals": 18,
+  "name": "BNB Cash",
+  "ens_address": "",
+  "website": "https://bnbcash.uk",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

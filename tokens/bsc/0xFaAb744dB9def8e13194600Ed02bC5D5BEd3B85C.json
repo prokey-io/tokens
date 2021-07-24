@@ -1,0 +1,34 @@
+{
+  "symbol": "NFT",
+  "address": "0xFaAb744dB9def8e13194600Ed02bC5D5BEd3B85C",
+  "decimals": 16,
+  "name": "NEFTiPEDiA",
+  "ens_address": "",
+  "website": "https://neftipedia.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

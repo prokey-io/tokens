@@ -1,0 +1,34 @@
+{
+  "symbol": "MERO",
+  "address": "0x476DA763fb6D22B8465f7886d2d652A428a93984",
+  "decimals": 18,
+  "name": "Mero",
+  "ens_address": "",
+  "website": "https://mero.blue",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

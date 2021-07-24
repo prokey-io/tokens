@@ -1,0 +1,34 @@
+{
+  "symbol": "ULK",
+  "address": "0x23481F4d3ac4642d2f45d014a514b45B0338b927",
+  "decimals": 0,
+  "name": "Ulink Finance",
+  "ens_address": "",
+  "website": "https://ulink.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

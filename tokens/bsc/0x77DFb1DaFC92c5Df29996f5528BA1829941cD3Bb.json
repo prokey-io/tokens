@@ -1,0 +1,34 @@
+{
+  "symbol": "yETH",
+  "address": "0x77DFb1DaFC92c5Df29996f5528BA1829941cD3Bb",
+  "decimals": 18,
+  "name": "fyeth.finance",
+  "ens_address": "",
+  "website": "https://fyeth.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

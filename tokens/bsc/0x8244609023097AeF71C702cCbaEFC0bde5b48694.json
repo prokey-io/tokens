@@ -1,0 +1,34 @@
+{
+  "symbol": "WSBT",
+  "address": "0x8244609023097AeF71C702cCbaEFC0bde5b48694",
+  "decimals": 18,
+  "name": "WSBT Token",
+  "ens_address": "",
+  "website": "https://wsbtbros.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

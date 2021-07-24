@@ -1,0 +1,34 @@
+{
+  "symbol": "NSFW",
+  "address": "0xED1b4BdB29cA09545b9BEdC6c0E854074E121eB3",
+  "decimals": 18,
+  "name": "xxxNifty",
+  "ens_address": "",
+  "website": "https://xxxNifty.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

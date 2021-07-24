@@ -1,0 +1,34 @@
+{
+  "symbol": "MSHLD",
+  "address": "0xF565aaf0b8EB813a1c8C956D2C59F1ce27FD2366",
+  "decimals": 9,
+  "name": "MoonShield",
+  "ens_address": "",
+  "website": "https://moonshield.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

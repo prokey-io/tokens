@@ -1,0 +1,34 @@
+{
+  "symbol": "EarnX",
+  "address": "0x9C28E48Ea9170d9A9cB76d338655b8bd4124BC7A",
+  "decimals": 9,
+  "name": "EarnX",
+  "ens_address": "",
+  "website": "http://www.yearnclassic.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

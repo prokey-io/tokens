@@ -1,0 +1,34 @@
+{
+  "symbol": "GAIA",
+  "address": "0x25Be9E26Db60B1A3d1f7fa21679385dF076Af7FB",
+  "decimals": 9,
+  "name": "Gaia",
+  "ens_address": "",
+  "website": "https://gaiadao.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

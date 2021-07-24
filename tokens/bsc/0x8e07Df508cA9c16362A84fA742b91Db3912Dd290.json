@@ -1,0 +1,34 @@
+{
+  "symbol": "NST",
+  "address": "0x8e07Df508cA9c16362A84fA742b91Db3912Dd290",
+  "decimals": 18,
+  "name": "NST Starter",
+  "ens_address": "",
+  "website": "https://www.nft-starter.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "SWW",
+  "address": "0x5b8c1315D2a151355EA3BE9d2Cbdc4425648dCAb",
+  "decimals": 8,
+  "name": "StarWars",
+  "ens_address": "",
+  "website": "http://starwars.limited",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

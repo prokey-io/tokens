@@ -1,0 +1,34 @@
+{
+  "symbol": "HuaHua",
+  "address": "0xF53FC93D811a3BBC7637a41381FE7475DB919B1B",
+  "decimals": 18,
+  "name": "Chihuahua Coin",
+  "ens_address": "",
+  "website": "https://huahuacoin.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

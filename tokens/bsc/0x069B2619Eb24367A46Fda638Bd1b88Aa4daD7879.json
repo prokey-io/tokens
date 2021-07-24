@@ -1,0 +1,34 @@
+{
+  "symbol": "MNDAO",
+  "address": "0x069B2619Eb24367A46Fda638Bd1b88Aa4daD7879",
+  "decimals": 9,
+  "name": "MoonDAO",
+  "ens_address": "",
+  "website": "https://moondao.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

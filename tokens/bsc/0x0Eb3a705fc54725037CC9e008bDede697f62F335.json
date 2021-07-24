@@ -1,0 +1,34 @@
+{
+  "symbol": "ATOM",
+  "address": "0x0Eb3a705fc54725037CC9e008bDede697f62F335",
+  "decimals": 18,
+  "name": "Cosmos Token",
+  "ens_address": "",
+  "website": "https://cosmos.network",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

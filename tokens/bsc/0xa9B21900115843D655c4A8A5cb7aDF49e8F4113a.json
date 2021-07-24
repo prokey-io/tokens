@@ -1,0 +1,34 @@
+{
+  "symbol": "ROTO",
+  "address": "0xa9B21900115843D655c4A8A5cb7aDF49e8F4113a",
+  "decimals": 9,
+  "name": "Rotomoon",
+  "ens_address": "",
+  "website": "https://rotomoon.app/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

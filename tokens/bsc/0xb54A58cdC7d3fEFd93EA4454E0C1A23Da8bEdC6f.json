@@ -1,0 +1,34 @@
+{
+  "symbol": "HOODRAT",
+  "address": "0xb54A58cdC7d3fEFd93EA4454E0C1A23Da8bEdC6f",
+  "decimals": 12,
+  "name": "hoodrat.finance",
+  "ens_address": "",
+  "website": "https://hoodrat.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

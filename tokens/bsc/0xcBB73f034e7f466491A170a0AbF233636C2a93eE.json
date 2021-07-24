@@ -1,0 +1,34 @@
+{
+  "symbol": "WAP",
+  "address": "0xcBB73f034e7f466491A170a0AbF233636C2a93eE",
+  "decimals": 18,
+  "name": "WAP Token",
+  "ens_address": "",
+  "website": "https://wearepeopletoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

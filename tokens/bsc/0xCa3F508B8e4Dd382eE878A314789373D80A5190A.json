@@ -1,0 +1,34 @@
+{
+  "symbol": "BIFI",
+  "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
+  "decimals": 18,
+  "name": "BIFI Token",
+  "ens_address": "",
+  "website": "https://beefy.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

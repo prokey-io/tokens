@@ -1,0 +1,34 @@
+{
+  "symbol": "BBT",
+  "address": "0xD48474E7444727bF500a32D5AbE01943f3A59A64",
+  "decimals": 8,
+  "name": "BitBook",
+  "ens_address": "",
+  "website": "https://www.bitbook.network",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

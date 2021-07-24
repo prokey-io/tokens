@@ -1,0 +1,34 @@
+{
+  "symbol": "PTLK",
+  "address": "0xc242b6A3983e90D279ed68aC70f47CFC7e5e1e1C",
+  "decimals": 18,
+  "name": "Potluck Protocol",
+  "ens_address": "",
+  "website": "https://potluckprotocol.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

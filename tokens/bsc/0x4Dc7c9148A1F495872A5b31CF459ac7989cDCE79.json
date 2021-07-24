@@ -1,0 +1,34 @@
+{
+  "symbol": "APPLEB",
+  "address": "0x4Dc7c9148A1F495872A5b31CF459ac7989cDCE79",
+  "decimals": 9,
+  "name": "AppleB",
+  "ens_address": "",
+  "website": "https://appleb.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "CHSHIBA",
+  "address": "0xc7a249D3021b1d62669b2B5cE65D8410b9A44A43",
+  "decimals": 9,
+  "name": "ChubbyShiba",
+  "ens_address": "",
+  "website": "https://www.chubbyshiba.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

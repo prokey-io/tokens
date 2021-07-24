@@ -1,0 +1,34 @@
+{
+  "symbol": "MARIO",
+  "address": "0x25F6524C2bfA5eebcc50beaFD08525E0786082cf",
+  "decimals": 9,
+  "name": "MarioBros",
+  "ens_address": "",
+  "website": "https://www.mariobros.info/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "MBUD",
+  "address": "0xbE8183612F145986A41ad8e8fCFefED1C2F9dEbA",
+  "decimals": 9,
+  "name": "Moon Bud",
+  "ens_address": "",
+  "website": "https://moonbud.space",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

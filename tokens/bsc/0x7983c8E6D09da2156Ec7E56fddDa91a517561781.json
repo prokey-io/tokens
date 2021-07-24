@@ -1,0 +1,34 @@
+{
+  "symbol": "SFE",
+  "address": "0x7983c8E6D09da2156Ec7E56fddDa91a517561781",
+  "decimals": 9,
+  "name": "SafeFinance",
+  "ens_address": "",
+  "website": "https://safefinance.network/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

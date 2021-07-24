@@ -1,0 +1,34 @@
+{
+  "symbol": "BMBO",
+  "address": "0x4510E3Ac69574F3DfDB43139E97773b542c386E1",
+  "decimals": 9,
+  "name": "Bamboo",
+  "ens_address": "",
+  "website": "https://safepanda.net/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

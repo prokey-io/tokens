@@ -1,0 +1,34 @@
+{
+  "symbol": "BHC",
+  "address": "0x6fd7c98458a943f469E1Cf4eA85B173f5Cd342F4",
+  "decimals": 18,
+  "name": "BillionHappiness",
+  "ens_address": "",
+  "website": "https://billionhappiness.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

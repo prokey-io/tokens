@@ -1,0 +1,34 @@
+{
+  "symbol": "SAFEPOKEMAN",
+  "address": "0xfb16B31FA8a6Edcd2dDE78654CB0668c724C1dAc",
+  "decimals": 18,
+  "name": "SafePokeman Token",
+  "ens_address": "",
+  "website": "https://www.safepokeman.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

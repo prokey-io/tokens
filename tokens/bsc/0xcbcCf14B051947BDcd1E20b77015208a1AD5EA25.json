@@ -1,0 +1,34 @@
+{
+  "symbol": "PROMISE",
+  "address": "0xcbcCf14B051947BDcd1E20b77015208a1AD5EA25",
+  "decimals": 9,
+  "name": "Promise",
+  "ens_address": "",
+  "website": "https://promisetoken.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

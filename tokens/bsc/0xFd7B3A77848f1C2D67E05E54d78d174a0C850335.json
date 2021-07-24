@@ -1,0 +1,34 @@
+{
+  "symbol": "ONT",
+  "address": "0xFd7B3A77848f1C2D67E05E54d78d174a0C850335",
+  "decimals": 18,
+  "name": "Ontology Token",
+  "ens_address": "",
+  "website": "https://ont.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "GLXM",
+  "address": "0x67E8954493dCF031243a3498da73c167EdA512d4",
+  "decimals": 9,
+  "name": "Galaxium",
+  "ens_address": "",
+  "website": "https://galaxium.space",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

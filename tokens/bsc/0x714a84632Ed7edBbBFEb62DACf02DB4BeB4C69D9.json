@@ -1,0 +1,34 @@
+{
+  "symbol": "KETCHUP",
+  "address": "0x714a84632Ed7edBbBFEb62DACf02DB4BeB4C69D9",
+  "decimals": 18,
+  "name": "Ketchup Token",
+  "ens_address": "",
+  "website": "https://ketchupfinance.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

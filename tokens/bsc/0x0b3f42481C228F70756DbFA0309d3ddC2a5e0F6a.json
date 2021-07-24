@@ -1,0 +1,34 @@
+{
+  "symbol": "ULTRA",
+  "address": "0x0b3f42481C228F70756DbFA0309d3ddC2a5e0F6a",
+  "decimals": 9,
+  "name": "UltraSafe",
+  "ens_address": "",
+  "website": "https://ultrasafe.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

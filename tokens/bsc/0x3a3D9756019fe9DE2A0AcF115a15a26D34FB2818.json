@@ -1,0 +1,34 @@
+{
+  "symbol": "DAX",
+  "address": "0x3a3D9756019fe9DE2A0AcF115a15a26D34FB2818",
+  "decimals": 18,
+  "name": "PRODAX",
+  "ens_address": "",
+  "website": "https://prodax.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

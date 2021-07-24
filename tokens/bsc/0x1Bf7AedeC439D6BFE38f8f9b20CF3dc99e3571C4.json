@@ -1,0 +1,34 @@
+{
+  "symbol": "TRONPAD",
+  "address": "0x1Bf7AedeC439D6BFE38f8f9b20CF3dc99e3571C4",
+  "decimals": 18,
+  "name": "TRONPAD.network",
+  "ens_address": "",
+  "website": "https://tronpad.network",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

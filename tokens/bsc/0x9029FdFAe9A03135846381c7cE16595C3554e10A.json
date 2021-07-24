@@ -1,0 +1,34 @@
+{
+  "symbol": "OOE",
+  "address": "0x9029FdFAe9A03135846381c7cE16595C3554e10A",
+  "decimals": 18,
+  "name": "OpenOcean",
+  "ens_address": "",
+  "website": "https://openocean.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "FASTMOON",
+  "address": "0x869Dd7A64AfBe5370a8c591d9B8650BE60c0B8f6",
+  "decimals": 9,
+  "name": "FastMoon",
+  "ens_address": "",
+  "website": "https://fastmoon.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

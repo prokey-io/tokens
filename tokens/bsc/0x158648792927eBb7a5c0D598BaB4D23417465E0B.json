@@ -1,0 +1,34 @@
+{
+  "symbol": "RTT",
+  "address": "0x158648792927eBb7a5c0D598BaB4D23417465E0B",
+  "decimals": 9,
+  "name": "Real Trump Token",
+  "ens_address": "",
+  "website": "https://realtrumptoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

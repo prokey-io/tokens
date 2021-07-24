@@ -1,0 +1,34 @@
+{
+  "symbol": "MSS",
+  "address": "0xAcABD3f9b8F76fFd2724604185Fa5AFA5dF25aC6",
+  "decimals": 18,
+  "name": "Monster Slayer Share",
+  "ens_address": "",
+  "website": "https://monsterslayer.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

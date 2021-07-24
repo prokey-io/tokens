@@ -1,0 +1,34 @@
+{
+  "symbol": "BIDCOM",
+  "address": "0x9986aa69545dC44B66fc85Ba505Fd66FEAE0d6A5",
+  "decimals": 9,
+  "name": "BidCommerce",
+  "ens_address": "",
+  "website": "https://bidcommerce.app/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

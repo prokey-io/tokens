@@ -1,0 +1,34 @@
+{
+  "symbol": "BTCA",
+  "address": "0xd54Fd5D0C349C06373f3FE914151D1555b629fB6",
+  "decimals": 18,
+  "name": "Bitcoin Anonymous",
+  "ens_address": "",
+  "website": "https://bitcoinanonymous.info",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

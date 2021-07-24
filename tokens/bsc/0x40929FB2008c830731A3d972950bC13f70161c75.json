@@ -1,0 +1,34 @@
+{
+  "symbol": "TUNA",
+  "address": "0x40929FB2008c830731A3d972950bC13f70161c75",
+  "decimals": 18,
+  "name": "Tuna",
+  "ens_address": "",
+  "website": "https://swaptuna.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

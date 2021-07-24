@@ -1,0 +1,34 @@
+{
+  "symbol": "Elons",
+  "address": "0xaF6B24d341cB5ec258e93aBe929a0326fC98eAF6",
+  "decimals": 8,
+  "name": "ElonCity",
+  "ens_address": "",
+  "website": "https://eloncity.dev/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

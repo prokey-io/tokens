@@ -1,0 +1,34 @@
+{
+  "symbol": "SMEGM",
+  "address": "0x62c2A6f57a65e1e4b1d9e31b3e3511c8C36841a8",
+  "decimals": 10,
+  "name": "SMEGMARS",
+  "ens_address": "",
+  "website": "https://www.smegmars.space",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

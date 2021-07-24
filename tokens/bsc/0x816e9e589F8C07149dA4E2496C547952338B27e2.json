@@ -1,0 +1,34 @@
+{
+  "symbol": "BITTO",
+  "address": "0x816e9e589F8C07149dA4E2496C547952338B27e2",
+  "decimals": 18,
+  "name": "BITTO",
+  "ens_address": "",
+  "website": "http://bitto.tech/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

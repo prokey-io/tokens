@@ -1,0 +1,34 @@
+{
+  "symbol": "RADDIT",
+  "address": "0xbB8170ad35325522c0026d67584D4feFBd08b750",
+  "decimals": 9,
+  "name": "RADDITARIUM NETWORK",
+  "ens_address": "",
+  "website": "https://radditarium.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

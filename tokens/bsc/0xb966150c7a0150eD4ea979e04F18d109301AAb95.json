@@ -1,0 +1,34 @@
+{
+  "symbol": "$STONKS",
+  "address": "0xb966150c7a0150eD4ea979e04F18d109301AAb95",
+  "decimals": 9,
+  "name": "Stonks Token",
+  "ens_address": "",
+  "website": "https://www.stonkstoken.space/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

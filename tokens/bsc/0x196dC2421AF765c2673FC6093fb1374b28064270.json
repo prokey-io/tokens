@@ -1,0 +1,34 @@
+{
+  "symbol": "APET",
+  "address": "0x196dC2421AF765c2673FC6093fb1374b28064270",
+  "decimals": 9,
+  "name": "Ape Token",
+  "ens_address": "",
+  "website": "www.apetoken.net",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

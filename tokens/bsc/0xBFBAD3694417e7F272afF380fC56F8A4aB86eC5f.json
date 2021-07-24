@@ -1,0 +1,34 @@
+{
+  "symbol": "MBULL",
+  "address": "0xBFBAD3694417e7F272afF380fC56F8A4aB86eC5f",
+  "decimals": 9,
+  "name": "Mad Bull",
+  "ens_address": "",
+  "website": "https://madbull.xyz",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

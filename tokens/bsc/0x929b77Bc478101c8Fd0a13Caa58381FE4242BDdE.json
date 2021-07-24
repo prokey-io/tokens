@@ -1,0 +1,34 @@
+{
+  "symbol": "sELON",
+  "address": "0x929b77Bc478101c8Fd0a13Caa58381FE4242BDdE",
+  "decimals": 0,
+  "name": "Spacelon",
+  "ens_address": "",
+  "website": "https://spacelon.xyz",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

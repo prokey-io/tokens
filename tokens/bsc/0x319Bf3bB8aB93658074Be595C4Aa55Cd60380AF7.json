@@ -1,0 +1,34 @@
+{
+  "symbol": "SUNT",
+  "address": "0x319Bf3bB8aB93658074Be595C4Aa55Cd60380AF7",
+  "decimals": 2,
+  "name": "Suntrust Finance",
+  "ens_address": "",
+  "website": "https://suntrust.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

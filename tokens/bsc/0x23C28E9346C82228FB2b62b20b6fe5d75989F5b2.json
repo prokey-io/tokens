@@ -1,0 +1,34 @@
+{
+  "symbol": "COVIDTOKEN",
+  "address": "0x23C28E9346C82228FB2b62b20b6fe5d75989F5b2",
+  "decimals": 9,
+  "name": "Covid Token",
+  "ens_address": "",
+  "website": "https://covidcoin.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

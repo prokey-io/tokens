@@ -1,0 +1,34 @@
+{
+  "symbol": "Unagi",
+  "address": "0x8f20eBD7Cdb3eFdb51D58D582a21e1A0b41F4436",
+  "decimals": 9,
+  "name": "Unagi Token",
+  "ens_address": "",
+  "website": "https://unagiswap.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "bwJUP",
+  "address": "0x0231f91e02DebD20345Ae8AB7D71A41f8E140cE7",
+  "decimals": 18,
+  "name": "Jupiter",
+  "ens_address": "",
+  "website": "https://gojupiter.tech",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

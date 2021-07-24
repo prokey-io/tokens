@@ -1,0 +1,34 @@
+{
+  "symbol": "SFM",
+  "address": "0x3A66D3d2EDB25182430d01b991BC6eaC73aD5AA8",
+  "decimals": 18,
+  "name": "SFMONEY",
+  "ens_address": "",
+  "website": "https://sfmoney.info/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

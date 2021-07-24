@@ -1,0 +1,34 @@
+{
+  "symbol": "XDITTO",
+  "address": "0xB0a1DE764A033A76f28E821fBe402EDBFEe937dB",
+  "decimals": 18,
+  "name": "xDitto",
+  "ens_address": "",
+  "website": "https://ditto.money",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

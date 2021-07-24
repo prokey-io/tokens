@@ -1,0 +1,34 @@
+{
+  "symbol": "SWIN",
+  "address": "0x8592fb0E6724A90CE45f05F31B85BddD45931560",
+  "decimals": 9,
+  "name": "Swinate",
+  "ens_address": "",
+  "website": "https://www.swinate.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "BTCN",
+  "address": "0x646b8470feA7c413DaC19F41b5c97328EBF70De4",
+  "decimals": 18,
+  "name": "Bitcoin Networks",
+  "ens_address": "",
+  "website": "http://bitcoinnetworks.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

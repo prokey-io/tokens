@@ -1,0 +1,34 @@
+{
+  "symbol": "ICA",
+  "address": "0x95111f630aC215Eb74599ED42C67E2c2790d69e2",
+  "decimals": 18,
+  "name": "icarus.finance",
+  "ens_address": "",
+  "website": "https://icarus.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

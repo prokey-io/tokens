@@ -1,0 +1,34 @@
+{
+  "symbol": "FLUNAR",
+  "address": "0xDCD289ECF644bEC54393ba6Ce8dB35e9B5Ff75e7",
+  "decimals": 9,
+  "name": "FairLunar",
+  "ens_address": "",
+  "website": "https://fairlunar.space",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

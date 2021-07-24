@@ -1,0 +1,34 @@
+{
+  "symbol": "OCAT",
+  "address": "0x7128E52cA302c5f5BeEB801B6aD373fDeBE3dc5E",
+  "decimals": 18,
+  "name": "Orange Cat Token",
+  "ens_address": "",
+  "website": "https://orangecat.info",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

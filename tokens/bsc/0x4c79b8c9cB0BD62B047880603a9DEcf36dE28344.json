@@ -1,0 +1,34 @@
+{
+  "symbol": "REAU",
+  "address": "0x4c79b8c9cB0BD62B047880603a9DEcf36dE28344",
+  "decimals": 9,
+  "name": "Vira-lata Finance",
+  "ens_address": "",
+  "website": "https://viralata.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

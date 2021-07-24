@@ -1,0 +1,34 @@
+{
+  "symbol": "Fwatch",
+  "address": "0x5CdCB6C1A30F59D59393D1629172634056E0461C",
+  "decimals": 18,
+  "name": "Foliowatch",
+  "ens_address": "",
+  "website": "https://foliowatch.net",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

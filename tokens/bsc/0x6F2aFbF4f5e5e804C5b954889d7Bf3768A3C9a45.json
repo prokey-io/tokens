@@ -1,0 +1,34 @@
+{
+  "symbol": "HOPE",
+  "address": "0x6F2aFbF4f5e5e804C5b954889d7Bf3768A3C9a45",
+  "decimals": 18,
+  "name": "Hope",
+  "ens_address": "",
+  "website": "https://hope-token.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

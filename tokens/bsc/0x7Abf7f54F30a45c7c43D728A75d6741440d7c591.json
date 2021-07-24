@@ -1,0 +1,34 @@
+{
+  "symbol": "SPERM",
+  "address": "0x7Abf7f54F30a45c7c43D728A75d6741440d7c591",
+  "decimals": 9,
+  "name": "ElonSperm",
+  "ens_address": "",
+  "website": "https://elonsperm.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

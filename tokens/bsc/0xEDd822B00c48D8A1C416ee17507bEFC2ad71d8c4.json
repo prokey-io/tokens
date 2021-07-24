@@ -1,0 +1,34 @@
+{
+  "symbol": "Shiba",
+  "address": "0xEDd822B00c48D8A1C416ee17507bEFC2ad71d8c4",
+  "decimals": 8,
+  "name": "My Shiba Inu",
+  "ens_address": "",
+  "website": "https://shiba.limited/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

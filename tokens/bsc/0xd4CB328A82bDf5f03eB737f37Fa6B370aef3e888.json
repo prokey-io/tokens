@@ -1,0 +1,34 @@
+{
+  "symbol": "CREAM",
+  "address": "0xd4CB328A82bDf5f03eB737f37Fa6B370aef3e888",
+  "decimals": 18,
+  "name": "CREAM",
+  "ens_address": "",
+  "website": "https://cream.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

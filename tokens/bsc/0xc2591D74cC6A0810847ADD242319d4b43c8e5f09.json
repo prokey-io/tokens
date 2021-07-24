@@ -1,0 +1,34 @@
+{
+  "symbol": "FMK",
+  "address": "0xc2591D74cC6A0810847ADD242319d4b43c8e5f09",
+  "decimals": 9,
+  "name": "FawkesMask",
+  "ens_address": "",
+  "website": "https://fawkesmask.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

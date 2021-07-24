@@ -1,0 +1,34 @@
+{
+  "symbol": "WOLF",
+  "address": "0x2773f3FB0f7babA01cdcaAB002FD3373dE2860b3",
+  "decimals": 9,
+  "name": "Wolf",
+  "ens_address": "",
+  "website": "https://wolf-finance.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

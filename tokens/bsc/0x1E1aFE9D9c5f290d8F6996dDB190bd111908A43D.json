@@ -1,0 +1,34 @@
+{
+  "symbol": "APE-LP",
+  "address": "0x1E1aFE9D9c5f290d8F6996dDB190bd111908A43D",
+  "decimals": 18,
+  "name": "Ape Swap LP BNB-BTCB",
+  "ens_address": "",
+  "website": "https://apeswap.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

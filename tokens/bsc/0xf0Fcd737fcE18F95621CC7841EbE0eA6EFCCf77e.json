@@ -1,0 +1,34 @@
+{
+  "symbol": "TREE",
+  "address": "0xf0Fcd737fcE18F95621CC7841EbE0eA6EFCCf77e",
+  "decimals": 18,
+  "name": "TreeDefi",
+  "ens_address": "",
+  "website": "https://treedefi.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

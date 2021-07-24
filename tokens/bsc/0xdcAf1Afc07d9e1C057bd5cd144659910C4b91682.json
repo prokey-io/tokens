@@ -1,0 +1,34 @@
+{
+  "symbol": "SCB",
+  "address": "0xdcAf1Afc07d9e1C057bd5cd144659910C4b91682",
+  "decimals": 18,
+  "name": "SpaceCowBoy",
+  "ens_address": "",
+  "website": "https://scb.oxbull.tech",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

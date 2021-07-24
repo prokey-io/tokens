@@ -1,0 +1,34 @@
+{
+  "symbol": "CVD19",
+  "address": "0x8d2F15Dccbf9cb28Ad8c564753f7C4bf30638151",
+  "decimals": 9,
+  "name": "Nocovid19",
+  "ens_address": "",
+  "website": "https://nocovid19.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

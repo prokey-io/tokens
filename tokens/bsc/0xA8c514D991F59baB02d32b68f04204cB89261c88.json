@@ -1,0 +1,34 @@
+{
+  "symbol": "SAFEP",
+  "address": "0xA8c514D991F59baB02d32b68f04204cB89261c88",
+  "decimals": 8,
+  "name": "Safe Protocol",
+  "ens_address": "",
+  "website": "https://safeprotocol.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

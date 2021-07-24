@@ -1,0 +1,34 @@
+{
+  "symbol": "VIDTC",
+  "address": "0x7A2172F3728962F6B952a1Cc1AD794DACbf9f3DA",
+  "decimals": 18,
+  "name": "VIDTC Company stocks",
+  "ens_address": "",
+  "website": "https://about.v-id.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

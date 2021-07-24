@@ -1,0 +1,34 @@
+{
+  "symbol": "IRONY",
+  "address": "0x7f05907CDe5C540bE2e572FDD488994ee15d67a3",
+  "decimals": 9,
+  "name": "IRONY MAN",
+  "ens_address": "",
+  "website": "https://ironyman.cc/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

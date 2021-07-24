@@ -1,0 +1,34 @@
+{
+  "symbol": "BTA",
+  "address": "0xAd9787017e82f6368BbE4893b475CaadA2258564",
+  "decimals": 18,
+  "name": "BitcoinAsset",
+  "ens_address": "",
+  "website": "https://bitcoinasset.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

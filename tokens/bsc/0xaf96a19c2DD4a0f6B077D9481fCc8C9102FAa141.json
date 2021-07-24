@@ -1,0 +1,34 @@
+{
+  "symbol": "MOONARCH",
+  "address": "0xaf96a19c2DD4a0f6B077D9481fCc8C9102FAa141",
+  "decimals": 9,
+  "name": "Moonarch.app",
+  "ens_address": "",
+  "website": "https://moonarch.app",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

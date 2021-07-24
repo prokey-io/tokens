@@ -1,0 +1,34 @@
+{
+  "symbol": "MLN",
+  "address": "0x8034Aa1EBB42a4E2110E91666497198e977c8d81",
+  "decimals": 4,
+  "name": "1Million",
+  "ens_address": "",
+  "website": "http://onemillion.capital",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

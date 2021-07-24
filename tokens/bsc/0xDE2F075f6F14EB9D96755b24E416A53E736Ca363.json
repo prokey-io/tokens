@@ -1,0 +1,34 @@
+{
+  "symbol": "FXS",
+  "address": "0xDE2F075f6F14EB9D96755b24E416A53E736Ca363",
+  "decimals": 18,
+  "name": "Frax Share",
+  "ens_address": "",
+  "website": "https://frax.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "SAS",
+  "address": "0xcFDC1e2c7F4B40cFb3632188d6F766309151b7b8",
+  "decimals": 18,
+  "name": "SAFE & SECURE WALLET",
+  "ens_address": "",
+  "website": "https://saswallets.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

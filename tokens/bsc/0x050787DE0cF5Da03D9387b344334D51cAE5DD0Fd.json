@@ -1,0 +1,34 @@
+{
+  "symbol": "PEKC ",
+  "address": "0x050787DE0cF5Da03D9387b344334D51cAE5DD0Fd",
+  "decimals": 9,
+  "name": "Peacockcoin",
+  "ens_address": "",
+  "website": "https://peacockcoin.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "GAMESAFE",
+  "address": "0x70a44672B9BBcF4D49dCEaA610eB580BD3c94c52",
+  "decimals": 9,
+  "name": "Gamesafe.io",
+  "ens_address": "",
+  "website": "https://gamesafe.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

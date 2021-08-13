@@ -1,0 +1,34 @@
+{
+  "symbol": "CAPSULE DEFI",
+  "address": "0xd4923eC79415741736aD2a6390c067D3a7e605d3",
+  "decimals": 9,
+  "name": "Capsule Decentralized Protocol",
+  "ens_address": "",
+  "website": "https://www.capsuledefi.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

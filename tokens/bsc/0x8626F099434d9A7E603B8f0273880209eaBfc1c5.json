@@ -1,0 +1,34 @@
+{
+  "symbol": "Berry",
+  "address": "0x8626F099434d9A7E603B8f0273880209eaBfc1c5",
+  "decimals": 18,
+  "name": "Berryswap",
+  "ens_address": "",
+  "website": "https://berryswap.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "AKU",
+  "address": "0x78473c046C43b40eBf162d597D07Df3Fd9584923",
+  "decimals": 18,
+  "name": "Aku The Bodyguard",
+  "ens_address": "",
+  "website": "https://akuthebodyguard.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

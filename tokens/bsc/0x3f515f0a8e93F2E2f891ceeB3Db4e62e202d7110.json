@@ -1,0 +1,34 @@
+{
+  "symbol": "VIDT",
+  "address": "0x3f515f0a8e93F2E2f891ceeB3Db4e62e202d7110",
+  "decimals": 18,
+  "name": "VIDT Datalink BEP20",
+  "ens_address": "",
+  "website": "https://about.v-id.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

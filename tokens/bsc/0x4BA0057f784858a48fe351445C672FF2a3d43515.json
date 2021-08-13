@@ -1,0 +1,34 @@
+{
+  "symbol": "KALM",
+  "address": "0x4BA0057f784858a48fe351445C672FF2a3d43515",
+  "decimals": 18,
+  "name": "Kalmar Token",
+  "ens_address": "",
+  "website": "https://kalmar.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

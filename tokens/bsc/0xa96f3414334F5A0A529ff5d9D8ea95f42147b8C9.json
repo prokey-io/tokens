@@ -1,0 +1,34 @@
+{
+  "symbol": "RISKMOON",
+  "address": "0xa96f3414334F5A0A529ff5d9D8ea95f42147b8C9",
+  "decimals": 9,
+  "name": "RiskMoon",
+  "ens_address": "",
+  "website": "https://riskmoon.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

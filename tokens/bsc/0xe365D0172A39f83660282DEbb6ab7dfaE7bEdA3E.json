@@ -1,0 +1,34 @@
+{
+  "symbol": "ELECTRA",
+  "address": "0xe365D0172A39f83660282DEbb6ab7dfaE7bEdA3E",
+  "decimals": 8,
+  "name": "Electra",
+  "ens_address": "",
+  "website": "https://electrachain.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

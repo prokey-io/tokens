@@ -1,0 +1,34 @@
+{
+  "symbol": "EVDC",
+  "address": "0xf09611a964535b32285bFf5fCf9937C52BaB8ea5",
+  "decimals": 18,
+  "name": "EVDC",
+  "ens_address": "",
+  "website": "https://evdc.network/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

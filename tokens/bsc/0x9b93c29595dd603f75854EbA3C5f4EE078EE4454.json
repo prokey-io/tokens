@@ -1,0 +1,34 @@
+{
+  "symbol": "STRI",
+  "address": "0x9b93c29595dd603f75854EbA3C5f4EE078EE4454",
+  "decimals": 18,
+  "name": "Strite",
+  "ens_address": "",
+  "website": "https://stritefinance.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

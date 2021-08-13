@@ -1,0 +1,34 @@
+{
+  "symbol": "SCAM",
+  "address": "0x00aa85e010204068b7CC2235800B2d8036bdbF2E",
+  "decimals": 10,
+  "name": "Simple Cool Autommatic Money",
+  "ens_address": "",
+  "website": "https://scamily.io/token",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

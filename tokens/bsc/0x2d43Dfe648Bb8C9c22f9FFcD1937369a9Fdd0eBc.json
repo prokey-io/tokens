@@ -1,0 +1,34 @@
+{
+  "symbol": "EJECT",
+  "address": "0x2d43Dfe648Bb8C9c22f9FFcD1937369a9Fdd0eBc",
+  "decimals": 9,
+  "name": "EJECT",
+  "ens_address": "",
+  "website": "https://www.eject.space",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

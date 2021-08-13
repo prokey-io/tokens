@@ -1,0 +1,34 @@
+{
+  "symbol": "YFII",
+  "address": "0x7F70642d88cf1C4a3a7abb072B53B929b653edA5",
+  "decimals": 18,
+  "name": "YFII.finance Token",
+  "ens_address": "",
+  "website": "https://yfii.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

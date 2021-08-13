@@ -1,0 +1,34 @@
+{
+  "symbol": "ALEPH",
+  "address": "0x82D2f8E02Afb160Dd5A480a617692e62de9038C4",
+  "decimals": 18,
+  "name": "aleph.im BEP-20 v2",
+  "ens_address": "",
+  "website": "https://aleph.im",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

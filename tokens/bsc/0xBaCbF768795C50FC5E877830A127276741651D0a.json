@@ -1,0 +1,34 @@
+{
+  "symbol": "FIRE",
+  "address": "0xBaCbF768795C50FC5E877830A127276741651D0a",
+  "decimals": 18,
+  "name": "Fire Token",
+  "ens_address": "",
+  "website": "https://firetoken.xyz/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

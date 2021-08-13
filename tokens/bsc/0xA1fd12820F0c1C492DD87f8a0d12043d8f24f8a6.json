@@ -1,0 +1,34 @@
+{
+  "symbol": "EUSD",
+  "address": "0xA1fd12820F0c1C492DD87f8a0d12043d8f24f8a6",
+  "decimals": 18,
+  "name": "EUSD",
+  "ens_address": "",
+  "website": "https://e-usd.network",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

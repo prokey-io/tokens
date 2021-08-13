@@ -1,0 +1,34 @@
+{
+  "symbol": "fBTCB",
+  "address": "0xD3ba3FB9014AB0b67ea9af05d9b690BFa2305DC2",
+  "decimals": 18,
+  "name": "FEG Wrapped BTCB",
+  "ens_address": "",
+  "website": "https://fegtoken.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

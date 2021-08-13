@@ -1,0 +1,34 @@
+{
+  "symbol": "FRAX",
+  "address": "0x29cED01C447166958605519F10DcF8b0255fB379",
+  "decimals": 18,
+  "name": "Frax",
+  "ens_address": "",
+  "website": "https://frax.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

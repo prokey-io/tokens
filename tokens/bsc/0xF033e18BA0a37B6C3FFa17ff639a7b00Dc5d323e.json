@@ -1,0 +1,34 @@
+{
+  "symbol": "CHIWAWA",
+  "address": "0xF033e18BA0a37B6C3FFa17ff639a7b00Dc5d323e",
+  "decimals": 0,
+  "name": "ChiwawaSwap",
+  "ens_address": "",
+  "website": "https://chiwawaswap.site",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

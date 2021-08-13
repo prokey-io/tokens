@@ -1,0 +1,34 @@
+{
+  "symbol": "CARBO",
+  "address": "0xc3236733841893DdbD8Eac9F647eEC29DA63F400",
+  "decimals": 18,
+  "name": "CarbonDEFI Finance CARBO",
+  "ens_address": "",
+  "website": "https://carbondefi.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "BigDoge",
+  "address": "0x2BA8c3066F36B998bC74CE8DcE260Fb5D2ba6bCc",
+  "decimals": 18,
+  "name": "Big Doge Coin",
+  "ens_address": "",
+  "website": "https://bigdoge.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

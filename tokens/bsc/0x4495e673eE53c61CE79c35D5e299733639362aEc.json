@@ -1,0 +1,34 @@
+{
+  "symbol": "WLQX",
+  "address": "0x4495e673eE53c61CE79c35D5e299733639362aEc",
+  "decimals": 18,
+  "name": "Wrapped LQX",
+  "ens_address": "",
+  "website": "http://lqxcoin.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

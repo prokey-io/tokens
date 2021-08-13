@@ -1,0 +1,34 @@
+{
+  "symbol": "XRUNE",
+  "address": "0x69fa0fee221ad11012bab0fdb45d444d3d2ce71c",
+  "decimals": 18,
+  "name": "Thorstarter",
+  "ens_address": "",
+  "website": "https://www.thorstarter.org/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16835/large/thorstarter.jpg",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.gg/fPjbPxm37F",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/Thorstarter/thorstarter-contracts",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/thorstarter",
+    "twitter": "thorstarter",
+    "youtube": ""
+  }
+}

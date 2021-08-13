@@ -1,0 +1,34 @@
+{
+  "symbol": "FEG",
+  "address": "0x389999216860ab8e0175387a0c90e5c52522c945",
+  "decimals": 9,
+  "name": "FEG Token",
+  "ens_address": "",
+  "website": "https://fegtoken.com",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13878/large/fav200.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.gg/fegtoken",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com",
+    "slack": "",
+    "telegram": "https://t.me/fegchat",
+    "twitter": "FEGtoken",
+    "youtube": ""
+  }
+}

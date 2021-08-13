@@ -1,0 +1,34 @@
+{
+  "symbol": "MBOX",
+  "address": "0x3203c9E46cA618C8C1cE5dC67e7e9D75f5da2377",
+  "decimals": 18,
+  "name": "MOBOX",
+  "ens_address": "",
+  "website": "https://mobox.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

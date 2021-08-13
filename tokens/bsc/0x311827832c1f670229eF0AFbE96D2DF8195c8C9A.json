@@ -1,0 +1,34 @@
+{
+  "symbol": "SNFT",
+  "address": "0x311827832c1f670229eF0AFbE96D2DF8195c8C9A",
+  "decimals": 0,
+  "name": "SafeNFT",
+  "ens_address": "",
+  "website": "https://safenft.me",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

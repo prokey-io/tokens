@@ -1,0 +1,34 @@
+{
+  "symbol": "TACOCAT",
+  "address": "0xA8fcEe78B782eF97380326E90DF80D72f025f020",
+  "decimals": 9,
+  "name": "Tacocat",
+  "ens_address": "",
+  "website": "https://tacocat.life",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

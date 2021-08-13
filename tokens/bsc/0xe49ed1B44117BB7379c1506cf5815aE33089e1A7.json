@@ -1,0 +1,34 @@
+{
+  "symbol": "OBRb",
+  "address": "0xe49ed1B44117BB7379c1506cf5815aE33089e1A7",
+  "decimals": 18,
+  "name": "Order of the Black Rose",
+  "ens_address": "",
+  "website": "https://nftobr.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

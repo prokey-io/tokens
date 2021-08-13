@@ -1,0 +1,34 @@
+{
+  "symbol": "MOONSAFE",
+  "address": "0x2C125b09C2DBed3d1669a3183298285e5cf46154",
+  "decimals": 9,
+  "name": "Moonsafe Token",
+  "ens_address": "",
+  "website": "https://moonsafe.xyz",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

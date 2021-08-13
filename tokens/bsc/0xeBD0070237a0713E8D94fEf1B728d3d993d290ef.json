@@ -1,0 +1,34 @@
+{
+  "symbol": "vCAN",
+  "address": "0xeBD0070237a0713E8D94fEf1B728d3d993d290ef",
+  "decimals": 8,
+  "name": "Venus CAN",
+  "ens_address": "",
+  "website": "https://venus.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

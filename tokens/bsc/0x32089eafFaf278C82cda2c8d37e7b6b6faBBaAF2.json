@@ -1,0 +1,34 @@
+{
+  "symbol": "SLF",
+  "address": "0x32089eafFaf278C82cda2c8d37e7b6b6faBBaAF2",
+  "decimals": 18,
+  "name": "Solarfare",
+  "ens_address": "",
+  "website": "https://solarfare.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

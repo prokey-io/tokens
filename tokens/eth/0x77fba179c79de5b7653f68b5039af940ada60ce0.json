@@ -1,0 +1,34 @@
+{
+  "symbol": "FORTH",
+  "address": "0x77fba179c79de5b7653f68b5039af940ada60ce0",
+  "decimals": 18,
+  "name": "Ampleforth Governance Token",
+  "ens_address": "",
+  "website": "https://www.ampleforth.org/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14917/large/photo_2021-04-22_00.00.03.jpeg",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.gg/mptQ49m",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/ampleforth/Forth/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/Ampleforth",
+    "twitter": "AmpleforthOrg",
+    "youtube": ""
+  }
+}

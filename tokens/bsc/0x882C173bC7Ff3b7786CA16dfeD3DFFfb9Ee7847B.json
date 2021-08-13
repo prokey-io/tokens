@@ -1,0 +1,34 @@
+{
+  "symbol": "vBTC",
+  "address": "0x882C173bC7Ff3b7786CA16dfeD3DFFfb9Ee7847B",
+  "decimals": 8,
+  "name": "Venus BTC",
+  "ens_address": "",
+  "website": "https://venus.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

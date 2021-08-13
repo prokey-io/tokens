@@ -1,0 +1,34 @@
+{
+  "symbol": "TVL",
+  "address": "0x4388cA448baF6785bf1222a3E8e266536548eD75",
+  "decimals": 18,
+  "name": "TravelCake",
+  "ens_address": "",
+  "website": "https://www.travelcake.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

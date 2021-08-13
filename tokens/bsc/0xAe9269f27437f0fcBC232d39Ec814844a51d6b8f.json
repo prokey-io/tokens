@@ -1,0 +1,34 @@
+{
+  "symbol": "BURGER",
+  "address": "0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f",
+  "decimals": 18,
+  "name": "Burger Swap Token",
+  "ens_address": "",
+  "website": "https://burgerswap.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

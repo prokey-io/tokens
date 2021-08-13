@@ -1,0 +1,34 @@
+{
+  "symbol": "PAL",
+  "address": "0x569641e97cF794FEDC6277B490337654beA58942",
+  "decimals": 9,
+  "name": "SAVEPALESTINE",
+  "ens_address": "",
+  "website": "https://palestine.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

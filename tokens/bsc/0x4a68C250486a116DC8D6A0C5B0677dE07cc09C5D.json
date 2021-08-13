@@ -1,0 +1,34 @@
+{
+  "symbol": "POODL",
+  "address": "0x4a68C250486a116DC8D6A0C5B0677dE07cc09C5D",
+  "decimals": 9,
+  "name": "POODL",
+  "ens_address": "",
+  "website": "https://www.poodltoken.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

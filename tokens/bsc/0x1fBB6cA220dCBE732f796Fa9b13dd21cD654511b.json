@@ -1,0 +1,34 @@
+{
+  "symbol": "0xzx",
+  "address": "0x1fBB6cA220dCBE732f796Fa9b13dd21cD654511b",
+  "decimals": 9,
+  "name": "0xzx Token",
+  "ens_address": "",
+  "website": "https://0xzx.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "INVEST",
+  "address": "0x853A8Ab1c365ea54719EB13A54d6B22F1fBe7FEb",
+  "decimals": 18,
+  "name": "Investdex",
+  "ens_address": "",
+  "website": "https://investdex.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

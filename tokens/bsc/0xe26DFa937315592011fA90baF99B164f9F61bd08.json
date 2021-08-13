@@ -1,0 +1,34 @@
+{
+  "symbol": "KAINU",
+  "address": "0xe26DFa937315592011fA90baF99B164f9F61bd08",
+  "decimals": 18,
+  "name": "KAINU",
+  "ens_address": "",
+  "website": "https://kainutoken.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

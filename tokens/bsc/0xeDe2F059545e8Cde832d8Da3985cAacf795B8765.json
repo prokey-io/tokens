@@ -1,0 +1,34 @@
+{
+  "symbol": "ECO",
+  "address": "0xeDe2F059545e8Cde832d8Da3985cAacf795B8765",
+  "decimals": 18,
+  "name": "Ormeus Ecosystem",
+  "ens_address": "",
+  "website": "https://eco-system.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "HUSH",
+  "address": "0xC1DcB8D805Cf51a5DacC9FA36c28bf2c8D1492B4",
+  "decimals": 9,
+  "name": "HUSH COIN",
+  "ens_address": "",
+  "website": "https://www.hushcoin.me/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

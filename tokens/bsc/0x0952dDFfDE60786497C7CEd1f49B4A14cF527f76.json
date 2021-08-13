@@ -1,0 +1,34 @@
+{
+  "symbol": "GHOSTFACE",
+  "address": "0x0952dDFfDE60786497C7CEd1f49B4A14cF527f76",
+  "decimals": 9,
+  "name": "Ghostface",
+  "ens_address": "",
+  "website": "https://www.ghostface.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

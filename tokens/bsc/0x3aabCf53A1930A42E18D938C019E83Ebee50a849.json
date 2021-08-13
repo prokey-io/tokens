@@ -1,0 +1,34 @@
+{
+  "symbol": "SPG",
+  "address": "0x3aabCf53A1930A42E18D938C019E83Ebee50a849",
+  "decimals": 9,
+  "name": "SPONGE",
+  "ens_address": "",
+  "website": "https://app.sponge.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

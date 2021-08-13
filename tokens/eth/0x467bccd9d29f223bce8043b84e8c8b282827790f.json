@@ -1,0 +1,34 @@
+{
+  "symbol": "TEL",
+  "address": "0x467bccd9d29f223bce8043b84e8c8b282827790f",
+  "decimals": 2,
+  "name": "Telcoin",
+  "ens_address": "",
+  "website": "http://www.telco.in",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1899/large/tel.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "telcoin",
+    "forum": "",
+    "github": "https://github.com/telcoin/ico",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Telcoin/",
+    "slack": "",
+    "telegram": "https://t.me/telcoincommunity",
+    "twitter": "telcoin_team",
+    "youtube": ""
+  }
+}

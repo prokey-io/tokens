@@ -1,0 +1,34 @@
+{
+  "symbol": "FRY",
+  "address": "0xc04e039aE8587e71f8024b36d630f841cc2106CC",
+  "decimals": 18,
+  "name": "Foundry Logistics Token",
+  "ens_address": "",
+  "website": "https://foundrydao.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

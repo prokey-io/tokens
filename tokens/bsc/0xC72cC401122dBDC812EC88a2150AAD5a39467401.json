@@ -1,0 +1,34 @@
+{
+  "symbol": "WSWAP",
+  "address": "0xC72cC401122dBDC812EC88a2150AAD5a39467401",
+  "decimals": 0,
+  "name": "Wallet Swap",
+  "ens_address": "",
+  "website": "https://wswap.site/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

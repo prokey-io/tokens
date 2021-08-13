@@ -1,0 +1,34 @@
+{
+  "symbol": "FLAT",
+  "address": "0x41540ba32dB90269Bb72A7bE1D4b1eE18F5544f1",
+  "decimals": 18,
+  "name": "Flat Earth Token",
+  "ens_address": "",
+  "website": "https://flatearthtoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

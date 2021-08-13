@@ -1,0 +1,34 @@
+{
+  "symbol": "SURE",
+  "address": "0x9b17bAADf0f21F03e35249e0e59723F34994F806",
+  "decimals": 18,
+  "name": "inSure",
+  "ens_address": "",
+  "website": "https://insuretoken.net",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "ICEBRK",
+  "address": "0x82b4b883c813dF83623Dc7894c1895305680fec2",
+  "decimals": 9,
+  "name": "IceBreak-R Token",
+  "ens_address": "",
+  "website": "https://icebreak-r.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

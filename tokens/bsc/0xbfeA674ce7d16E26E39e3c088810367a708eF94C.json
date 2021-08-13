@@ -1,0 +1,34 @@
+{
+  "symbol": "APRIL",
+  "address": "0xbfeA674ce7d16E26E39e3c088810367a708eF94C",
+  "decimals": 18,
+  "name": "April Token",
+  "ens_address": "",
+  "website": "https://apriloracle.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

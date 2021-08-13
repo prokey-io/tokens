@@ -1,0 +1,34 @@
+{
+  "symbol": "NEWINU",
+  "address": "0x1997830B5beB723f5089bb8fc38766d419a0444d",
+  "decimals": 9,
+  "name": "New Guinea Singing Dog Inu",
+  "ens_address": "",
+  "website": "https://newinu.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

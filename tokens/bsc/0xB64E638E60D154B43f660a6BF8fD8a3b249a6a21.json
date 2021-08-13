@@ -1,0 +1,34 @@
+{
+  "symbol": "WAULTx",
+  "address": "0xB64E638E60D154B43f660a6BF8fD8a3b249a6a21",
+  "decimals": 18,
+  "name": "WAULTx",
+  "ens_address": "",
+  "website": "https://wault.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

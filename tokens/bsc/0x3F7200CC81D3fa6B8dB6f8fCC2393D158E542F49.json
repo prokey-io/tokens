@@ -1,0 +1,34 @@
+{
+  "symbol": "LOVEINU",
+  "address": "0x3F7200CC81D3fa6B8dB6f8fCC2393D158E542F49",
+  "decimals": 9,
+  "name": "Love Inu Token",
+  "ens_address": "",
+  "website": "https://loveinutoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

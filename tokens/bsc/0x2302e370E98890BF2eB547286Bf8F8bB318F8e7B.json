@@ -1,0 +1,34 @@
+{
+  "symbol": "BabyShiba",
+  "address": "0x2302e370E98890BF2eB547286Bf8F8bB318F8e7B",
+  "decimals": 9,
+  "name": "BabyShiba",
+  "ens_address": "",
+  "website": "https://babyshiba.net/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

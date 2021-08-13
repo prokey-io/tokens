@@ -1,0 +1,34 @@
+{
+  "symbol": "Sheesh",
+  "address": "0x7E5d52C3335C91Af0da392BEa4BB9e43F2AbA62C",
+  "decimals": 18,
+  "name": "Sheesh it is bussin bussin",
+  "ens_address": "",
+  "website": "https://sheeshtoken.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

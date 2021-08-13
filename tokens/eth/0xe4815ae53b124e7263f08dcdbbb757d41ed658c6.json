@@ -1,0 +1,34 @@
+{
+  "symbol": "ZKS",
+  "address": "0xe4815ae53b124e7263f08dcdbbb757d41ed658c6",
+  "decimals": 18,
+  "name": "ZKSwap",
+  "ens_address": "",
+  "website": "https://zks.org/en",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13585/large/ZKSwap_logo-light.872a149.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.com/invite/ZRxS8fYTDv",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/zkswapofficial",
+    "twitter": "ZKSwapOfficial",
+    "youtube": ""
+  }
+}

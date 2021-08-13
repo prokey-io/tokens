@@ -1,0 +1,34 @@
+{
+  "symbol": "PRYZ",
+  "address": "0x6130AAaffDd8F39dC8EC00c6af0681DF0cBb2EEF",
+  "decimals": 18,
+  "name": "PRYZ",
+  "ens_address": "",
+  "website": "https://pryz.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

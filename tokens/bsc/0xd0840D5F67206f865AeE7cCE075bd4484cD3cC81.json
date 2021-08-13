@@ -1,0 +1,34 @@
+{
+  "symbol": "AFEN",
+  "address": "0xd0840D5F67206f865AeE7cCE075bd4484cD3cC81",
+  "decimals": 18,
+  "name": "Afen Blockchain",
+  "ens_address": "",
+  "website": "https://afengroup.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

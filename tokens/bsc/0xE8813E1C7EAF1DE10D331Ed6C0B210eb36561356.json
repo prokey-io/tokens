@@ -1,0 +1,34 @@
+{
+  "symbol": "BISHOKU",
+  "address": "0xE8813E1C7EAF1DE10D331Ed6C0B210eb36561356",
+  "decimals": 9,
+  "name": "Bishoku Inu",
+  "ens_address": "",
+  "website": "https://www.bishokuinu.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

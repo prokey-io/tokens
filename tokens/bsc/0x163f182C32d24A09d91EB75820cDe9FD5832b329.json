@@ -1,0 +1,34 @@
+{
+  "symbol": "EDOGE",
+  "address": "0x163f182C32d24A09d91EB75820cDe9FD5832b329",
+  "decimals": 9,
+  "name": "ElonDoge",
+  "ens_address": "",
+  "website": "https://elondoge.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "SHAB",
+  "address": "0x762a68697D7c8A0078Bd1d79BD50d0F2ef8A8AaF",
+  "decimals": 18,
+  "name": "Sharpei ",
+  "ens_address": "",
+  "website": "https://sharpei.network/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

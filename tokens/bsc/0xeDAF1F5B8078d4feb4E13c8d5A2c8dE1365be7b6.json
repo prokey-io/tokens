@@ -1,0 +1,34 @@
+{
+  "symbol": "ALTRUCOIN",
+  "address": "0xeDAF1F5B8078d4feb4E13c8d5A2c8dE1365be7b6",
+  "decimals": 9,
+  "name": "Altrucoin",
+  "ens_address": "",
+  "website": "https://altrucoin.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

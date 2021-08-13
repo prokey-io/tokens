@@ -1,0 +1,34 @@
+{
+  "symbol": "Shark",
+  "address": "0x1E6baC0b134259BFE91552954D86513bA2B6E9B9",
+  "decimals": 0,
+  "name": "Shark Stake",
+  "ens_address": "",
+  "website": "http://sharkstake.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

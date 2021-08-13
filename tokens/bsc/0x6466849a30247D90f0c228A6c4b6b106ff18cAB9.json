@@ -1,0 +1,34 @@
+{
+  "symbol": "CHAR",
+  "address": "0x6466849a30247D90f0c228A6c4b6b106ff18cAB9",
+  "decimals": 18,
+  "name": "Charitas",
+  "ens_address": "",
+  "website": "https://charitas.fund",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

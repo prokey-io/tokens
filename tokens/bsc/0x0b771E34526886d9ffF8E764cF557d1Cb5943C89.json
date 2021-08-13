@@ -1,0 +1,34 @@
+{
+  "symbol": "Wcomp",
+  "address": "0x0b771E34526886d9ffF8E764cF557d1Cb5943C89",
+  "decimals": 8,
+  "name": "Wrapped Compound",
+  "ens_address": "",
+  "website": "https://wcomp.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "FLOKI",
+  "address": "0x330540a9d998442dcbc396165D3dDc5052077bB1",
+  "decimals": 9,
+  "name": "Shiba Floki",
+  "ens_address": "",
+  "website": "https://shibafloki.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

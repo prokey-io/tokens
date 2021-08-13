@@ -1,0 +1,34 @@
+{
+  "symbol": "LACA",
+  "address": "0x5EC8B32Ff33f8df977402F44602A59998941d240",
+  "decimals": 18,
+  "name": "LAZACA",
+  "ens_address": "",
+  "website": "https://lazaca.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

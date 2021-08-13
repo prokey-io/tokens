@@ -1,0 +1,34 @@
+{
+  "symbol": "POLARIUM",
+  "address": "0xD983A29d0E966a3C51b540085314057D3bb4A227",
+  "decimals": 8,
+  "name": "Polarium.Finance",
+  "ens_address": "",
+  "website": "https://www.polarium.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

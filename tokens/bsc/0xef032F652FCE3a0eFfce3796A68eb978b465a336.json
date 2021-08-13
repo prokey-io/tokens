@@ -1,0 +1,34 @@
+{
+  "symbol": "MOOCHII",
+  "address": "0xef032F652FCE3a0eFfce3796A68eb978b465a336",
+  "decimals": 9,
+  "name": "MOOCHII",
+  "ens_address": "",
+  "website": "https://moochii.net/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

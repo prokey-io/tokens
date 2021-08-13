@@ -1,0 +1,34 @@
+{
+  "symbol": "TORO",
+  "address": "0x2e18D97bB92Bcb9EFb029C7Ee72f18108Ec36C2C",
+  "decimals": 9,
+  "name": "TORO",
+  "ens_address": "",
+  "website": "https://torobullrun.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

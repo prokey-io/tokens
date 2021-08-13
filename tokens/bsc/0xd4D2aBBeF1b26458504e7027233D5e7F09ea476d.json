@@ -1,0 +1,34 @@
+{
+  "symbol": "MNWL",
+  "address": "0xd4D2aBBeF1b26458504e7027233D5e7F09ea476d",
+  "decimals": 18,
+  "name": "MoonWilly",
+  "ens_address": "",
+  "website": "https://moonwilly.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

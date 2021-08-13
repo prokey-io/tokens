@@ -1,0 +1,34 @@
+{
+  "symbol": "SMARTWORTH",
+  "address": "0xD50787A5f21bcC10C1a738E7DE33001786c5fc24",
+  "decimals": 18,
+  "name": "SMARTWORTH",
+  "ens_address": "",
+  "website": "https://smartworth.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

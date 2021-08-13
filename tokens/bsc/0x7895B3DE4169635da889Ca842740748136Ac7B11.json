@@ -1,0 +1,34 @@
+{
+  "symbol": "SUPERDOGE",
+  "address": "0x7895B3DE4169635da889Ca842740748136Ac7B11",
+  "decimals": 18,
+  "name": "SUPER DOGE",
+  "ens_address": "",
+  "website": "https://superdogebsc.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

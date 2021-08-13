@@ -1,0 +1,34 @@
+{
+  "symbol": "AURO",
+  "address": "0xF6530899dE1dAaE4388E1286EBa6379d7DDf9c8F",
+  "decimals": 9,
+  "name": "Aurora Finance",
+  "ens_address": "",
+  "website": "https://auro.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

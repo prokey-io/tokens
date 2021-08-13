@@ -1,0 +1,34 @@
+{
+  "symbol": "SPND",
+  "address": "0x75e3CF3DC6748ff6c92FE77646bE7d2fdFdFA623",
+  "decimals": 9,
+  "name": "SafePanda",
+  "ens_address": "",
+  "website": "https://safepanda.net/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

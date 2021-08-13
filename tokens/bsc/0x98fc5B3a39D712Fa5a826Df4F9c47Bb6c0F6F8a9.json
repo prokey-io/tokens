@@ -1,0 +1,34 @@
+{
+  "symbol": "BitGay",
+  "address": "0x98fc5B3a39D712Fa5a826Df4F9c47Bb6c0F6F8a9",
+  "decimals": 9,
+  "name": "BitGay",
+  "ens_address": "",
+  "website": "https://bitgay.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

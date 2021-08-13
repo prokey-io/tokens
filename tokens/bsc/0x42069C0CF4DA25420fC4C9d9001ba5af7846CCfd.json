@@ -1,0 +1,34 @@
+{
+  "symbol": "GUH",
+  "address": "0x42069C0CF4DA25420fC4C9d9001ba5af7846CCfd",
+  "decimals": 9,
+  "name": "Goes Up Higher",
+  "ens_address": "",
+  "website": "https://guhtoken.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

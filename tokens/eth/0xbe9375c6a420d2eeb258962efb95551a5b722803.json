@@ -1,0 +1,34 @@
+{
+  "symbol": "STMX",
+  "address": "0xbe9375c6a420d2eeb258962efb95551a5b722803",
+  "decimals": 18,
+  "name": "StormX",
+  "ens_address": "",
+  "website": "https://stormx.io/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1369/large/StormX.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "stormxio",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/stormxio",
+    "slack": "",
+    "telegram": "https://t.me/stormxapp",
+    "twitter": "stormxio",
+    "youtube": ""
+  }
+}

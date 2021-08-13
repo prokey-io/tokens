@@ -1,0 +1,34 @@
+{
+  "symbol": "DHS",
+  "address": "0x30365Ed4Ca8173013ad948b9842f34ac71d01f7C",
+  "decimals": 18,
+  "name": "Dirham",
+  "ens_address": "",
+  "website": "https://dirhamcrypto.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

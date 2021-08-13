@@ -1,0 +1,34 @@
+{
+  "symbol": "CORGI",
+  "address": "0x802C68730212295149f2bEa78C25e2Cf5A05B8A0",
+  "decimals": 8,
+  "name": "Corgi doge",
+  "ens_address": "",
+  "website": "https://www.corgidoge.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

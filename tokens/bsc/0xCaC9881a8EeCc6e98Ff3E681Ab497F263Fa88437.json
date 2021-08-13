@@ -1,0 +1,34 @@
+{
+  "symbol": "BTCX",
+  "address": "0xCaC9881a8EeCc6e98Ff3E681Ab497F263Fa88437",
+  "decimals": 9,
+  "name": "BitcoinX Token",
+  "ens_address": "",
+  "website": "https://bitcoinx.today/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

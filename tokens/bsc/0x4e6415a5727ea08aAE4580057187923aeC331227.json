@@ -1,0 +1,34 @@
+{
+  "symbol": "FINE",
+  "address": "0x4e6415a5727ea08aAE4580057187923aeC331227",
+  "decimals": 18,
+  "name": "FINE Token",
+  "ens_address": "",
+  "website": "https://refinable.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

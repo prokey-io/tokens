@@ -1,0 +1,34 @@
+{
+  "symbol": "FOXT",
+  "address": "0x50ea9C9F88AEAB9f554b8ffB4d7a1017957e866A",
+  "decimals": 18,
+  "name": "Fox Trading",
+  "ens_address": "",
+  "website": "https://foxtrading.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

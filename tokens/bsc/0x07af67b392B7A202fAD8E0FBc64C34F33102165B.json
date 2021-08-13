@@ -1,0 +1,34 @@
+{
+  "symbol": "AQUAGOAT",
+  "address": "0x07af67b392B7A202fAD8E0FBc64C34F33102165B",
+  "decimals": 9,
+  "name": "AquaGoat",
+  "ens_address": "",
+  "website": "https://aquagoat.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

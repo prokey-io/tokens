@@ -1,0 +1,34 @@
+{
+  "symbol": "PINK",
+  "address": "0x9133049Fb1FdDC110c92BF5b7Df635abB70C89DC",
+  "decimals": 18,
+  "name": "Pink token",
+  "ens_address": "",
+  "website": "https://dot.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

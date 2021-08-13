@@ -1,0 +1,34 @@
+{
+  "symbol": "BETH",
+  "address": "0x250632378E573c6Be1AC2f97Fcdf00515d0Aa91B",
+  "decimals": 18,
+  "name": "Binance Beacon ETH",
+  "ens_address": "",
+  "website": "https://binance.com/en/eth2",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

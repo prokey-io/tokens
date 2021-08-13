@@ -1,0 +1,34 @@
+{
+  "symbol": "CRO",
+  "address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+  "decimals": 8,
+  "name": "Crypto.com Coin",
+  "ens_address": "",
+  "website": "https://www.crypto.com/en/chain",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/7310/large/cypto.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.gg/B6cZahJ",
+    "discord": "",
+    "facebook": "CryptoComOfficial",
+    "forum": "",
+    "github": "https://github.com/crypto-org-chain/chain-main",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Crypto_com/",
+    "slack": "",
+    "telegram": "https://t.me/CryptoComOfficial",
+    "twitter": "cryptocom",
+    "youtube": ""
+  }
+}

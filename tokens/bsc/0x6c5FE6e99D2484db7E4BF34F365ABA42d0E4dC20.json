@@ -1,0 +1,34 @@
+{
+  "symbol": "ABS",
+  "address": "0x6c5FE6e99D2484db7E4BF34F365ABA42d0E4dC20",
+  "decimals": 18,
+  "name": "Absorber",
+  "ens_address": "",
+  "website": "https://absorber.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

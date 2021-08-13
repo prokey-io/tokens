@@ -1,0 +1,34 @@
+{
+  "symbol": "ALPHA",
+  "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+  "decimals": 18,
+  "name": "Alpha Finance",
+  "ens_address": "",
+  "website": "https://alphafinance.io/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12738/large/AlphaToken_256x256.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.com/invite/Z2vuKDT",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/AlphaFinanceLab/alphahomora",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "alphafinancelab",
+    "youtube": ""
+  }
+}

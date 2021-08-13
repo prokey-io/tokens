@@ -1,0 +1,34 @@
+{
+  "symbol": "TINIDAWG",
+  "address": "0x57282282A6CbD3658576883eB6674e339609c714",
+  "decimals": 9,
+  "name": "MINIDOG TOKEN",
+  "ens_address": "",
+  "website": "https://minidog.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

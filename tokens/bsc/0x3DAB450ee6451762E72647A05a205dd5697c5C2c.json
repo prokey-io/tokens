@@ -1,0 +1,34 @@
+{
+  "symbol": "FSHIB",
+  "address": "0x3DAB450ee6451762E72647A05a205dd5697c5C2c",
+  "decimals": 9,
+  "name": "FlokiShiba",
+  "ens_address": "",
+  "website": "https://flokishiba.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

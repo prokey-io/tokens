@@ -1,0 +1,34 @@
+{
+  "symbol": "MOO",
+  "address": "0x88C926CA9234Ee194dc47be6e91d35e8CCbEed51",
+  "decimals": 9,
+  "name": "MooCow",
+  "ens_address": "",
+  "website": "https://moocow.me",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

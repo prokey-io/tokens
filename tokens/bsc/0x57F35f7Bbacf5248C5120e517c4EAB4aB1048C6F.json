@@ -1,0 +1,34 @@
+{
+  "symbol": "CRATER",
+  "address": "0x57F35f7Bbacf5248C5120e517c4EAB4aB1048C6F",
+  "decimals": 9,
+  "name": "Mars Crater",
+  "ens_address": "",
+  "website": "https://marscrater.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

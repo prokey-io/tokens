@@ -1,0 +1,34 @@
+{
+  "symbol": "MONKI",
+  "address": "0xb813939458aA42ca57B870bEf4bEc24945aDDA6D",
+  "decimals": 18,
+  "name": "MONKI",
+  "ens_address": "",
+  "website": "https://www.monki.network/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

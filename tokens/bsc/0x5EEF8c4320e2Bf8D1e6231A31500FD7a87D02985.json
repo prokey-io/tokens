@@ -1,0 +1,34 @@
+{
+  "symbol": "FOMO",
+  "address": "0x5EEF8c4320e2Bf8D1e6231A31500FD7a87D02985",
+  "decimals": 18,
+  "name": "FOMO",
+  "ens_address": "",
+  "website": "https://fomolab.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

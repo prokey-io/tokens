@@ -1,0 +1,34 @@
+{
+  "symbol": "1INCH",
+  "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+  "decimals": 18,
+  "name": "1inch",
+  "ens_address": "",
+  "website": "https://1inch.io/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13469/large/1inch-token.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.com/invite/FZADkCZ",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/1inch-exchange/1inch-token",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "1inch",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "Chibi",
+  "address": "0x504BeAf9B74f5e38B0AC2335c51B8BB6E86F0eC5",
+  "decimals": 18,
+  "name": "Chibi Inu",
+  "ens_address": "",
+  "website": "https://chibinu.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

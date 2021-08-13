@@ -1,0 +1,34 @@
+{
+  "symbol": "TRDG",
+  "address": "0x92a42Db88Ed0F02c71D439e55962Ca7CAB0168b5",
+  "decimals": 9,
+  "name": "Tardigrades.Finance",
+  "ens_address": "",
+  "website": "https://tardigrades.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

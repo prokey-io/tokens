@@ -1,0 +1,34 @@
+{
+  "symbol": "JBP",
+  "address": "0x1ba292a599F9C4F5618616c14bA38daec29e7E08",
+  "decimals": 9,
+  "name": "JBPTOKEN ",
+  "ens_address": "",
+  "website": "https://jbprotocol.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

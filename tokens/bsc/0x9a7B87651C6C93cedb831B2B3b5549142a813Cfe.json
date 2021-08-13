@@ -1,0 +1,34 @@
+{
+  "symbol": "KOKOMO",
+  "address": "0x9a7B87651C6C93cedb831B2B3b5549142a813Cfe",
+  "decimals": 18,
+  "name": "Kokomo Token",
+  "ens_address": "",
+  "website": "https://kokomoswap.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

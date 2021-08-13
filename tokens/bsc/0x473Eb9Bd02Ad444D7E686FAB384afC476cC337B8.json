@@ -1,0 +1,34 @@
+{
+  "symbol": "LTFM",
+  "address": "0x473Eb9Bd02Ad444D7E686FAB384afC476cC337B8",
+  "decimals": 9,
+  "name": "LITTLE FISH MOON",
+  "ens_address": "",
+  "website": "https://littlefishmoon.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

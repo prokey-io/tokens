@@ -1,0 +1,34 @@
+{
+  "symbol": "KissMyMoon",
+  "address": "0x6001600A144166e14075963eE9bF03e194f638Fe",
+  "decimals": 9,
+  "name": "KissMyMoon",
+  "ens_address": "",
+  "website": "https://kissmymoon.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

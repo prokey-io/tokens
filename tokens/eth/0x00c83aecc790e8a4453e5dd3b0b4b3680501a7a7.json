@@ -1,0 +1,34 @@
+{
+  "symbol": "SKL",
+  "address": "0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7",
+  "decimals": 18,
+  "name": "SKALE",
+  "ens_address": "",
+  "website": "https://skale.network/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13245/large/SKALE_token_300x300.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/skalenetwork",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/SKALEnetwork/",
+    "slack": "",
+    "telegram": "https://t.me/skaleofficial",
+    "twitter": "SkaleNetwork",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "ECP",
+  "address": "0x375483CfA7Fc18F6b455E005D835A8335FbdbB1f",
+  "decimals": 9,
+  "name": "Eclipse",
+  "ens_address": "",
+  "website": "https://eclipsetoken.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

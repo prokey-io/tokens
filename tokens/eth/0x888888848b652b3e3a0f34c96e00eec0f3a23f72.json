@@ -1,0 +1,34 @@
+{
+  "symbol": "TLM",
+  "address": "0x888888848b652b3e3a0f34c96e00eec0f3a23f72",
+  "decimals": 4,
+  "name": "Alien Worlds",
+  "ens_address": "",
+  "website": "https://alienworlds.io/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14676/large/kY-C4o7RThfWrDQsLCAG4q4clZhBDDfJQVhWUEKxXAzyQYMj4Jmq1zmFwpRqxhAJFPOa0AsW_PTSshoPuMnXNwq3rU7Imp15QimXTjlXMx0nC088mt1rIwRs75GnLLugWjSllxgzvQ9YrP4tBgclK4_rb17hjnusGj_c0u2fx0AvVokjSNB-v2poTj0xT9BZRCbzRE3-lF1.jpg",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.com/invite/QHPJxuq",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/AlienWorldsOffical",
+    "twitter": "alienworlds",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "miniBABYDOGE",
+  "address": "0xA3b89C5F75C530f33E612177001F5602E9C2830F",
+  "decimals": 18,
+  "name": "miniBABYDOGE",
+  "ens_address": "",
+  "website": "https://www.minibabydogeofficial.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

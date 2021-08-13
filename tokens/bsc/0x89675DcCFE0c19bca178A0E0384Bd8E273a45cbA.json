@@ -1,0 +1,34 @@
+{
+  "symbol": "DXW",
+  "address": "0x89675DcCFE0c19bca178A0E0384Bd8E273a45cbA",
+  "decimals": 18,
+  "name": "Dexview",
+  "ens_address": "",
+  "website": "https://dexview.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "KCS",
+  "address": "0xf34960d9d60be18cc1d5afc1a6f012a723a28811",
+  "decimals": 6,
+  "name": "KuCoin Token",
+  "ens_address": "",
+  "website": "https://www.kucoin.com/#/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1047/large/sa9z79.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/kucoin",
+    "slack": "",
+    "telegram": "",
+    "twitter": "kucoincom",
+    "youtube": ""
+  }
+}

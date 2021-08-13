@@ -1,0 +1,34 @@
+{
+  "symbol": "WSG",
+  "address": "0xA58950F05FeA2277d2608748412bf9F802eA4901",
+  "decimals": 18,
+  "name": "Wall Street Games",
+  "ens_address": "",
+  "website": "https://wsg.gg",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

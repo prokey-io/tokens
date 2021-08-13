@@ -1,0 +1,34 @@
+{
+  "symbol": "SAFEMUSK",
+  "address": "0x7Aa0f568a5CC0b5395694Cb5aD8C9423F8C41A80",
+  "decimals": 9,
+  "name": "SafeMusk",
+  "ens_address": "",
+  "website": "https://www.safemusk.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

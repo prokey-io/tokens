@@ -1,0 +1,34 @@
+{
+  "symbol": "MATIC",
+  "address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
+  "decimals": 18,
+  "name": "Matic Token",
+  "ens_address": "",
+  "website": "https://matic.network/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

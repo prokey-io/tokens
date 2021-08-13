@@ -1,0 +1,34 @@
+{
+  "symbol": "DOGEMOON",
+  "address": "0x2f801292924433F41E34669b0817F990764EcAA0",
+  "decimals": 9,
+  "name": "DOGEMOON",
+  "ens_address": "",
+  "website": "https://dogemoon.me",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

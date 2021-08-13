@@ -1,0 +1,34 @@
+{
+  "symbol": "DGO",
+  "address": "0xfAEce5aCc269774Eb1D544Ee8D45671A55516296",
+  "decimals": 8,
+  "name": "Digo",
+  "ens_address": "",
+  "website": "https://coindigo.tech/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

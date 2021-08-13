@@ -1,0 +1,34 @@
+{
+  "symbol": "LLT",
+  "address": "0xD37c1417DA7Bf5b02ffDEa8d5427022DC88A0eE2",
+  "decimals": 8,
+  "name": "LifeLine",
+  "ens_address": "",
+  "website": "https://lifelinetoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

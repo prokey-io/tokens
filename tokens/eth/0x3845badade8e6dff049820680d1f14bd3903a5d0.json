@@ -1,0 +1,34 @@
+{
+  "symbol": "SAND",
+  "address": "0x3845badade8e6dff049820680d1f14bd3903a5d0",
+  "decimals": 18,
+  "name": "The Sandbox",
+  "ens_address": "",
+  "website": "https://www.sandbox.game/en/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12129/large/sandbox_logo.jpg",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.com/invite/vAe4zvY",
+    "discord": "",
+    "facebook": "TheSandboxGame",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/sandboxgame",
+    "twitter": "TheSandboxGame",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "420x",
+  "address": "0xC4b790e1D5f0c3d8AA526F0A8098eD2A1ff0886a",
+  "decimals": 9,
+  "name": "420x",
+  "ens_address": "",
+  "website": "https://420xcoin.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

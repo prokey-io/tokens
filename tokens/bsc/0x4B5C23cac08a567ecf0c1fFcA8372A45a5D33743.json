@@ -1,0 +1,34 @@
+{
+  "symbol": "FARM",
+  "address": "0x4B5C23cac08a567ecf0c1fFcA8372A45a5D33743",
+  "decimals": 18,
+  "name": "Harvest Reward Token",
+  "ens_address": "",
+  "website": "https://harvest.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

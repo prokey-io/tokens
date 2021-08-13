@@ -1,0 +1,34 @@
+{
+  "symbol": "LFD",
+  "address": "0xdeb1EAF085979A73aB0E85901D786cBa991c2617",
+  "decimals": 18,
+  "name": "LuckyFortuneDog",
+  "ens_address": "",
+  "website": "https://lfd.su/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

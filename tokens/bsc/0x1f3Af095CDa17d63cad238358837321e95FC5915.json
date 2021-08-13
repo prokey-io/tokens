@@ -1,0 +1,34 @@
+{
+  "symbol": "MINT",
+  "address": "0x1f3Af095CDa17d63cad238358837321e95FC5915",
+  "decimals": 18,
+  "name": "Mint.club",
+  "ens_address": "",
+  "website": "https://mint.club",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

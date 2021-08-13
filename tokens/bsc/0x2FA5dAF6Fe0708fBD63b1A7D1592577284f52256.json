@@ -1,0 +1,34 @@
+{
+  "symbol": "MARSH",
+  "address": "0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256",
+  "decimals": 18,
+  "name": "UnmarshalToken",
+  "ens_address": "",
+  "website": "https://unmarshal.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

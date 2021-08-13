@@ -1,0 +1,34 @@
+{
+  "symbol": "FROG",
+  "address": "0xC808592e5b4585F982bc728d63b227634bc007a4",
+  "decimals": 18,
+  "name": "CryptoFrog.Finance",
+  "ens_address": "",
+  "website": "https://cryptofrog.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "ShiCo",
+  "address": "0x092BBec1342affFd16Cfb41B56343D5A299CDf0D",
+  "decimals": 9,
+  "name": "ShibaCorgi",
+  "ens_address": "",
+  "website": "https://shibacorgi.dog",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

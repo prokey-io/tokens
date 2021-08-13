@@ -1,0 +1,34 @@
+{
+  "symbol": "PLUTO",
+  "address": "0x0C3Ea5aAC39101E5b3989b3f19181D8591b734d0",
+  "decimals": 9,
+  "name": "PlutoPepe",
+  "ens_address": "",
+  "website": "https://plutopepe.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

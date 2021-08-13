@@ -1,0 +1,34 @@
+{
+  "symbol": "Doges",
+  "address": "0xcE084e04fc2FE52962aB6E3CC464F80060c1C753",
+  "decimals": 9,
+  "name": "DogeShib",
+  "ens_address": "",
+  "website": "https://dogeshiba.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

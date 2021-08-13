@@ -1,0 +1,34 @@
+{
+  "symbol": "UQC",
+  "address": "0x8806926ab68eb5a7b909dcaf6fdbe5d93271d6e2",
+  "decimals": 18,
+  "name": "Uquid Coin",
+  "ens_address": "",
+  "website": "https://uquidcoin.com/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/1341/large/uquid-coin.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "uquidcoin",
+    "forum": "",
+    "github": "https://github.com/uquid/express",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com",
+    "slack": "",
+    "telegram": "https://t.me/uquidcoinofficial",
+    "twitter": "uquidcard",
+    "youtube": ""
+  }
+}

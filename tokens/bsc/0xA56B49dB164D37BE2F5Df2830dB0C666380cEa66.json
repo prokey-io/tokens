@@ -1,0 +1,34 @@
+{
+  "symbol": "PUGDOG",
+  "address": "0xA56B49dB164D37BE2F5Df2830dB0C666380cEa66",
+  "decimals": 0,
+  "name": "PUGDOG INU",
+  "ens_address": "",
+  "website": "https://pugdoginu.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

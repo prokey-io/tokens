@@ -1,0 +1,34 @@
+{
+  "symbol": "LINK",
+  "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
+  "decimals": 18,
+  "name": "Chainlink Token",
+  "ens_address": "",
+  "website": "https://chain.link",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

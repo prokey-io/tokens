@@ -1,0 +1,34 @@
+{
+  "symbol": "SPE",
+  "address": "0xdBaAa36B347d56b77Ce0e36f050fCeEBbF9fbc38",
+  "decimals": 9,
+  "name": "SavePlanetEarth",
+  "ens_address": "",
+  "website": "https://www.saveplanetearth.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

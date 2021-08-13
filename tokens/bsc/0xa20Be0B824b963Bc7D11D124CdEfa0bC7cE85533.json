@@ -1,0 +1,34 @@
+{
+  "symbol": "Ddai",
+  "address": "0xa20Be0B824b963Bc7D11D124CdEfa0bC7cE85533",
+  "decimals": 8,
+  "name": "Wrapped Dai",
+  "ens_address": "",
+  "website": "https://wdai.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

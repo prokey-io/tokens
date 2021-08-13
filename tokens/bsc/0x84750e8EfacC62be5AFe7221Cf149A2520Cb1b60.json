@@ -1,0 +1,34 @@
+{
+  "symbol": "$SCORP",
+  "address": "0x84750e8EfacC62be5AFe7221Cf149A2520Cb1b60",
+  "decimals": 9,
+  "name": "SCORPION",
+  "ens_address": "",
+  "website": "https://www.thescorpioncoin.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

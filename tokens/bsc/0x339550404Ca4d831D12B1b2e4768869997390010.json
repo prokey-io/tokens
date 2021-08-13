@@ -1,0 +1,34 @@
+{
+  "symbol": "DRUGS",
+  "address": "0x339550404Ca4d831D12B1b2e4768869997390010",
+  "decimals": 18,
+  "name": "DRUGSv2",
+  "ens_address": "",
+  "website": "https://traphouse.vip/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

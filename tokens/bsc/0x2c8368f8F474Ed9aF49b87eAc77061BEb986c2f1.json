@@ -1,0 +1,34 @@
+{
+  "symbol": "LEOS",
+  "address": "0x2c8368f8F474Ed9aF49b87eAc77061BEb986c2f1",
+  "decimals": 8,
+  "name": "LeonicornSwap",
+  "ens_address": "",
+  "website": "https://leonicornswap.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

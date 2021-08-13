@@ -1,0 +1,34 @@
+{
+  "symbol": "MBS",
+  "address": "0xe361344013cC906c56bbA111bDE00C421852c73b",
+  "decimals": 9,
+  "name": "MOONBOYS FINANCE",
+  "ens_address": "",
+  "website": "https://moonboys.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

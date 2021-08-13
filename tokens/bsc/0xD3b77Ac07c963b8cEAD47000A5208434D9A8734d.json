@@ -1,0 +1,34 @@
+{
+  "symbol": "TREES",
+  "address": "0xD3b77Ac07c963b8cEAD47000A5208434D9A8734d",
+  "decimals": 9,
+  "name": "SAFETREES",
+  "ens_address": "",
+  "website": "https://safetrees.space",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

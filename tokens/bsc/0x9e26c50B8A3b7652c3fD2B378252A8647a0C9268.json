@@ -1,0 +1,34 @@
+{
+  "symbol": "WOOF",
+  "address": "0x9e26c50B8A3b7652c3fD2B378252A8647a0C9268",
+  "decimals": 18,
+  "name": "Shibance Token",
+  "ens_address": "",
+  "website": "https://shibance.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

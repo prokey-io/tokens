@@ -1,0 +1,34 @@
+{
+  "symbol": "THANOS",
+  "address": "0x295F2122EbfCC5c38b4Bd33879A37348195b61fb",
+  "decimals": 9,
+  "name": "Thanos Token",
+  "ens_address": "",
+  "website": "https://thanostoken.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

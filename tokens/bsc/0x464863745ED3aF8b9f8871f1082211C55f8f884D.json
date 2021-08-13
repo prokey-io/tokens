@@ -1,0 +1,34 @@
+{
+  "symbol": "CTT",
+  "address": "0x464863745ED3aF8b9f8871f1082211C55f8f884D",
+  "decimals": 18,
+  "name": "CryptoTycoon Token",
+  "ens_address": "",
+  "website": "http://cryptotycoon.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

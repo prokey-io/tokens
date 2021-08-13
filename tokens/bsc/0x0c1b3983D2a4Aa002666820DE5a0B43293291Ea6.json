@@ -1,0 +1,34 @@
+{
+  "symbol": "PEPE",
+  "address": "0x0c1b3983D2a4Aa002666820DE5a0B43293291Ea6",
+  "decimals": 9,
+  "name": "PEPE Community",
+  "ens_address": "",
+  "website": "https://www.pepe.community",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "TPAD",
+  "address": "0xADCFC6bf853a0a8ad7f9Ff4244140D10cf01363C",
+  "decimals": 9,
+  "name": "TrustPad",
+  "ens_address": "",
+  "website": "https://trustpad.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

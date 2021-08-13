@@ -1,0 +1,34 @@
+{
+  "symbol": "SHON",
+  "address": "0x0b34D4A7C5BFc7004b9a193F8309523E99ca766e",
+  "decimals": 18,
+  "name": "ShonToken",
+  "ens_address": "",
+  "website": "https://shontoken.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

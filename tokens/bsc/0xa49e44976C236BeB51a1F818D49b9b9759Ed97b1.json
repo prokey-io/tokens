@@ -1,0 +1,34 @@
+{
+  "symbol": "ARAP",
+  "address": "0xa49e44976C236BeB51a1F818D49b9b9759Ed97b1",
+  "decimals": 9,
+  "name": "AraPlanet",
+  "ens_address": "",
+  "website": "https://www.araplanet.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

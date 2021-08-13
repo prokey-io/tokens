@@ -1,0 +1,34 @@
+{
+  "symbol": "ElonX",
+  "address": "0xAa7E7C03C6864ccA116D34EC5B7103b030dE5262",
+  "decimals": 0,
+  "name": "ElonXCoin",
+  "ens_address": "",
+  "website": "https://elonxcoinbsc.space",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

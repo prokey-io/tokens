@@ -1,0 +1,34 @@
+{
+  "symbol": "sBDO",
+  "address": "0x0d9319565be7f53CeFE84Ad201Be3f40feAE2740",
+  "decimals": 18,
+  "name": "bDollar Share",
+  "ens_address": "",
+  "website": "https://bdollar.fi",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

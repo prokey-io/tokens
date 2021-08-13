@@ -1,0 +1,34 @@
+{
+  "symbol": "NERO",
+  "address": "0x6E0fB6B19941FAf58982F09b33A9dceDa4377155",
+  "decimals": 0,
+  "name": "Nero Finance",
+  "ens_address": "",
+  "website": "https://nero.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

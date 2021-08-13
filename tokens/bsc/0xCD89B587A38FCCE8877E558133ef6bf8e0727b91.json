@@ -1,0 +1,34 @@
+{
+  "symbol": "AIBOT",
+  "address": "0xCD89B587A38FCCE8877E558133ef6bf8e0727b91",
+  "decimals": 18,
+  "name": "HighTechAIBot Token",
+  "ens_address": "",
+  "website": "https://htaibot.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

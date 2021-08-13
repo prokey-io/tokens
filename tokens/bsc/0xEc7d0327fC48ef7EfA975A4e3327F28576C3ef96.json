@@ -1,0 +1,34 @@
+{
+  "symbol": "MPF",
+  "address": "0xEc7d0327fC48ef7EfA975A4e3327F28576C3ef96",
+  "decimals": 0,
+  "name": "Moon Protocol",
+  "ens_address": "",
+  "website": "https://moonprotocol.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "$DANCE",
+  "address": "0x0586933D1aA2fA2E732d23C3C229e6151aC6C0d4",
+  "decimals": 18,
+  "name": "SafeDancer",
+  "ens_address": "",
+  "website": "https://safedancer.net/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

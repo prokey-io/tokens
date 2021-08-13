@@ -1,0 +1,34 @@
+{
+  "symbol": "ANTF",
+  "address": "0xf00598af0CCf2D43613414F36f40123337f56E71",
+  "decimals": 18,
+  "name": "Ants.Finance",
+  "ens_address": "",
+  "website": "https://www.ants.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

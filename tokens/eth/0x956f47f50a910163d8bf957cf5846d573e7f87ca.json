@@ -1,0 +1,34 @@
+{
+  "symbol": "FEI",
+  "address": "0x956f47f50a910163d8bf957cf5846d573e7f87ca",
+  "decimals": 18,
+  "name": "Fei Protocol",
+  "ens_address": "",
+  "website": "https://fei.money/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14570/large/ZqsF51Re_400x400.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.com/invite/2prhYdQ5jP",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/feiprotocol",
+    "twitter": "feiprotocol",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "KITTY",
+  "address": "0x5b4963B964bAc5C2Db83e53ffFe46E0cb83a1346",
+  "decimals": 18,
+  "name": "Kitty Token",
+  "ens_address": "",
+  "website": "https://kittytoken.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

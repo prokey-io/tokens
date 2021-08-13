@@ -1,0 +1,34 @@
+{
+  "symbol": "ODDZ",
+  "address": "0xCD40F2670CF58720b694968698A5514e924F742d",
+  "decimals": 18,
+  "name": "OddzToken",
+  "ens_address": "",
+  "website": "https://oddz.fi/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "R$C",
+  "address": "0x9641C1eee00471f7dA822167F6CF77202356179a",
+  "decimals": 9,
+  "name": "Rhyme$ick Coin",
+  "ens_address": "",
+  "website": "https://www.rhymesickco.in/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

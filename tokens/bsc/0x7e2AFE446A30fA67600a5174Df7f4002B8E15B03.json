@@ -1,0 +1,34 @@
+{
+  "symbol": "ORME",
+  "address": "0x7e2AFE446A30fA67600a5174Df7f4002B8E15B03",
+  "decimals": 18,
+  "name": "Ormeus Coin",
+  "ens_address": "",
+  "website": "https://ormeuscoin.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "ELON",
+  "address": "0xd29EaCE1FcFF9e9252B4A54f5Cbe858ceeFE959c",
+  "decimals": 18,
+  "name": "Dogelon Moon",
+  "ens_address": "",
+  "website": "https://dogelonmoon.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "fADA",
+  "address": "0xB723F6dCE74BbdE8f19ac882e539C1C53fDb888B",
+  "decimals": 18,
+  "name": "FEG Wrapped ADA",
+  "ens_address": "",
+  "website": "https://fegtoken.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "WMASS",
+  "address": "0x7e396BfC8a2f84748701167c2d622F041A1D7a17",
+  "decimals": 8,
+  "name": "WMASS Token",
+  "ens_address": "",
+  "website": "https://wmass.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

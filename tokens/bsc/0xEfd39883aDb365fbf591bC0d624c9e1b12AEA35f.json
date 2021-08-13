@@ -1,0 +1,34 @@
+{
+  "symbol": "DINK",
+  "address": "0xEfd39883aDb365fbf591bC0d624c9e1b12AEA35f",
+  "decimals": 9,
+  "name": "DinkDoink",
+  "ens_address": "",
+  "website": "https://dinkdoink.net",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

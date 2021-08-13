@@ -1,0 +1,34 @@
+{
+  "symbol": "TCT",
+  "address": "0xCA0a9Df6a8cAD800046C1DDc5755810718b65C44",
+  "decimals": 18,
+  "name": "TokenClub",
+  "ens_address": "",
+  "website": "http://www.tokenclub.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

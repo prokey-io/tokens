@@ -1,0 +1,34 @@
+{
+  "symbol": "XGT",
+  "address": "0xC25AF3123d2420054c8fcd144c21113aa2853F39",
+  "decimals": 18,
+  "name": "Xion Global Token",
+  "ens_address": "",
+  "website": "https://xion.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

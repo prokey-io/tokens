@@ -1,0 +1,34 @@
+{
+  "symbol": "LEM",
+  "address": "0xc35f46aAEb8aD17bCbAa78c03540FEffa44790Cb",
+  "decimals": 9,
+  "name": "Lemur Finance",
+  "ens_address": "",
+  "website": "https://lemur.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

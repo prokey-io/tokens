@@ -1,0 +1,34 @@
+{
+  "symbol": "FootballStars",
+  "address": "0x6507458BB53aec6Be863161641ec28739C41cC97",
+  "decimals": 18,
+  "name": "FootballStars",
+  "ens_address": "",
+  "website": "https://footballstars.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

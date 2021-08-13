@@ -1,0 +1,34 @@
+{
+  "symbol": "SAFEICARUS",
+  "address": "0xD2f9B51C6a1b5598f0ea51eF95d70cB045692D0F",
+  "decimals": 9,
+  "name": "Safeicarus",
+  "ens_address": "",
+  "website": "https://www.safeicarus.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

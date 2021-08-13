@@ -1,0 +1,34 @@
+{
+  "symbol": "XSUSHI",
+  "address": "0x8798249c2e607446efb7ad49ec89dd1865ff4272",
+  "decimals": 18,
+  "name": "xSUSHI",
+  "ens_address": "",
+  "website": "https://www.sushiswap.fi/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13725/large/xsushi.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.gg/MsVBwEc",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "sushiswap",
+    "youtube": ""
+  }
+}

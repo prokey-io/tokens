@@ -1,0 +1,34 @@
+{
+  "symbol": "MNTG",
+  "address": "0xE440b9af0AE99174b3FAaB87174E31634D135f6d",
+  "decimals": 18,
+  "name": "MONETAS",
+  "ens_address": "",
+  "website": "https://monetasglobal.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

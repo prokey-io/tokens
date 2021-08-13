@@ -1,0 +1,34 @@
+{
+  "symbol": "WHALE",
+  "address": "0x587C16b84c64751760f6e3e7e32F896634704352",
+  "decimals": 9,
+  "name": "WhaleFall",
+  "ens_address": "",
+  "website": "http://whalefall-defi.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "XCELL",
+  "address": "0x47d3093210031664Ec8d0Ce29E3dcb616BaA4E1A",
+  "decimals": 18,
+  "name": "XCell Finance",
+  "ens_address": "",
+  "website": "https://xcellfinance.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

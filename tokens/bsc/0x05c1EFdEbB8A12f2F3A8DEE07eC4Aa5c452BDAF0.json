@@ -1,0 +1,34 @@
+{
+  "symbol": "fCAKE",
+  "address": "0x05c1EFdEbB8A12f2F3A8DEE07eC4Aa5c452BDAF0",
+  "decimals": 18,
+  "name": "FEG Wrapped CAKE",
+  "ens_address": "",
+  "website": "https://fegtoken.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

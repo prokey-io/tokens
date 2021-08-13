@@ -1,0 +1,34 @@
+{
+  "symbol": "ICE",
+  "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
+  "decimals": 18,
+  "name": "IceToken",
+  "ens_address": "",
+  "website": "https://popsicle.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

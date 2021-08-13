@@ -1,0 +1,34 @@
+{
+  "symbol": "DOGOWN",
+  "address": "0xfa5DbE839C674C5a8A74dB57eE661fadE60bbf58",
+  "decimals": 18,
+  "name": "Dog Owner",
+  "ens_address": "",
+  "website": "https://www.dogownertoken.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "AquaPig",
+  "address": "0xCE393C06594A5D91210Fd4f157Cd8F6D86006D57",
+  "decimals": 9,
+  "name": "Aqua Pig",
+  "ens_address": "",
+  "website": "https://www.aquapig.space/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

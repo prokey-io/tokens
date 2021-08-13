@@ -1,0 +1,34 @@
+{
+  "symbol": "ONE",
+  "address": "0x03fF0ff224f904be3118461335064bB48Df47938",
+  "decimals": 18,
+  "name": "Harmony.One",
+  "ens_address": "",
+  "website": "https://harmony.one/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

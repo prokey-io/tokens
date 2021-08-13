@@ -1,0 +1,34 @@
+{
+  "symbol": "VRAP",
+  "address": "0x271C418B045d05A1D52c6bF849d47b5B5B4d769e",
+  "decimals": 18,
+  "name": "Veraswap Protocol",
+  "ens_address": "",
+  "website": "https://veraswap.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

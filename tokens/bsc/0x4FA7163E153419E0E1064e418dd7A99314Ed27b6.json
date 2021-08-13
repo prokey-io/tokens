@@ -1,0 +1,34 @@
+{
+  "symbol": "HOTCROSS",
+  "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+  "decimals": 18,
+  "name": "Hot Cross Token",
+  "ens_address": "",
+  "website": "https://hotcross.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

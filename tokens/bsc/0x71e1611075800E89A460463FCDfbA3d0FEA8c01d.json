@@ -1,0 +1,34 @@
+{
+  "symbol": "ATYNE",
+  "address": "0x71e1611075800E89A460463FCDfbA3d0FEA8c01d",
+  "decimals": 9,
+  "name": "Aerotyne",
+  "ens_address": "",
+  "website": "https://aerotynetoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

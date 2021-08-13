@@ -1,0 +1,34 @@
+{
+  "symbol": "WILLIE",
+  "address": "0x27327672D1dc51F4Dc58c9F413E1FA7e7ad8245e",
+  "decimals": 9,
+  "name": "Willie Coin",
+  "ens_address": "",
+  "website": "https://www.williecoin.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

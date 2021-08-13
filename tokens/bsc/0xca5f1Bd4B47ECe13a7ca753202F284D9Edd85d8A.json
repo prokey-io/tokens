@@ -1,0 +1,34 @@
+{
+  "symbol": "$BOOB",
+  "address": "0xca5f1Bd4B47ECe13a7ca753202F284D9Edd85d8A",
+  "decimals": 9,
+  "name": "Big Oily Orange Boob",
+  "ens_address": "",
+  "website": "https://coinboob.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

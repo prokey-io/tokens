@@ -1,0 +1,34 @@
+{
+  "symbol": "KISHUBABY",
+  "address": "0x97Ad911101d4285a13A3240Ee35618edC511A435",
+  "decimals": 9,
+  "name": "Kishu Baby",
+  "ens_address": "",
+  "website": "https://kishu.baby/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

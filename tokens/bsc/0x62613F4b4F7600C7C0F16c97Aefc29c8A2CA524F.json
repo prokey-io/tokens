@@ -1,0 +1,34 @@
+{
+  "symbol": "GAP",
+  "address": "0x62613F4b4F7600C7C0F16c97Aefc29c8A2CA524F",
+  "decimals": 9,
+  "name": "Global Adversity Project",
+  "ens_address": "",
+  "website": "http://www.globaladversity.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

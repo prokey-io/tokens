@@ -1,0 +1,34 @@
+{
+  "symbol": "NBTC",
+  "address": "0xBE878cffB39A347A70809b5D98B65Dd85De2e37B",
+  "decimals": 9,
+  "name": "NewBTC",
+  "ens_address": "",
+  "website": "https://www.newbtc.one/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "SHIBSC",
+  "address": "0xdF0816CC717216c8B0863aF8d4f0fC20Bc65d643",
+  "decimals": 18,
+  "name": "SHIBA BSC",
+  "ens_address": "",
+  "website": "https://shibsc.com/#/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

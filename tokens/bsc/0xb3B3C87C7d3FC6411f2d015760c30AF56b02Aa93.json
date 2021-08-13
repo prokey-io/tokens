@@ -1,0 +1,34 @@
+{
+  "symbol": "Sr",
+  "address": "0xb3B3C87C7d3FC6411f2d015760c30AF56b02Aa93",
+  "decimals": 18,
+  "name": "SKYrocket",
+  "ens_address": "",
+  "website": "https://skyrocketsr.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

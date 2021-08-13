@@ -1,0 +1,34 @@
+{
+  "symbol": "SOLDIER",
+  "address": "0x2921872530F53eb8E6fC388676B141EF41Ee2d4e",
+  "decimals": 9,
+  "name": "Space Soldier",
+  "ens_address": "",
+  "website": "https://www.spacesoldier.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

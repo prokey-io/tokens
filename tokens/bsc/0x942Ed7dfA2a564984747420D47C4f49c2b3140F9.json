@@ -1,0 +1,34 @@
+{
+  "symbol": "DLF",
+  "address": "0x942Ed7dfA2a564984747420D47C4f49c2b3140F9",
+  "decimals": 18,
+  "name": "Dollar Future",
+  "ens_address": "",
+  "website": "https://www.dollarfuture.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

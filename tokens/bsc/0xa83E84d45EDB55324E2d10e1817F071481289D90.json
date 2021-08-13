@@ -1,0 +1,34 @@
+{
+  "symbol": "CRH",
+  "address": "0xa83E84d45EDB55324E2d10e1817F071481289D90",
+  "decimals": 18,
+  "name": "Cranch",
+  "ens_address": "",
+  "website": "https://cranch.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

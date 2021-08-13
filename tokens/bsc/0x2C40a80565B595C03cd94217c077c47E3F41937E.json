@@ -1,0 +1,34 @@
+{
+  "symbol": "IRONY",
+  "address": "0x2C40a80565B595C03cd94217c077c47E3F41937E",
+  "decimals": 9,
+  "name": "IronyMan",
+  "ens_address": "",
+  "website": "http://www.bscironyman.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

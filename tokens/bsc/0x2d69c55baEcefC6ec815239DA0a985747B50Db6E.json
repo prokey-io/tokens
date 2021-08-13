@@ -1,0 +1,34 @@
+{
+  "symbol": "TFF",
+  "address": "0x2d69c55baEcefC6ec815239DA0a985747B50Db6E",
+  "decimals": 18,
+  "name": "Tutti Frutti",
+  "ens_address": "",
+  "website": "https://tuttifrutti.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

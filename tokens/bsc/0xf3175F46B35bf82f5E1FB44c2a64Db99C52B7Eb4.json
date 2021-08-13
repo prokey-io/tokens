@@ -1,0 +1,34 @@
+{
+  "symbol": "MDG",
+  "address": "0xf3175F46B35bf82f5E1FB44c2a64Db99C52B7Eb4",
+  "decimals": 9,
+  "name": "MoonDawg",
+  "ens_address": "",
+  "website": "https://moondawgcoin.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

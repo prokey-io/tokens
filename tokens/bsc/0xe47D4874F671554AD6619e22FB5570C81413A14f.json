@@ -1,0 +1,34 @@
+{
+  "symbol": "ELONMARS",
+  "address": "0xe47D4874F671554AD6619e22FB5570C81413A14f",
+  "decimals": 18,
+  "name": "ELON MARS",
+  "ens_address": "",
+  "website": "https://elonmars.info",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "PANDA",
+  "address": "0x8578Eb576e126f67913a8bC0622e0A22EBa0989A",
+  "decimals": 9,
+  "name": "HashPanda",
+  "ens_address": "",
+  "website": "https://hashpanda.co",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

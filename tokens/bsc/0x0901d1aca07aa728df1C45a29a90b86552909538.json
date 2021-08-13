@@ -1,0 +1,34 @@
+{
+  "symbol": "ETHSV",
+  "address": "0x0901d1aca07aa728df1C45a29a90b86552909538",
+  "decimals": 0,
+  "name": "Ethereum SV",
+  "ens_address": "",
+  "website": "https://ethereumsv.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "SFN",
+  "address": "0xdCA8a5bb74Ec9536D13511C51f6A68821Bf6a1a6",
+  "decimals": 8,
+  "name": "Strains Finance",
+  "ens_address": "",
+  "website": "https://strains.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

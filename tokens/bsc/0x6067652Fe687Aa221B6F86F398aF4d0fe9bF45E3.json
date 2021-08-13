@@ -1,0 +1,34 @@
+{
+  "symbol": "Vain",
+  "address": "0x6067652Fe687Aa221B6F86F398aF4d0fe9bF45E3",
+  "decimals": 9,
+  "name": "Vain",
+  "ens_address": "",
+  "website": "https://vaintoken.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "UST",
+  "address": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+  "decimals": 18,
+  "name": "TerraUSD",
+  "ens_address": "",
+  "website": "https://terra.money",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12681/large/UST.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.gg/seZ9BUa",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/terra-project",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "terra_money",
+    "youtube": ""
+  }
+}

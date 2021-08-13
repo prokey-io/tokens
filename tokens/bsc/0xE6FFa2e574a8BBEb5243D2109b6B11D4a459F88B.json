@@ -1,0 +1,34 @@
+{
+  "symbol": "HIP",
+  "address": "0xE6FFa2e574a8BBEb5243D2109b6B11D4a459F88B",
+  "decimals": 18,
+  "name": "Hippo Token",
+  "ens_address": "",
+  "website": "https://hippo.cycan.network/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

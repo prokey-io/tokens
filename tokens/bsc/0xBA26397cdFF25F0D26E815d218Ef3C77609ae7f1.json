@@ -1,0 +1,34 @@
+{
+  "symbol": "LYPTUS",
+  "address": "0xBA26397cdFF25F0D26E815d218Ef3C77609ae7f1",
+  "decimals": 18,
+  "name": "LYPTUS Token",
+  "ens_address": "",
+  "website": "https://koaladefi.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

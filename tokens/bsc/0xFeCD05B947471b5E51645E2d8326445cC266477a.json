@@ -1,0 +1,34 @@
+{
+  "symbol": "SAFEWIN",
+  "address": "0xFeCD05B947471b5E51645E2d8326445cC266477a",
+  "decimals": 9,
+  "name": "SafeWin",
+  "ens_address": "",
+  "website": "https://safewin.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

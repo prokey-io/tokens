@@ -1,0 +1,34 @@
+{
+  "symbol": "HORA",
+  "address": "0xA6Fd7B5C9eee30309B00B65436a284e2053251e5",
+  "decimals": 18,
+  "name": "HORA OS",
+  "ens_address": "",
+  "website": "https://horaos.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

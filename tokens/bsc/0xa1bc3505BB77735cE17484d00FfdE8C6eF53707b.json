@@ -1,0 +1,34 @@
+{
+  "symbol": "STORY",
+  "address": "0xa1bc3505BB77735cE17484d00FfdE8C6eF53707b",
+  "decimals": 9,
+  "name": "Story",
+  "ens_address": "",
+  "website": "https://storytoken.app",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "SafeBANK",
+  "address": "0x2aB90FBb649bA3DDD4269764eb2975d8F32b7b5a",
+  "decimals": 18,
+  "name": "SafeBank YES",
+  "ens_address": "",
+  "website": "https://safebank.app",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

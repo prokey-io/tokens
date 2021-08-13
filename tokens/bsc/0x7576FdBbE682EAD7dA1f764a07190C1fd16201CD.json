@@ -1,0 +1,34 @@
+{
+  "symbol": "CatInu",
+  "address": "0x7576FdBbE682EAD7dA1f764a07190C1fd16201CD",
+  "decimals": 9,
+  "name": "CatInu",
+  "ens_address": "",
+  "website": "https://catinu.net",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

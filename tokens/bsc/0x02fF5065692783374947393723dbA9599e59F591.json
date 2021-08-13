@@ -1,0 +1,34 @@
+{
+  "symbol": "YOOSHI",
+  "address": "0x02fF5065692783374947393723dbA9599e59F591",
+  "decimals": 9,
+  "name": "YOOSHI Token",
+  "ens_address": "",
+  "website": "https://yooshi.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

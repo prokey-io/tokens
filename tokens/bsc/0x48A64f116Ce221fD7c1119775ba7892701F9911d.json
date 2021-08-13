@@ -1,0 +1,34 @@
+{
+  "symbol": "GEMS",
+  "address": "0x48A64f116Ce221fD7c1119775ba7892701F9911d",
+  "decimals": 9,
+  "name": "GemSpree",
+  "ens_address": "",
+  "website": "https://gemspree.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "SAFETESLA",
+  "address": "0xA1efCe38CB265Af369e891bC3026d0285545D4E5",
+  "decimals": 9,
+  "name": "Safetesla",
+  "ens_address": "",
+  "website": "https://www.safetesla.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

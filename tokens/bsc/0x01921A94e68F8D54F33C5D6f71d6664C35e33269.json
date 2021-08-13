@@ -1,0 +1,34 @@
+{
+  "symbol": "DEEZNUTS",
+  "address": "0x01921A94e68F8D54F33C5D6f71d6664C35e33269",
+  "decimals": 18,
+  "name": "Deez Nuts",
+  "ens_address": "",
+  "website": "https://www.deeznutscoin.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

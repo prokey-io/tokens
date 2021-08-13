@@ -1,0 +1,34 @@
+{
+  "symbol": "GOLD",
+  "address": "0x8f4087Cb09E0F378f4278a314C94A636665dE24b",
+  "decimals": 18,
+  "name": "NAR Ticket Token (GOLD)",
+  "ens_address": "",
+  "website": "https://narwhalswap.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

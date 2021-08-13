@@ -1,0 +1,34 @@
+{
+  "symbol": "RYOSHI",
+  "address": "0x0E5f989ce525acC4ee45506AF91964F7f4C9f2e9",
+  "decimals": 9,
+  "name": "RYOSHI TOKEN",
+  "ens_address": "",
+  "website": "https://www.ryoshitoken.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

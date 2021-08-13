@@ -1,0 +1,34 @@
+{
+  "symbol": "NWC",
+  "address": "0x968F6f898a6Df937fC1859b323aC2F14643e3fED",
+  "decimals": 18,
+  "name": "Newscrypto",
+  "ens_address": "",
+  "website": "https://newscrypto.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

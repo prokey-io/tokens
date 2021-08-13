@@ -1,0 +1,34 @@
+{
+  "symbol": "IBEX",
+  "address": "0xe2F710fbE35D0305D8bD009Be2d473A88EF82E64",
+  "decimals": 9,
+  "name": "IBEX Coin",
+  "ens_address": "",
+  "website": "https://ibexcoin.net",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

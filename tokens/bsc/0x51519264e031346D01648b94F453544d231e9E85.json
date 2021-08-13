@@ -1,0 +1,34 @@
+{
+  "symbol": "TDOGE",
+  "address": "0x51519264e031346D01648b94F453544d231e9E85",
+  "decimals": 6,
+  "name": "TSLADOGE",
+  "ens_address": "",
+  "website": "https://tsladoge.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

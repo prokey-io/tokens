@@ -1,0 +1,34 @@
+{
+  "symbol": "STAKD",
+  "address": "0xFfB3eDd21be33d5e78C9e0C2A275b3Fd42670D67",
+  "decimals": 18,
+  "name": "STAKD Finance (STAKD)",
+  "ens_address": "",
+  "website": "https://stakd.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

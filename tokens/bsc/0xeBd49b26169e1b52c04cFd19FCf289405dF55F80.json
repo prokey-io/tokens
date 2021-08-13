@@ -1,0 +1,34 @@
+{
+  "symbol": "ORBS",
+  "address": "0xeBd49b26169e1b52c04cFd19FCf289405dF55F80",
+  "decimals": 18,
+  "name": "Orbs",
+  "ens_address": "",
+  "website": "https://www.orbs.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

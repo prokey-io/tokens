@@ -1,0 +1,34 @@
+{
+  "symbol": "MEMES",
+  "address": "0x40B165Fd5dDc75ad0bDDc9ADd0adAbff5431a975",
+  "decimals": 9,
+  "name": "Memes Token",
+  "ens_address": "",
+  "website": "https://memestoken.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

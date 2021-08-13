@@ -1,0 +1,34 @@
+{
+  "symbol": "GRIMEX",
+  "address": "0x89671544190eE39E469C8393009875dF6565457a",
+  "decimals": 18,
+  "name": "SpaceGrime",
+  "ens_address": "",
+  "website": "https://spacegrime.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

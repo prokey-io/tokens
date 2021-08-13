@@ -1,0 +1,34 @@
+{
+  "symbol": "LEAD",
+  "address": "0x2ed9e96EDd11A1fF5163599A66fb6f1C77FA9C66",
+  "decimals": 18,
+  "name": "Lead Token",
+  "ens_address": "",
+  "website": "https://leadwallet.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

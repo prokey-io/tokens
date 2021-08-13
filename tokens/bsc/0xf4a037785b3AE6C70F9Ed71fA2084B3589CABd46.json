@@ -1,0 +1,34 @@
+{
+  "symbol": "MEMEX",
+  "address": "0xf4a037785b3AE6C70F9Ed71fA2084B3589CABd46",
+  "decimals": 8,
+  "name": "MEMEX.EXCHANGE",
+  "ens_address": "",
+  "website": "https://memex.exchange",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

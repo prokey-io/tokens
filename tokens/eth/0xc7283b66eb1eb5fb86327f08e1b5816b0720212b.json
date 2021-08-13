@@ -1,0 +1,34 @@
+{
+  "symbol": "TRIBE",
+  "address": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b",
+  "decimals": 18,
+  "name": "Tribe",
+  "ens_address": "",
+  "website": "https://fei.money/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/14575/large/tribe.PNG",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.com/invite/2prhYdQ5jP",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/fei-protocol/fei-protocol-core",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/feiprotocol",
+    "twitter": "feiprotocol",
+    "youtube": ""
+  }
+}

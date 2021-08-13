@@ -1,0 +1,34 @@
+{
+  "symbol": "FEED",
+  "address": "0xB1731E5e035CB039298159EcB191cB3fe666Dd0e",
+  "decimals": 9,
+  "name": "FEED Token",
+  "ens_address": "",
+  "website": "https://feedtoken.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

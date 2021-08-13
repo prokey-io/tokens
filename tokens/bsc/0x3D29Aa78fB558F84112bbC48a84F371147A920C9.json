@@ -1,0 +1,34 @@
+{
+  "symbol": "DOGEFATHER",
+  "address": "0x3D29Aa78fB558F84112bbC48a84F371147A920C9",
+  "decimals": 9,
+  "name": "Dogefather",
+  "ens_address": "",
+  "website": "https://dogefather.space/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

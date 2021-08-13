@@ -1,0 +1,34 @@
+{
+  "symbol": "COCO",
+  "address": "0xFd431CB76965cF80c6FCec011a273B46df23EB04",
+  "decimals": 18,
+  "name": "Cocopad",
+  "ens_address": "",
+  "website": "http://cocopad.co/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "LED",
+  "address": "0x041a36b015486941ce8d5f2c7ff2e88f97390640",
+  "decimals": 4,
+  "name": "Ledgis",
+  "ens_address": "",
+  "website": "https://www.ledgis.io/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/16796/large/logo_icon.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "LEDGIS_official",
+    "youtube": ""
+  }
+}

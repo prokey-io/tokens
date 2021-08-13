@@ -1,0 +1,34 @@
+{
+  "symbol": "OXT",
+  "address": "0xAd6172123E1Bd3B4ce0B01ef92fDD63E83590b99",
+  "decimals": 18,
+  "name": "OxSwapToken",
+  "ens_address": "",
+  "website": "https://oxswap.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

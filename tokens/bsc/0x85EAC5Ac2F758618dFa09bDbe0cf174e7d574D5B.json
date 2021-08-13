@@ -1,0 +1,34 @@
+{
+  "symbol": "TRX",
+  "address": "0x85EAC5Ac2F758618dFa09bDbe0cf174e7d574D5B",
+  "decimals": 18,
+  "name": "TRON",
+  "ens_address": "",
+  "website": "https://tron.network/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

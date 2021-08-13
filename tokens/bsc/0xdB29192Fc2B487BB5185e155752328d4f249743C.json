@@ -1,0 +1,34 @@
+{
+  "symbol": "UNFT",
+  "address": "0xdB29192Fc2B487BB5185e155752328d4f249743C",
+  "decimals": 9,
+  "name": "Ultra NFT",
+  "ens_address": "",
+  "website": "https://ultranft.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

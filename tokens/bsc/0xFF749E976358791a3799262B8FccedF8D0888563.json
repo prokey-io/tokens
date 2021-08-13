@@ -1,0 +1,34 @@
+{
+  "symbol": "SPN",
+  "address": "0xFF749E976358791a3799262B8FccedF8D0888563",
+  "decimals": 18,
+  "name": "Shopaneum",
+  "ens_address": "",
+  "website": "https://shopaneum.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

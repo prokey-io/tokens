@@ -1,0 +1,34 @@
+{
+  "symbol": "SAYAN",
+  "address": "0x127CF9704DDFcf0e9eC1Dc20f11877731D18ac34",
+  "decimals": 9,
+  "name": "Saiyan Inu",
+  "ens_address": "",
+  "website": "https://saiyaninu.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "mBTC",
+  "address": "0xe77011ed703ed06927dBd78e60c549baBAbF913e",
+  "decimals": 18,
+  "name": "Micro Bitcoin",
+  "ens_address": "",
+  "website": "https://mbitcoin.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

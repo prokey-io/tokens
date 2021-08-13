@@ -1,0 +1,34 @@
+{
+  "symbol": "JNTR/b",
+  "address": "0x78e1936f065Fd4082387622878C7d11c9f05ECF4",
+  "decimals": 18,
+  "name": "Jointer",
+  "ens_address": "",
+  "website": "https://jointer.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

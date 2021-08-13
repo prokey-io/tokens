@@ -1,0 +1,34 @@
+{
+  "symbol": "GAPT",
+  "address": "0x63a4644142CA6dc83CfE0E2bdba8d62174491fD8",
+  "decimals": 9,
+  "name": "GAPTT",
+  "ens_address": "",
+  "website": "https://gapt.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "Save",
+  "address": "0x159802FBE16Aa6a0863a56a18DD41Afce546c93E",
+  "decimals": 9,
+  "name": "Savetheworld",
+  "ens_address": "",
+  "website": "https://savetheworld.health/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

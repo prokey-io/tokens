@@ -1,0 +1,34 @@
+{
+  "symbol": "DOGS",
+  "address": "0x8869eac0D82245A2df50a0FAD770D72CE63649d1",
+  "decimals": 18,
+  "name": "Doggy Swap",
+  "ens_address": "",
+  "website": "https://doggyswap.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

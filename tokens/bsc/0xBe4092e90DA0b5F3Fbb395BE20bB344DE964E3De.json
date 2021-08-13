@@ -1,0 +1,34 @@
+{
+  "symbol": "SEPHI",
+  "address": "0xBe4092e90DA0b5F3Fbb395BE20bB344DE964E3De",
+  "decimals": 9,
+  "name": "Sephiroth Inu",
+  "ens_address": "",
+  "website": "https://www.sephirothinu.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "STETH",
+  "address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+  "decimals": 18,
+  "name": "Lido Staked Ether",
+  "ens_address": "",
+  "website": "https://www.lido.fi",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/13442/large/steth_logo.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.com/invite/vgdPfhZ",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/lidofinance",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/lidofinance/",
+    "slack": "",
+    "telegram": "https://t.me/lidofinance",
+    "twitter": "lidofinance",
+    "youtube": ""
+  }
+}

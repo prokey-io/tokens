@@ -1,0 +1,34 @@
+{
+  "symbol": "MGP",
+  "address": "0x57bEa4F720F755150f6b773c13bC78c09ac85740",
+  "decimals": 18,
+  "name": "Micro Gaming Protocol",
+  "ens_address": "",
+  "website": "https://microoo-gaming-protocol.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

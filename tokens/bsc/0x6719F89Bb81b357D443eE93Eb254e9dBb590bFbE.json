@@ -1,0 +1,34 @@
+{
+  "symbol": "BURN",
+  "address": "0x6719F89Bb81b357D443eE93Eb254e9dBb590bFbE",
+  "decimals": 9,
+  "name": "BurnCoin",
+  "ens_address": "",
+  "website": "https://theburncoin.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

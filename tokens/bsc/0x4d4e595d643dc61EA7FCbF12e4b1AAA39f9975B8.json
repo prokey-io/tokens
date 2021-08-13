@@ -1,0 +1,34 @@
+{
+  "symbol": "PET",
+  "address": "0x4d4e595d643dc61EA7FCbF12e4b1AAA39f9975B8",
+  "decimals": 18,
+  "name": "Pet",
+  "ens_address": "",
+  "website": "http://battlepets.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

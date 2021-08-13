@@ -1,0 +1,34 @@
+{
+  "symbol": "CRDL",
+  "address": "0xa7e1E5019088c7B452C9E8BD6c3e0fA7a95478A8",
+  "decimals": 18,
+  "name": "Crocodile Coin",
+  "ens_address": "",
+  "website": "https://crocodilecoin.xyz",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

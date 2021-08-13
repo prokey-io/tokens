@@ -1,0 +1,34 @@
+{
+  "symbol": "DHOLD",
+  "address": "0xeE8feAeE52CE378BA356A5772BBa29d08AF25cdB",
+  "decimals": 9,
+  "name": "DiamondHold",
+  "ens_address": "",
+  "website": "https://diamondhold.net/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

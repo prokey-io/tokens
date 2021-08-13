@@ -1,0 +1,34 @@
+{
+  "symbol": "AER",
+  "address": "0x1a6C2c3c52cd3CC21DB2b8f2B331ca9c4780F1Ee",
+  "decimals": 18,
+  "name": "AERDROP",
+  "ens_address": "",
+  "website": "https://www.aerdrop.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

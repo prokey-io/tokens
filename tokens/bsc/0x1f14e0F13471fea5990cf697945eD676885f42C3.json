@@ -1,0 +1,34 @@
+{
+  "symbol": "HERPES",
+  "address": "0x1f14e0F13471fea5990cf697945eD676885f42C3",
+  "decimals": 9,
+  "name": "Herpes",
+  "ens_address": "",
+  "website": "https://herpes.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

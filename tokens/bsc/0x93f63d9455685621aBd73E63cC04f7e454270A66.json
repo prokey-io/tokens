@@ -1,0 +1,34 @@
+{
+  "symbol": "$WNTR",
+  "address": "0x93f63d9455685621aBd73E63cC04f7e454270A66",
+  "decimals": 18,
+  "name": "Weentar",
+  "ens_address": "",
+  "website": "https://weentar.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

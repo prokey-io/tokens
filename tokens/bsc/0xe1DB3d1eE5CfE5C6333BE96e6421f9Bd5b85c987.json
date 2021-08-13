@@ -1,0 +1,34 @@
+{
+  "symbol": "SAFESPACE",
+  "address": "0xe1DB3d1eE5CfE5C6333BE96e6421f9Bd5b85c987",
+  "decimals": 9,
+  "name": "SAFESPACE",
+  "ens_address": "",
+  "website": "https://safespacecrypto.net/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

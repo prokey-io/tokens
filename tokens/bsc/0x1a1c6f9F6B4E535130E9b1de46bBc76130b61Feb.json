@@ -1,0 +1,34 @@
+{
+  "symbol": "GOLDUCK",
+  "address": "0x1a1c6f9F6B4E535130E9b1de46bBc76130b61Feb",
+  "decimals": 9,
+  "name": "Golden Duck",
+  "ens_address": "",
+  "website": "https://golduck.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

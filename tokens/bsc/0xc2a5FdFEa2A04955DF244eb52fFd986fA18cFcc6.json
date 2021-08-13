@@ -1,0 +1,34 @@
+{
+  "symbol": "Panda",
+  "address": "0xc2a5FdFEa2A04955DF244eb52fFd986fA18cFcc6",
+  "decimals": 0,
+  "name": "Panda Chain",
+  "ens_address": "",
+  "website": "http://pandachain.xyz/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

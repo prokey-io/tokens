@@ -1,0 +1,34 @@
+{
+  "symbol": "APE-LP",
+  "address": "0x7Bd46f6Da97312AC2DBD1749f82E202764C0B914",
+  "decimals": 18,
+  "name": "Ape Swap LP BUSD-BANANA",
+  "ens_address": "",
+  "website": "https://apeswap.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

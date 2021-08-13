@@ -1,0 +1,34 @@
+{
+  "symbol": "XSPACE",
+  "address": "0xAD90c05BC51672eEdfeE36E58b3ff1A78bbC146d",
+  "decimals": 9,
+  "name": "XSPACE FINANCE",
+  "ens_address": "",
+  "website": "https://xspace.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "CHZ006",
+  "address": "0x706954491EBFD6b38e5B1e6F079dBEfae0F5EBa0",
+  "decimals": 8,
+  "name": "Charizard Token",
+  "ens_address": "",
+  "website": "https://charizardtoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

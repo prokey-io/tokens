@@ -1,0 +1,34 @@
+{
+  "symbol": "GCAT",
+  "address": "0x5AdDc86A95A85Ec1D7764f0B6dEA6c566161D69c",
+  "decimals": 18,
+  "name": "GingerCat",
+  "ens_address": "",
+  "website": "https://gingercat.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "FSXU",
+  "address": "0xa94b7a842aADB617a0B08fA744e033C6De2f7595",
+  "decimals": 8,
+  "name": "FlashX Ultra",
+  "ens_address": "",
+  "website": "https://www.flashxultra.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

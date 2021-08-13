@@ -1,0 +1,34 @@
+{
+  "symbol": "4STC",
+  "address": "0x8a4840dc5975E424EC530ec88a8f27910a3CEF51",
+  "decimals": 18,
+  "name": "4-Stock",
+  "ens_address": "",
+  "website": "https://www.4-soft.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

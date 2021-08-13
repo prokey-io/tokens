@@ -1,0 +1,34 @@
+{
+  "symbol": "MARS",
+  "address": "0xF1A71bcCe29b598d812a30BaedFf860a7Dce0aff",
+  "decimals": 18,
+  "name": "Mars - Climb Token Finance ",
+  "ens_address": "",
+  "website": "https://www.climbtoken.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

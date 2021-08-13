@@ -1,0 +1,34 @@
+{
+  "symbol": "DADDYFEG",
+  "address": "0xf869076283148054Ce4634677b3bb832320463AA",
+  "decimals": 9,
+  "name": "DADDY FEG",
+  "ens_address": "",
+  "website": "https://daddyfeg.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

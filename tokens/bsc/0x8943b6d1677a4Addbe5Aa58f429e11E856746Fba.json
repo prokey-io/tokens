@@ -1,0 +1,34 @@
+{
+  "symbol": "$DUI",
+  "address": "0x8943b6d1677a4Addbe5Aa58f429e11E856746Fba",
+  "decimals": 9,
+  "name": "DUI",
+  "ens_address": "",
+  "website": "https://www.duicrypto.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "HUGO",
+  "address": "0xCE195c777e1ce96C30ebeC54C91d20417a068706",
+  "decimals": 9,
+  "name": "Hugo Finance",
+  "ens_address": "",
+  "website": "https://www.hugo.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

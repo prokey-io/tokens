@@ -1,0 +1,34 @@
+{
+  "symbol": "Meme10000x",
+  "address": "0xeDbA2206655d5842Dd51A125df89E0189cECD6e3",
+  "decimals": 9,
+  "name": "Meme10000x",
+  "ens_address": "",
+  "website": "https://meme10000x.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

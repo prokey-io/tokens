@@ -1,0 +1,34 @@
+{
+  "symbol": "SFMS",
+  "address": "0x212fE6ACbd2083BA0fd7c13Bc57100Ce8bf52e75",
+  "decimals": 9,
+  "name": "SafeMoon.Swap",
+  "ens_address": "",
+  "website": "https://www.safe-moon.tech/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "DMOON",
+  "address": "0x1a04364E724A2B9c5A4ff42D777420734e605383",
+  "decimals": 9,
+  "name": "Diamoons",
+  "ens_address": "",
+  "website": "https://diamoons.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

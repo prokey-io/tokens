@@ -1,0 +1,34 @@
+{
+  "symbol": "CCAKE",
+  "address": "0xc7091AA18598b87588e37501b6Ce865263CD67Ce",
+  "decimals": 18,
+  "name": "CheesecakeSwap Token",
+  "ens_address": "",
+  "website": "https://cheesecakeswap.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

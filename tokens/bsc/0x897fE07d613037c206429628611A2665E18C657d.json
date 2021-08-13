@@ -1,0 +1,34 @@
+{
+  "symbol": "NN",
+  "address": "0x897fE07d613037c206429628611A2665E18C657d",
+  "decimals": 18,
+  "name": "Nether",
+  "ens_address": "",
+  "website": "https://nether.network/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

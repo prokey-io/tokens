@@ -1,0 +1,34 @@
+{
+  "symbol": "RBT",
+  "address": "0x891E4554227385c5c740F9B483E935E3CbC29F01",
+  "decimals": 18,
+  "name": "Robust Token",
+  "ens_address": "",
+  "website": "https://robustprotocol.fi",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

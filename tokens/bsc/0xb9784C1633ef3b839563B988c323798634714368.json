@@ -1,0 +1,34 @@
+{
+  "symbol": "PHO",
+  "address": "0xb9784C1633ef3b839563B988c323798634714368",
+  "decimals": 8,
+  "name": "Phoswap",
+  "ens_address": "",
+  "website": "https://phoswap.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

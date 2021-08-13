@@ -1,0 +1,34 @@
+{
+  "symbol": "OLIVE",
+  "address": "0x617724974218A18769020A70162165A539c07E8a",
+  "decimals": 18,
+  "name": "OliveCash",
+  "ens_address": "",
+  "website": "https://olive.cash",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

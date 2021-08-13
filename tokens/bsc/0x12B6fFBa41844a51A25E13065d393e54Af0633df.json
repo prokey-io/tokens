@@ -1,0 +1,34 @@
+{
+  "symbol": "DART",
+  "address": "0x12B6fFBa41844a51A25E13065d393e54Af0633df",
+  "decimals": 8,
+  "name": "DartChain",
+  "ens_address": "",
+  "website": "https://dartchain.xyz",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

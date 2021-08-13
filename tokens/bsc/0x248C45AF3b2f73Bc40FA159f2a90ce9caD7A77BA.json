@@ -1,0 +1,34 @@
+{
+  "symbol": "BOGE",
+  "address": "0x248C45AF3b2f73Bc40FA159f2a90ce9caD7A77BA",
+  "decimals": 9,
+  "name": "Bogecoin",
+  "ens_address": "",
+  "website": "https://bogecoin.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

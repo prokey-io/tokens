@@ -1,0 +1,34 @@
+{
+  "symbol": "OSM",
+  "address": "0xfAEFe2e0D056243060A6f640d5735CAE307001C4",
+  "decimals": 9,
+  "name": "Supermoon",
+  "ens_address": "",
+  "website": "https://supermoon.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "SFC",
+  "address": "0x6bbf411a9a50ef4427d64d1Ea74ad294c2BBb0c8",
+  "decimals": 18,
+  "name": "SafeCap Token",
+  "ens_address": "",
+  "website": "https://safecap.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

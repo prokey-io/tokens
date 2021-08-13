@@ -1,0 +1,34 @@
+{
+  "symbol": "HUA",
+  "address": "0x4dfAD9A4cBa318EFC53743b803588B113f8A84Bd",
+  "decimals": 9,
+  "name": "Chihuahua Army",
+  "ens_address": "",
+  "website": "https://chihuahua.army/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

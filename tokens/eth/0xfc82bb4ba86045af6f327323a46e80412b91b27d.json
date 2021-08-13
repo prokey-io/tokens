@@ -1,0 +1,34 @@
+{
+  "symbol": "PROM",
+  "address": "0xfc82bb4ba86045af6f327323a46e80412b91b27d",
+  "decimals": 18,
+  "name": "Prometeus",
+  "ens_address": "",
+  "website": "https://prometeus.io/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/8825/large/G2LY-Dg_.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/promnetwork",
+    "twitter": "prometeusnet",
+    "youtube": ""
+  }
+}

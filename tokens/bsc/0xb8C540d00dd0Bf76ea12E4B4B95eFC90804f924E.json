@@ -1,0 +1,34 @@
+{
+  "symbol": "QUSD",
+  "address": "0xb8C540d00dd0Bf76ea12E4B4B95eFC90804f924E",
+  "decimals": 18,
+  "name": "QUSD",
+  "ens_address": "",
+  "website": "https://qian.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

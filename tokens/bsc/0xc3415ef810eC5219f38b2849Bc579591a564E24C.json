@@ -1,0 +1,34 @@
+{
+  "symbol": "Pako",
+  "address": "0xc3415ef810eC5219f38b2849Bc579591a564E24C",
+  "decimals": 6,
+  "name": "Pako",
+  "ens_address": "",
+  "website": "https://pakotoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

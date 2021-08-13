@@ -1,0 +1,34 @@
+{
+  "symbol": "DODO",
+  "address": "0x43dfc4159d86f3a37a5a4b3d4580b888ad7d4ddd",
+  "decimals": 18,
+  "name": "DODO",
+  "ens_address": "",
+  "website": "https://dodoex.io/",
+  "logo": {
+    "src": "https://assets.coingecko.com/coins/images/12651/large/dodo_logo.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.com/invite/tyKReUK",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/DodoEx/",
+    "slack": "",
+    "telegram": "https://t.me/dodoex_official",
+    "twitter": "BreederDodo",
+    "youtube": ""
+  }
+}

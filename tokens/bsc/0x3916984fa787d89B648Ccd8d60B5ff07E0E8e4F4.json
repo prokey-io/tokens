@@ -1,0 +1,34 @@
+{
+  "symbol": "PUBE",
+  "address": "0x3916984fa787d89B648Ccd8d60B5ff07E0E8e4F4",
+  "decimals": 9,
+  "name": "PUBE Finance",
+  "ens_address": "",
+  "website": "https://pube.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "PAPP",
+  "address": "0xCd77880edea8E7D1f2be011BE560B45B96Ba68Ad",
+  "decimals": 18,
+  "name": "PAPP Mobile",
+  "ens_address": "",
+  "website": "https://pappmobile.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

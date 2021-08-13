@@ -1,0 +1,34 @@
+{
+  "symbol": "HARD",
+  "address": "0xf79037F6f6bE66832DE4E7516be52826BC3cBcc4",
+  "decimals": 6,
+  "name": "Hard Protocol",
+  "ens_address": "",
+  "website": "https://hard.kava.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

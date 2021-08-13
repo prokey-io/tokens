@@ -1,0 +1,34 @@
+{
+  "symbol": "SRA",
+  "address": "0x0607396970188B2e524c1cDe4Af1F9A191DeE150",
+  "decimals": 9,
+  "name": "Sierra",
+  "ens_address": "",
+  "website": "https://SierraToken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

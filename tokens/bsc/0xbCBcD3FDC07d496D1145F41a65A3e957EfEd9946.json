@@ -1,0 +1,34 @@
+{
+  "symbol": "AERO",
+  "address": "0xbCBcD3FDC07d496D1145F41a65A3e957EfEd9946",
+  "decimals": 2,
+  "name": "AERO SWAP",
+  "ens_address": "",
+  "website": "https://aeroswapfinance.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

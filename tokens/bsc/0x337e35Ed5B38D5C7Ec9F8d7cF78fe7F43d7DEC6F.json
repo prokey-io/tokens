@@ -1,0 +1,34 @@
+{
+  "symbol": "NOTSAFEMOON",
+  "address": "0x337e35Ed5B38D5C7Ec9F8d7cF78fe7F43d7DEC6F",
+  "decimals": 9,
+  "name": "NotSafeMoon",
+  "ens_address": "",
+  "website": "https://www.notsafemoon.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

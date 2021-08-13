@@ -1,0 +1,34 @@
+{
+  "symbol": "WINGS",
+  "address": "0x0487b824c8261462F88940f97053E65bDb498446",
+  "decimals": 18,
+  "name": "Wings",
+  "ens_address": "",
+  "website": "https://jetswap.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

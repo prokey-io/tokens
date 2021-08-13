@@ -1,0 +1,34 @@
+{
+  "symbol": "PEPE",
+  "address": "0xa5AC8f8E90762380cCE6C16ABa17Ed6d2Cf75888",
+  "decimals": 9,
+  "name": "PepeMoon",
+  "ens_address": "",
+  "website": "https://www.pepemoon.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

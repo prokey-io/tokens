@@ -1,0 +1,34 @@
+{
+  "symbol": "ETC",
+  "address": "0x3d6545b08693daE087E957cb1180ee38B9e3c25E",
+  "decimals": 18,
+  "name": "Binance-Peg Ethereum Classic",
+  "ens_address": "",
+  "website": "https://ethereumclassic.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "LoveDoge",
+  "address": "0x7144E379C827fA71A7ecAA01d00607cBb7eB1b7A",
+  "decimals": 9,
+  "name": "LoveDoge",
+  "ens_address": "",
+  "website": "https://lovedoge.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "PITJUPITER",
+  "address": "0x359f35085202C8527a0c767557339635A335Eb76",
+  "decimals": 9,
+  "name": "PitJupiter",
+  "ens_address": "",
+  "website": "https://pitjupitertoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

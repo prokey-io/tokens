@@ -1,0 +1,34 @@
+{
+  "symbol": "NFTL",
+  "address": "0xE5904E9816b309d3eD4d061c922f5aa8f3B24C92",
+  "decimals": 18,
+  "name": "Cyber Time Finance",
+  "ens_address": "",
+  "website": "https://cybertime.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

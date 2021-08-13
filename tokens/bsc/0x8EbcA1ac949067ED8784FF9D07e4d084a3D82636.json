@@ -1,0 +1,34 @@
+{
+  "symbol": "FFS2",
+  "address": "0x8EbcA1ac949067ED8784FF9D07e4d084a3D82636",
+  "decimals": 9,
+  "name": "Fuck$ Finance v2.0",
+  "ens_address": "",
+  "website": "https://justbuyitffs.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

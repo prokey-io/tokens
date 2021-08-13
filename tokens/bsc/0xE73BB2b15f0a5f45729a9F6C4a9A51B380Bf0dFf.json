@@ -1,0 +1,34 @@
+{
+  "symbol": "MVEDA",
+  "address": "0xE73BB2b15f0a5f45729a9F6C4a9A51B380Bf0dFf",
+  "decimals": 9,
+  "name": "Medical Veda",
+  "ens_address": "",
+  "website": "http://medicalveda.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "MOONSTORM",
+  "address": "0xbBeA1AC815E5402DF5Ee9c80A93FC3e72119469D",
+  "decimals": 9,
+  "name": "MOONSTORM",
+  "ens_address": "",
+  "website": "https://moonstorm.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

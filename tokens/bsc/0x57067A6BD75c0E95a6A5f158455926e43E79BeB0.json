@@ -1,0 +1,34 @@
+{
+  "symbol": "BLZD",
+  "address": "0x57067A6BD75c0E95a6A5f158455926e43E79BeB0",
+  "decimals": 18,
+  "name": "Blizzard.money",
+  "ens_address": "",
+  "website": "https://blizzard.money",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

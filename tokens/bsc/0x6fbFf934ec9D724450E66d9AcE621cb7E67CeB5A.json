@@ -1,0 +1,34 @@
+{
+  "symbol": "CACT",
+  "address": "0x6fbFf934ec9D724450E66d9AcE621cb7E67CeB5A",
+  "decimals": 9,
+  "name": "Crypto Against Cancer Token",
+  "ens_address": "",
+  "website": "https://cryptoagainstcancer.fund/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "CHIP",
+  "address": "0x7EA2b25C1a558C6F9b4649358183152b0eA4c03f",
+  "decimals": 8,
+  "name": "Bitchip Farm",
+  "ens_address": "",
+  "website": "https://bitchip.farm/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

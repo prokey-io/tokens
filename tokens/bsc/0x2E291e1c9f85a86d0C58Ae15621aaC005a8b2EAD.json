@@ -1,0 +1,34 @@
+{
+  "symbol": "ZEP",
+  "address": "0x2E291e1c9f85a86d0C58Ae15621aaC005a8b2EAD",
+  "decimals": 9,
+  "name": "Zeppelin.dao",
+  "ens_address": "",
+  "website": "https://zeppelindao.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

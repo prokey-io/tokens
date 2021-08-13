@@ -1,0 +1,34 @@
+{
+  "symbol": "MATR",
+  "address": "0x7d6b35ffBCbB8C59c34e4A58D10Bf81654e6Ff6d",
+  "decimals": 8,
+  "name": "Matrix",
+  "ens_address": "",
+  "website": "https://matrixtoken.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

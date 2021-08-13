@@ -1,0 +1,34 @@
+{
+  "symbol": "FROZEN",
+  "address": "0xE7A8E7d7729859EA6eEdbd4D67F8c97A22b11435",
+  "decimals": 18,
+  "name": "Frozencake",
+  "ens_address": "",
+  "website": "https://frozencake.finance",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

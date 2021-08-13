@@ -1,0 +1,34 @@
+{
+  "symbol": "WMUE",
+  "address": "0x00abaA93fAF8fDc4f382135a7A56F9Cf7C3EdD21",
+  "decimals": 18,
+  "name": "Wrapped MonetaryUnit",
+  "ens_address": "",
+  "website": "https://wmue.net/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "UPONLY",
+  "address": "0x5bf1fCE818a59660433F4C1586F4DA1ea705dE27",
+  "decimals": 9,
+  "name": "UPONLY",
+  "ens_address": "",
+  "website": "https://uponlydefi.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

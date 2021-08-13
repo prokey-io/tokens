@@ -1,0 +1,34 @@
+{
+  "symbol": "AIRBNB",
+  "address": "0x2403269d736C7a808C864bAD8c0848c2dE3E348c",
+  "decimals": 9,
+  "name": "AIRBNB",
+  "ens_address": "",
+  "website": "https://www.airbnbtoken.info",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

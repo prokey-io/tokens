@@ -1,0 +1,34 @@
+{
+  "symbol": "DAFI",
+  "address": "0x22439bE3AeBC1590B05E3243780eD4156b629604",
+  "decimals": 18,
+  "name": "DAFI Token",
+  "ens_address": "",
+  "website": "https://dafiprotocol.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

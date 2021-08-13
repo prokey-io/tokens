@@ -1,0 +1,34 @@
+{
+  "symbol": "Shinchan",
+  "address": "0x6d8D19cd276d1E5ecF33F50d40BD6865f614649c",
+  "decimals": 18,
+  "name": "ShinchanBsc",
+  "ens_address": "",
+  "website": "https://shinchanbsc.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

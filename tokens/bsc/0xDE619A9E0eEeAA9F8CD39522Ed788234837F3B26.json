@@ -1,0 +1,34 @@
+{
+  "symbol": "HVI",
+  "address": "0xDE619A9E0eEeAA9F8CD39522Ed788234837F3B26",
+  "decimals": 9,
+  "name": "Hungarian Vizsla Inu",
+  "ens_address": "",
+  "website": "https://vizslainu.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

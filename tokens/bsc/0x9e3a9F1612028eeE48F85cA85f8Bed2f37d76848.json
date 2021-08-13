@@ -1,0 +1,34 @@
+{
+  "symbol": "QDX",
+  "address": "0x9e3a9F1612028eeE48F85cA85f8Bed2f37d76848",
+  "decimals": 18,
+  "name": "Quidax Token",
+  "ens_address": "",
+  "website": "https://quidax.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

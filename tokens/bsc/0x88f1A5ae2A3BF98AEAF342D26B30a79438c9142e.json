@@ -1,0 +1,34 @@
+{
+  "symbol": "YFI",
+  "address": "0x88f1A5ae2A3BF98AEAF342D26B30a79438c9142e",
+  "decimals": 18,
+  "name": "yearn.finance",
+  "ens_address": "",
+  "website": "https://yearn.finance/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
